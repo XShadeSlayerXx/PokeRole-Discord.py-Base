@@ -42,18 +42,18 @@ Rock Incense,Adds 1 damage die to Rock type moves.,Rock,1,,,,,,,,,,
 Rose Incense,Adds 1 damage die to Grass type moves.,Grass,1,,,,,,,,,,
 Sea Incense,Adds 1 damage die to Water type moves.,Water,1,,,,,,,,,,
 Wave Incense,Adds 1 damage die to Water type moves.,Water,1,,,,,,,,,,
-Adamant Orb,Adds 1 damage die to Dragon and Steel type moves when held by Dialga.,"Dragon, Steel",1,,,,,,,,,,Dialga
-Deep Sea Scale,Increases Clamperl's Special Defense by 2.,N/A,,,,,,,,2,,,Clamperl
-Deep Sea Tooth,Increases Clamperl's Special by 2.,N/A,,,,,2,,,,,,Clamperl
-Gaseous Orb,Adds 1 damage die to Dragon and Ghost type moves when held by Giratina,"Dragon, Ghost",1,,,,,,,,,,Giratina
-Light Ball,Pikachu gains 2 Strength and 2 Special.,N/A,,2,,,2,,,,,,"Pikachu, Delta Pikachu"
-Lucky Punch,Increases Chansey's or Blissey's Strength by 2.,N/A,,2,,,,,,,,,Chansey Blissey
-Lustrous Orb,Adds 1 damage die to Dragon and Water type moves when held by Palkia.,"Dragon, Water",1,,,,,,,,,,Palkia
+Adamant Orb,Adds 1 damage die to Dragon and Steel type moves when held by Dialga.,"Dragon, Steel",1,,,,,,,,,,['Dialga']
+Deep Sea Scale,Increases Clamperl's Special Defense by 2.,N/A,,,,,,,,2,,,['Clamperl']
+Deep Sea Tooth,Increases Clamperl's Special by 2.,N/A,,,,,2,,,,,,['Clamperl']
+Gaseous Orb,Adds 1 damage die to Dragon and Ghost type moves when held by Giratina,"Dragon, Ghost",1,,,,,,,,,,['Giratina']
+Light Ball,Pikachu gains 2 Strength and 2 Special.,N/A,,2,,,2,,,,,,"['Pikachu, Delta Pikachu']"
+Lucky Punch,Increases Chansey's or Blissey's Strength by 2.,N/A,,2,,,,,,,,,"['Chansey', 'Blissey']"
+Lustrous Orb,Adds 1 damage die to Dragon and Water type moves when held by Palkia.,"Dragon, Water",1,,,,,,,,,,['Palkia']
 Leek,All of Farfetch'd's attacks are now High Criticals.,N/A,,,,,,,,,,,
-Metal Powder,Increases Ditto's Defense by 2. Does not work when transformed.,N/A,,,,,,,2,,,,Ditto
-Quick Powder,Increases Ditto's Dexterity by 2. Does not work when transformed.,N/A,,,2,,,,,,,,Ditto
-Soul Dew,Adds 1 damage die to Dragon and Psychic moves when held by Latios/Latias.,"Psychic, Dragon",1,,,,,,,,,,"Latios, Latias"
-Thick Club,Increases Cubone's and Marowak's Strength by 2.,N/A,,2,,,,,,,,,"Cubone, Marowak, Alolan Marowak"
+Metal Powder,Increases Ditto's Defense by 2. Does not work when transformed.,N/A,,,,,,,2,,,,['Ditto']
+Quick Powder,Increases Ditto's Dexterity by 2. Does not work when transformed.,N/A,,,2,,,,,,,,['Ditto']
+Soul Dew,Adds 1 damage die to Dragon and Psychic moves when held by Latios/Latias.,"Psychic, Dragon",1,,,,,,,,,,"['Latios, Latias']"
+Thick Club,Increases Cubone's and Marowak's Strength by 2.,N/A,,2,,,,,,,,,"['Cubone', 'Marowak', 'Alolan Marowak']"
 Amulet Coin,Doubles all prize money.,N/A,,,,,,,,,,,
 Eviolite,Unevolved Pokemon gain 1 Defense and Special Defense.,N/A,,,,,,,,,,,
 Expert Belt,Super effective moves deal 1 additional damage.,N/A,,,,,,,,,,,
@@ -182,23 +182,36 @@ Psychium Z,It converts Z-Power into crystals that upgrade Bug-type moves to Psyc
 Rockium Z,It converts Z-Power into crystals that upgrade Bug-type moves to Rock-type Z-Moves.,,,,,,,,,,,,
 Steelium Z,It converts Z-Power into crystals that upgrade Bug-type moves to Steel-type Z-Moves.,,,,,,,,,,,,
 Waterium Z,It converts Z-Power into crystals that upgrade Bug-type moves to Water-type Z-Moves.,,,,,,,,,,,,
-Pikanium Z,"This is a crystallized form of Z-Power. It upgrades Pikachu's Volt Tackle to a Z-Move.",,,,,,,,,,,,
+Pikanium Z,"This is a crystallized form of Z-Power. It upgrades Pikachu's Volt Tackle to a Z-Move.
+",,,,,,,,,,,,
 Pikashunium Z,This is a crystallized form of Z-Power. It upgrades Pikachu's Thunderbolt to a Z-Move.,,,,,,,,,,,,
 Aloraichium Z,This is a crystallized form of Z-Power. It upgrades Alolan Raichu's Thunderbolt to a Z-Move.,,,,,,,,,,,,
-Eevium Z,"This is a crystallized form of Z-Power. It upgrades Eevee's Last Resort to a Z-Move.",,,,,,,,,,,,
-Snorlium Z,"This is a crystallized form of Z-Power. It upgrades Snorlax's Giga Impact to a Z-Move.",,,,,,,,,,,,
-Mewnium Z,"This is a crystallized form of Z-Power. It upgrades Mew's Psychic to a Z-Move.",,,,,,,,,,,,
+Eevium Z,"This is a crystallized form of Z-Power. It upgrades Eevee's Last Resort to a Z-Move.
+",,,,,,,,,,,,
+Snorlium Z,"This is a crystallized form of Z-Power. It upgrades Snorlax's Giga Impact to a Z-Move.
+",,,,,,,,,,,,
+Mewnium Z,"This is a crystallized form of Z-Power. It upgrades Mew's Psychic to a Z-Move.
+",,,,,,,,,,,,
 Decidium Z,This is a crystallized form of Z-Power. It upgrades Decidueye's Spirit Shackle to a Z-Move.,,,,,,,,,,,,
 Incinium Z,This is a crystallized form of Z-Power. It upgrades Incineroar's Darkest Lariat to a Z-Move.,,,,,,,,,,,,
-Primarium Z,"This is a crystallized form of Z-Power. It upgrades Primarina's Sparkling Aria to a Z-Move.",,,,,,,,,,,,
-Lycanium Z,"This is a crystallized form of Z-Power. It upgrades Lycanroc's Stone Edge to a Z-Move.",,,,,,,,,,,,
-Mimikium Z,"This is a crystallized form of Z-Power. It upgrades Mimikyu's Play Rough to a Z-Move.",,,,,,,,,,,,
-Kommonium Z,"This is a crystallized form of Z-Power. It upgrades Kommo-o's Clanging Scales to a Z-Move.",,,,,,,,,,,,
-Tapunium Z,"This is a crystallized form of Z-Power. It upgrades the tapu's Nature's Madness to a Z-Move.",,,,,,,,,,,,
-Solganium Z,"This is a crystallized form of Z-Power. It upgrades Solgaleo's Sunsteel Strike to a Z-Move.",,,,,,,,,,,,
-Lunalium Z,"This is a crystallized form of Z-Power. It upgrades Lunala's Moongeist Beam to a Z-Move.",,,,,,,,,,,,
-Ultranecrozium Z,"This is a crystallized form of Z-Power. It upgrades Necrozma's Photon Geyser to a Z-Move.",,,,,,,,,,,,
-Marshadium Z,"This is a crystallized form of Z-Power. It upgrades Marshadow's Spectral Thief to a Z-Move.",,,,,,,,,,,,
+Primarium Z,"This is a crystallized form of Z-Power. It upgrades Primarina's Sparkling Aria to a Z-Move.
+",,,,,,,,,,,,
+Lycanium Z,"This is a crystallized form of Z-Power. It upgrades Lycanroc's Stone Edge to a Z-Move.
+",,,,,,,,,,,,
+Mimikium Z,"This is a crystallized form of Z-Power. It upgrades Mimikyu's Play Rough to a Z-Move.
+",,,,,,,,,,,,
+Kommonium Z,"This is a crystallized form of Z-Power. It upgrades Kommo-o's Clanging Scales to a Z-Move.
+",,,,,,,,,,,,
+Tapunium Z,"This is a crystallized form of Z-Power. It upgrades the tapu's Nature's Madness to a Z-Move.
+",,,,,,,,,,,,
+Solganium Z,"This is a crystallized form of Z-Power. It upgrades Solgaleo's Sunsteel Strike to a Z-Move.
+",,,,,,,,,,,,
+Lunalium Z,"This is a crystallized form of Z-Power. It upgrades Lunala's Moongeist Beam to a Z-Move.
+",,,,,,,,,,,,
+Ultranecrozium Z,"This is a crystallized form of Z-Power. It upgrades Necrozma's Photon Geyser to a Z-Move.
+",,,,,,,,,,,,
+Marshadium Z,"This is a crystallized form of Z-Power. It upgrades Marshadow's Spectral Thief to a Z-Move.
+",,,,,,,,,,,,
 Cheri Berry,Eating this Berry will cure Paralysis.,,,,,,,,,,,,
 Chesto Berry,Eating this Berry will cure Sleep.,,,,,,,,,,,,
 Pecha Berry,Eating this Berry will cure Poison.,,,,,,,,,,,,
