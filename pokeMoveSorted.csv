@@ -117,8 +117,8 @@ Cross Poison,poison,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical. Roll
 Crunch,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal. Roll 1 Chance Dice to reduce foe's Defense.
 Crush Claw,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 5 Chance Dice to Reduce the target's Defense by 2. Lethal.
 Crush Grip,normal,PHYSICAL,1,STRENGTH,,STRENGTH,BRAWL,Foe,"Lethal. If the foe has a Base HP higher than 3, add 1 Die to the Damage pool for every exceeding point. Up to 9 Dice may be added this way"
-Curse,ghost,SUPPORT,0,,,WILL,CHANNEL,Foe,Roll half the user's HP as damage dice to itself. The target now has 2 additional in all of its rolls. these dice always land as '1'.
-Curse (Non-Ghost User),ghost,SUPPORT,0,,,WILL,CHANNEL,User,Increase the User's Strength and Defend. Reduce the User's Speed. This effect is only for Pokémon who are not Ghost-Type.
+Curse,ghost,SUPPORT,0,,,WILL,CHANNEL,Foe,"Roll half the user's HP as damage dice to itselff, ignoring defenses. The Target will remove 1 success from all of their Rolls until the Curse is lifted."
+Curse (Non-Ghost User),ghost,SUPPORT,0,,,WILL,CHANNEL,User,Increase the User's Strength and Defense. Reduce the User's Dexterity. This effect is only for Pokémon who are not Ghost-Type.
 Cut,normal,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,May be used to cut down trees and clear paths.
 Dark Pulse,dark,SPECIAL,3,SPECIAL,,INSIGHT,CHANNEL,Random Foe,Targets random foe. Roll 2 Chance Dice to Flinch the foe.
 Dark Void,dark,SUPPORT,0,,,INSIGHT,CHANNEL,All Foes,All Foes in Range have the Sleep condition
