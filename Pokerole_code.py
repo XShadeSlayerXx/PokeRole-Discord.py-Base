@@ -19,11 +19,42 @@
 ####next line goes at the very bottom
 #bot.run(token)
 #
+#######
+
+#---------------------------Items---------------------------
+pkmnItems = dict()
+
+async def instantiateItemList():
+    with open('PokeRoleItems.csv', 'r', encoding = "WINDOWS-1252") as file:
+        reader = csv.reader(file)
+        for row in reader:
+            pkmnItems.update({row[0]:[row[1], row[13]]})
+        pkmnItems.pop('Name')
+
+async def pkmnitemhelper(item):
+    if len(pkmnItems.keys()) == 0:
+        await instantiateItemList()
+    return pkmnItems[item.title()]
+
+@bot.command(name = 'item', help = 'List an item\'s traits')
+async def pkmn_search(ctx, *, itemname):
+    try:
+        found = await pkmnitemhelper(itemname.strip().title())
+
+        output = f'__{itemname.title()}__\n'
+        if found[1] != '':
+            output += f'**Pokemon**: {", ".join(found[1])}\n'
+        output += f'**Description**: {found[0].capitalize()}'
+
+        await ctx.send(output)
+    except:
+        await ctx.send(f'{itemname} wasn\'t found in the item list.')
+
 #---------------------------Moves---------------------------
 pkmnMoves = dict()
 
 async def instantiatePkmnMoveList():
-    with open('pokeMoveSorted.csv', 'r', newline = '', encoding = "cp437") as infile:
+    with open('pokeMoveSorted.csv', 'r', newline = '', encoding = "WINDOWS-1252") as infile:
         reader = csv.reader(infile)
         for row in reader:
             pkmnMoves.update({row[0]: row[1:]})
@@ -52,7 +83,7 @@ async def pkmn_search(ctx, *, term):
 pkmnStats = dict()
 
 async def instantiatePkmnStatList():
-    with open('PokeroleStats.csv', 'r', newline = '', encoding = "cp437") as infile:
+    with open('PokeroleStats.csv', 'r', newline = '', encoding = "WINDOWS-1252") as infile:
         reader = csv.reader(infile)
         for row in reader:
             pkmnStats.update({row[1]: [row[0]] + row[2:]})
@@ -96,7 +127,7 @@ async def pkmn_search(ctx, *, term):
 pkmnLearns = dict()
 
 async def instantiatePkmnLearnsList():
-    with open('PokeLearnMovesGens1to6.csv', 'r', newline = '', encoding = "cp437") as infile:
+    with open('PokeLearnMovesGens1to6.csv', 'r', newline = '', encoding = "WINDOWS-1252") as infile:
         reader = csv.reader(infile)
         for row in reader:
             pkmnLearns.update({row[0][4:]: row[1:]})

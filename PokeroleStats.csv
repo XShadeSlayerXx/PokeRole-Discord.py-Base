@@ -32,6 +32,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #027A,Alolan Sandshrew,Ice,Steel,3,2,5,1,3,2,5,1,2,1,3,Snow Cloak,,Sludh Rush,,Yes,,Beginner,
 #028,Sandslash,Ground,,4,3,6,2,4,3,6,2,4,2,4,Sand Veil,,Sand Rush,,,,Amateur,
 #028A,Alolan Sandslash,Ice,Steel,4,3,6,2,4,3,7,1,3,2,4,Snow Cloak,,Sludh Rush,,,,Amateur,
+#029,Nidoran,Poison,,3,2,4,1,3,2,4,1,3,1,3,Poison Point,Rivalry,Hustle,,Yes,,Beginner,F
 #029,Nidoran♀,Poison,,3,2,4,1,3,2,4,1,3,1,3,Poison Point,Rivalry,Hustle,,Yes,,Beginner,F
 #030,Nidorina,Poison,,4,2,4,2,4,2,4,2,4,2,4,Poison Point,Rivalry,Hustle,,Yes,,Amateur,F
 #031,Nidoqueen,Poison,Ground,5,3,6,2,5,2,5,2,5,2,5,Poison Point,Rivalry,Sheer Force,,Yes,,Ace,F
