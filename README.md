@@ -5,5 +5,5 @@ Next goal: Add every item into the csv file.
 
 How to help: Send a message in the #resources--talk channel to avoid work overlap! Work goes on the update-items branch please.
 
-Just have the last 40 Pokemon to go!
-Thank you rrezende88 and SK91 for helping with the last 2 generations!
+Just have the last 20 Pokemon to go! (850-869)
+Thank you SK91, rrezende88, and darthinvader for helping with the last 2 generations!
