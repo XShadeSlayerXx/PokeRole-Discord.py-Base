@@ -25,7 +25,7 @@
 pkmnItems = dict()
 
 async def instantiateItemList():
-    with open('PokeRoleItems.csv', 'r', encoding = "WINDOWS-1252") as file:
+    with open('PokeRoleItems.csv', 'r', encoding = "UTF-8") as file:
         reader = csv.reader(file)
         for row in reader:
             pkmnItems.update({row[0]:[row[1], row[13]]})
@@ -127,7 +127,7 @@ async def pkmn_search(ctx, *, term):
 pkmnLearns = dict()
 
 async def instantiatePkmnLearnsList():
-    with open('PokeLearnMovesGens1to6.csv', 'r', newline = '', encoding = "WINDOWS-1252") as infile:
+    with open('PokeLearnMovesFull.csv', 'r', newline = '', encoding = "WINDOWS-1252") as infile:
         reader = csv.reader(infile)
         for row in reader:
             pkmnLearns.update({row[0][4:]: row[1:]})
