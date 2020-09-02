@@ -2,21 +2,27 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #001,Bulbasaur,Grass,Poison,3,2,4,2,4,2,4,2,4,2,4,Overgrow,,Chlorophyll,,Yes,,Beginner,
 #002,Ivysaur,Grass,Poison,4,2,4,2,4,2,4,2,5,2,5,Overgrow,,Chlorophyll,,Yes,,Amateur,
 #003,Venusaur,Grass,Poison,5,2,5,2,5,2,5,3,6,3,6,Overgrow,,Chlorophyll,,,Yes,Ace,
+#003,Mega-Venusaur,Grass,Poison,6,3,6,2,5,3,7,3,6,3,6,Thick Fat,,,,,,Pro,
 #004,Charmander,Fire,,3,2,4,2,4,1,3,2,4,2,4,Blaze,,Solar Power,,Yes,,Beginner,
 #005,Charmeleon,Fire,,4,2,4,2,5,2,4,2,5,2,4,Blaze,,Solar Power,,Yes,,Amateur,
 #006,Charizard,Fire,Flying,5,2,5,3,6,2,5,3,6,2,5,Blaze,,Solar Power,,,Yes,Ace,
+#006,Mega-Charizard Y,Fire,Flying,6,3,6,3,6,2,5,4,8,3,6,Drought,,,,,,Pro,
+#006,Mega-Charizard X,Fire,Dragon,6,3,7,3,6,3,6,3,7,2,5,Tough Claws,,,,,,Pro,
 #007,Squirtle,Water,,3,2,4,1,3,2,4,2,4,2,4,Torrent,,Rain Dish,,Yes,,Beginner,
 #008,Wartortle,Water,,4,2,4,2,4,2,5,2,4,2,5,Torrent,,Rain Dish,,Yes,,Amateur,
 #009,Blastoise,Water,,5,2,5,2,5,3,6,2,5,3,6,Torrent,,Rain Dish,,,Yes,Ace,
+#009,Mega-Blastoise,Water,,6,3,6,2,5,3,7,3,6,3,6,Mega Launcher,,,,,,Pro,
 #010,Caterpie,Bug,,3,1,3,2,4,1,3,1,3,1,3,Shield Dust,,Run Away,,Yes,,Starter,
 #011,Metapod,Bug,,4,1,3,1,3,2,4,1,3,1,3,Shed Skin,,,,Yes,,Beginner,
 #012,Butterfree,Bug,Flying,5,2,4,2,5,2,4,2,5,2,5,Compound Eyes,,Tinted Lens,,,,Amateur,
 #013,Weedle,Bug,Poison,3,1,3,2,4,1,3,1,3,1,3,Shield Dust,,Run Away,,Yes,,Starter,
 #014,Kakuna,Bug,Poison,4,1,3,1,3,2,4,1,3,1,3,Shed Skin,,,,Yes,,Beginner,
 #015,Beedrill,Bug,Poison,5,2,5,2,5,2,4,2,4,2,5,Swarm,,Sniper,,,Yes,Amateur,
+#015,Mega-Beedrill,Bug,Poison,6,4,8,4,8,1,3,1,2,2,5,Adaptability,,,,,,Ace,
 #016,Pidgey,Normal,Flying,3,2,4,2,4,1,3,1,3,1,3,Keen Eye,Tangled Feet,Big Pecks,,Yes,,Beginner,
 #017,Pidgeotto,Normal,Flying,4,2,4,2,5,2,4,2,4,2,4,Keen Eye,Tangled Feet,Big Pecks,,Yes,,Amateur,
 #018,Pidgeot,Normal,Flying,5,2,5,3,6,2,5,2,5,2,5,Keen Eye,Tangled Feet,Big Pecks,,,Yes,Ace,
+#018,Mega-Pidgeot,Normal,Flying,6,2,5,3,7,2,5,3,7,2,5,No Guard,,,,,,Pro,
 #019,Rattata,Normal,,3,2,4,2,5,1,3,1,3,1,3,Run Away,Guts,Hustle,,Yes,,Starter,
 #019A,Alolan Rattata,Dark,Normal,3,2,4,2,5,1,3,1,3,1,3,Gluttony,Hustle,Thick Fat,,Yes,,Starter,
 #020,Raticate,Normal,,4,2,5,3,6,2,4,2,4,2,5,Run Away,Guts,Hustle,,,,Amateur,
@@ -76,6 +82,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #063,Abra,Psychic,,3,1,3,2,5,1,2,3,6,1,3,Synchronize,Inner Focus,Magic Guard,,Yes,,Beginner,
 #064,Kadabra,Psychic,,4,1,3,3,6,1,3,3,7,2,5,Synchronize,Inner Focus,Magic Guard,,Yes,,Amateur,
 #065,Alakazam,Psychic,,5,2,4,3,7,2,4,3,7,3,6,Synchronize,Inner Focus,Magic Guard,,,Yes,Ace,
+#065,Mega-Alakazam,Psychic,,6,2,4,4,8,2,4,4,9,3,6,Trace,,,,,,Pro,
 #066,Machop,Fighting,,3,2,5,1,3,2,4,1,3,1,3,Guts,No Guard,Steadfast,,Yes,,Beginner,
 #067,Machoke,Fighting,,4,3,6,2,4,2,5,2,4,2,4,Guts,No Guard,Steadfast,,Yes,,Amateur,
 #068,Machamp,Fighting,,5,3,7,2,4,2,5,2,4,2,5,Guts,No Guard,Steadfast,,,,Ace,
@@ -97,6 +104,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #079,Slowpoke,Water,Psychic,4,2,4,1,2,2,4,1,3,1,3,Oblivious,Own Tempo,Regenerator,,Yes,,Beginner,
 #079G,Galarian Slowpoke,Psychic,,4,2,4,1,2,2,4,1,3,1,3,Gluttony,Own Tempo,Regenerator,,,,Beginner,
 #080,Slowbro,Water,Psychic,5,2,5,1,3,4,6,3,6,2,5,Oblivious,Own Tempo,Regenerator,,,Yes,Amateur,
+#080,Mega-Slowbro,Water,Psychic,5,2,5,1,2,4,9,3,7,2,5,Shell Armor,,,,,,Ace,
 #081,Magnemite,Electric,Steel,3,2,4,2,5,2,4,2,4,2,4,Magnet Pull,Sturdy,Analytic,,Yes,,Beginner,N
 #082,Magneton,Electric,Steel,4,2,4,2,5,3,6,3,7,2,6,Magnet Pull,Sturdy,Analytic,,Yes,,Amateur,N
 #083,Farfetch'd,Normal,Flying,4,2,5,2,4,2,4,2,4,2,4,Keen Eye,Inner Focus,Defiant,,,,Beginner,
@@ -114,6 +122,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #092,Gastly,Ghost,Poison,4,1,3,2,5,1,3,3,6,1,3,Levitate,,,,Yes,,Beginner,
 #093,Haunter,Ghost,Poison,4,2,4,3,6,2,4,3,6,2,4,Levitate,,,,Yes,,Amateur,
 #094,Gengar,Ghost,Poison,5,2,4,3,6,2,4,3,7,2,5,Cursed Body,,,,,Yes,Ace,
+#094,Mega-Gengar,Ghost,Poison,6,2,4,3,7,2,5,3,9,3,6,Shadow Tag,,,,,,Pro,
 #095,Onix,Rock,Ground,8,2,4,2,5,4,8,1,3,2,4,Rock Head,Sturdy,Weak Armor,,Yes,,Amateur,
 #096,Drowzee,Psychic,,3,2,4,1,3,2,4,1,3,2,5,Insomnia,Forewarn,Inner Focus,,Yes,,Beginner,
 #097,Hypno,Psychic,,4,2,5,2,4,2,5,2,5,3,6,Insomnia,Forewarn,Inner Focus,,,,Amateur,
@@ -138,6 +147,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #113,Chansey,Normal,,12,1,2,2,4,1,2,1,3,3,6,Natural Cure,Serene Grace,Healer,,Yes,,Beginner,F
 #114,Tangela,Grass,,3,2,4,2,4,3,6,3,6,1,3,Chlorophyll,Leaf Guard,Regenerator,,Yes,,Amateur,
 #115,Kangaskhan,Normal,,5,3,6,2,5,2,5,1,3,2,5,Early Bird,Scrappy,Inner Focus,,,Yes,Amateur,F
+#115,Mega-Kangaskhan,Normal,,6,3,7,3,6,3,6,2,4,3,6,Parental Bond,,,,,,Ace,F
 #116,Horsea,Water,,3,2,4,2,4,2,5,2,5,1,3,Swift Swim,Sniper,Damp,,Yes,,Beginner,
 #117,Seadra,Water,,4,2,4,2,5,3,6,3,6,2,4,Poison Point,Sniper,Damp,,Yes,,Amateur,
 #118,Goldeen,Water,,3,2,4,2,4,2,4,1,3,2,4,Swift Swim,Water Veil,Lightning Rod,,Yes,,Beginner,
@@ -151,9 +161,11 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #125,Electabuzz,Electric,,4,2,5,3,6,2,4,3,6,2,5,Static,,Vital Spirit,,Yes,,Amateur,
 #126,Magmar,Fire,,4,3,6,2,5,2,4,3,6,2,5,Flame Body,,Vital Spirit,,Yes,,Amateur,
 #127,Pinsir,Bug,,4,3,7,2,5,3,6,2,4,2,5,Hyper Cutter,Mold Breaker,Moxie,,,Yes,Amateur,
+#127,Mega-Pinsir,Bug,Flying,5,4,8,3,6,3,7,2,4,2,5,Aerialate,,,,,,Ace,
 #128,Tauros,Normal,,4,3,6,3,6,3,6,1,3,2,5,Intimidate,Anger Point,Sheer Force,,,,Amateur,M
 #129,Magikarp,Water,,3,1,2,2,5,2,4,1,2,1,3,Swift Swim,,Rattled,,Yes,,Starter,
 #130,Gyarados,Water,Flying,7,3,7,2,5,2,5,2,4,3,6,Intimidate,,Moxie,,,Yes,Ace,
+#130,Mega-Gyarados,Water,Dark,8,4,8,2,5,3,6,2,5,3,7,Mold Breaker,,,,,,Pro,
 #131,Lapras,Water,Ice,6,2,5,2,4,2,5,2,5,3,6,Water Absorb,Shell Armor,Hydration,,,,Amateur,
 #132,Ditto,Normal,,4,2,4,2,4,2,4,2,4,2,4,Limber,,Imposter,,,,Amateur,N
 #133,Eevee,Normal,,3,2,4,2,4,2,4,2,4,2,4,Run Away,Adaptibility,Anticipation,,Yes,Yes,Beginner,
@@ -166,6 +178,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #140,Kabuto,Rock,Water,3,2,5,2,4,2,5,2,4,2,4,Swift Swim,Battle Armor,Weak Armor,,Yes,,Beginner,
 #141,Kabutops,Rock,Water,4,3,6,2,5,3,6,2,4,2,5,Swift Swim,Battle Armor,Weak Armor,,,,Ace,
 #142,Aerodactyl,Rock,Flying,4,3,6,3,7,2,4,2,4,2,5,Rock Head,Pressure,Unnerve,,,Yes,Ace,
+#142,Mega-Aerodactyl,Rock,Flying,5,3,7,3,7,2,5,2,5,3,6,Tough Claws,,,,,,Pro,
 #143,Snorlax,Normal,,8,3,6,1,3,2,4,2,4,3,6,Immunity,Thick Fat,Gluttony,,,,Amateur,
 #144,Articuno,Ice,Flying,4,5,5,5,5,6,6,6,6,7,7,Pressure,,Snow Cloak,,,,Master,N
 #145,Zapdos,Electric,Flying,4,5,5,6,6,5,5,7,7,5,5,Pressure,,Static,,,,Master,N
@@ -174,6 +187,8 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #148,Dragonair,Dragon,,6,2,5,2,5,2,4,2,5,2,5,Shed Skin,,Marvel Scale,,Yes,,Ace,
 #149,Dragonite,Dragon,Flying,6,3,7,2,5,3,6,3,6,3,6,Inner Focus,,Multiscale,,,,Master,
 #150,Mewtwo,Psychic,,5,6,6,7,7,5,5,8,8,5,5,Pressure,,Unnerve,,,Yes,Master,N
+#150,Mega-Mewtwo Y,Psychic,,6,8,8,7,7,5,5,10,10,7,7,Insomnia,,,,,,Master,N
+#150,Mega-Mewtwo X,Psychic,Fighting,6,9,9,7,7,6,6,7,7,6,6,Steadfast,,,,,,Master,N
 #151,Mew,Psychic,,5,6,6,6,6,6,6,6,6,6,6,Synchronize,,,,,,Master,N
 #152,Chikorita,Grass,,3,2,4,2,4,2,4,2,4,2,4,Overgrow,,Leaf Guard,,Yes,,Starter,
 #153,Bayleef,Grass,,4,2,4,2,4,2,5,2,4,2,5,Overgrow,,Leaf Guard,,Yes,,Amateur,
@@ -205,6 +220,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #179,Mareep,Electric,,3,1,3,1,3,1,3,2,4,2,4,Static,,Plus,,Yes,,Beginner,
 #180,Flaaffy,Electric,,4,2,4,2,4,2,4,2,5,2,4,Static,,Plus,,Yes,,Amateur,
 #181,Ampharos,Electric,,5,2,5,2,4,2,5,3,6,2,5,Static,,Plus,,,Yes,Ace,
+#181,Mega-Ampharos,Electric,Dragon,6,3,6,2,4,3,6,4,8,3,6,Mold Breaker,,,,,,Pro,
 #182,Bellossom,Grass,,5,2,5,2,4,2,5,2,5,3,6,Chlorophyll,,Healer,,,,Amateur,
 #183,Marill,Water,Fairy,4,1,3,1,3,2,4,1,3,2,4,Thick Fat,Huge Power,Sap Sipper,,Yes,,Beginner,
 #184,Azumarill,Water,Fairy,5,2,4,2,4,2,5,2,4,2,5,Thick Fat,Huge Power,Sap Sipper,,,,Amateur,
@@ -232,12 +248,15 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #206,Dunsparce,Normal,,5,2,5,2,4,2,5,2,4,2,4,Serene Grace,Run Away,Rattled,,,,Amateur,
 #207,Gligar,Ground,Flying,3,2,5,2,5,3,6,1,3,2,4,Hyper Cutter,Sand Veil,Immunity,,Yes,,Beginner,
 #208,Steelix,Steel,Ground,9,2,5,1,3,5,10,2,4,2,4,Rock Head,Sturdy,Sheer Force,,,Yes,Pro,
+#208,Mega-Steelix,Steel,Ground,10,3,7,1,2,5,11,2,4,3,6,Sand Force,,,,,,Master,
 #209,Snubbull,Fairy,,3,2,5,1,3,2,4,1,3,1,3,Intimidate,Run Away,Rattled,,Yes,,Starter,
 #210,Granbull,Fairy,,4,3,7,2,4,2,5,2,4,2,4,Intimidate,Quick Feet,Rattled,,,,Beginner,
 #211,Qwilfish,Water,Poison,4,3,6,2,5,2,5,2,4,2,4,Poison Point,Swift Swim,Intimidate,,,,Amateur,
 #212,Scizor,Bug,Steel,4,3,7,2,4,3,6,2,4,2,4,Swarm,Technician,Light Metal,,,Yes,Ace,
+#212,Mega-Scizor,Bug,Steel,5,4,8,2,5,3,7,2,4,3,6,Technician,,,,,,Pro,
 #213,Shuckle,Bug,Rock,4,1,2,1,2,5,10,1,2,5,10,Sturdy,Gluttony,Contrary,,,,Amateur,
 #214,Heracross,Bug,Fighting,4,3,6,2,5,2,5,1,3,3,6,Swarm,Guts,Moxie,,,Yes,Amateur,
+#214,Mega-Heracross,Bug,Fighting,5,4,9,2,5,3,6,1,2,3,6,Skill Link,,,,,,Ace,
 #215,Sneasel,Dark,Ice,3,3,6,3,6,2,4,1,3,2,5,Inner Focus,Keen Eye,Pickpocket,,Yes,,Amateur,
 #216,Teddiursa,Normal,,3,2,5,1,3,2,4,2,4,2,4,Pickup,Quick Feet,Honey Gather,,Yes,,Beginner,
 #217,Ursaring,Normal,,4,3,7,2,4,2,5,2,5,2,5,Guts,Quick Feet,Unnerve,,,,Ace,
@@ -254,6 +273,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #227,Skarmory,Steel,Flying,4,2,5,2,5,3,7,1,3,2,5,Keen Eye,Sturdy,Weak Armor,,,,Ace,
 #228,Houndour,Dark,Fire,3,2,4,2,4,1,3,2,5,2,4,Early Bird,Flash Fire,Unnerve,,Yes,,Beginner,
 #229,Houndoom,Dark,Fire,4,2,5,3,6,2,4,3,6,2,5,Early Bird,Flash Fire,Unnerve,,,Yes,Amateur,
+#229,Mega-Houndoom,Dark,Fire,5,2,5,3,6,2,5,4,8,2,5,Solar Power,,,,,,Ace,
 #230,Kingdra,Water,Dragon,5,3,6,2,5,3,6,3,6,3,6,Swift Swim,Sniper,Damp,,,,Ace,
 #231,Phanpy,Ground,,3,2,4,1,3,2,4,1,3,1,3,Pickup,,Sand Veil,,Yes,,Beginner,
 #232,Donphan,Ground,,4,3,7,2,4,3,6,2,4,2,4,Pickup,,Sand Veil,,,,Amateur,
@@ -273,18 +293,22 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #246,Larvitar,Rock,Ground,3,2,4,1,3,2,4,2,4,2,4,Guts,,Sand Veil,,Yes,,Amateur,
 #247,Pupitar,Rock,Ground,4,2,5,2,4,2,5,2,4,2,5,Shed Skin,,,,Yes,,Ace,
 #248,Tyranitar,Rock,Dark,6,3,7,2,5,3,6,3,6,3,6,Sand Stream,,Unnverve,,,Yes,Pro,
+#248,Mega-Tyranitar,Rock,Dark,7,4,8,2,5,4,8,3,6,3,7,Sand Stream,,,,,,Master,
 #249,Lugia,Flying,Psychic,6,5,5,6,6,7,7,5,5,7,7,Pressure,,Multiscale,,,,Master,N
 #250,Ho-oh,Fire,Flying,5,7,7,5,5,5,5,6,6,7,7,Pressure,,Regenerator,,,,Master,N
 #251,Celebi,Grass,Psychic,5,6,6,6,6,6,6,6,6,6,6,Natural Cure,,,,,,Master,N
 #252,Treecko,Grass,,3,2,4,2,5,1,3,2,4,2,4,Overgrow,,Unburden,,Yes,,Beginner,
 #253,Grovyle,Grass,,4,2,4,3,6,2,4,2,5,2,4,Overgrow,,Unburden,,Yes,,Amateur,
 #254,Sceptile,Grass,,5,2,5,3,7,2,4,3,6,2,5,Overgrow,,Unburden,,,Yes,Ace,
+#254,Mega-Sceptile,Grass,Dragon,6,3,6,4,8,2,5,4,8,2,5,Lightning Rod,,,,,,Pro,
 #255,Torchic,Fire,,3,2,4,2,4,1,3,2,5,2,4,Blaze,,Speed Boost,,Yes,,Starter,
 #256,Combusken,Fire,Fighting,4,2,5,2,4,2,4,2,5,2,4,Blaze,,Speed Boost,,Yes,,Amateur,
 #257,Blaziken,Fire,Fighting,5,3,7,2,5,2,5,3,6,2,5,Blaze,,Speed Boost,,,Yes,Ace,
+#257,Mega-Blaziken,Fire,Fighting,6,4,8,3,6,2,5,3,7,2,5,Speed Boost,,,,,,Pro,
 #258,Mudkip,Water,,3,2,5,1,3,2,4,2,4,2,4,Torrent,,Damp,,Yes,,Starter,
 #259,Marshtomp,Water,Ground,4,2,5,2,4,2,5,2,4,2,5,Torrent,,Damp,,Yes,,Amateur,
 #260,Swampert,Water,Ground,6,3,6,2,4,2,5,2,5,2,5,Torrent,,Damp,,,Yes,Ace,
+#260,Mega-Swampert,Water,Ground,7,4,8,2,5,3,6,3,6,3,6,Swift Swim,,,,,,Pro,
 #261,Poochyena,Dark,,3,2,4,2,4,1,3,1,3,1,3,Run Away,Quick Feet,Rattled,,Yes,,Beginner,
 #262,Mightyena,Dark,,4,3,6,2,5,2,5,2,4,2,4,Intimidate,Quick Feet,Moxie,,,,Amateur,
 #263,Zigzagoon,Normal,,3,1,3,2,4,1,3,1,3,1,3,Pickup,Gluttony,Quick Feet,,Yes,,Beginner,
@@ -309,6 +333,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #280,Ralts,Psychic,Fairy,3,1,3,1,3,1,3,2,4,1,3,Synchronize,Trace,Telepathy,,Yes,,Beginner,
 #281,Kirlia,Psychic,Fairy,4,1,3,2,4,1,3,2,4,2,4,Synchronize,Trace,Telepathy,,Yes,,Amateur,
 #282,Gardevoir,Psychic,Fairy,5,2,4,2,5,2,4,3,7,3,6,Synchronize,Trace,Telepathy,,,Yes,Ace,
+#282,Mega-Gardevoir,Psychic,Fairy,6,2,5,3,6,2,4,4,8,3,7,Pixilate,,,,,,Pro,
 #283,Surskit,Bug,Water,3,1,3,2,4,1,3,2,4,2,4,Swift Swim,,Rain Dish,,Yes,,Beginner,
 #284,Masquerain,Bug,Flying,4,2,4,2,5,2,4,3,6,2,5,Intimidate,,Unnerve,,,,Amateur,
 #285,Shroomish,Grass,,3,2,4,1,3,2,4,1,3,2,4,Effect Spore,Poison Heal,Quick Feet,,Yes,,Beginner,
@@ -329,14 +354,19 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #300,Skitty,Normal,,3,2,4,2,5,2,4,1,3,1,3,Cute Charm,Normalize,Wonder Skin,,Yes,,Starter,
 #301,Delcatty,Normal,,4,2,4,2,5,2,4,2,4,2,4,Cute Charm,Normalize,Wonder Skin,,,,Beginner,
 #302,Sableye,Dark,Ghost,4,2,5,2,4,2,5,2,4,2,4,Keen Eye,Stall,Prankster,,,Yes,Amateur,
+#302,Mega-Sableye,Dark,Ghost,5,2,5,1,2,3,7,3,6,3,7,Magic Bounce,,,,,,Ace,
 #303,Mawile,Steel,Fairy,4,2,5,2,4,2,5,2,4,2,4,Hyper Cutter,Intimidate,Sheer Force,,,Yes,Amateur,
+#303,Mega-Mawile,Steel,Fairy,5,3,6,2,4,3,7,2,4,3,6,Huge Power,,,,,,Ace,
 #304,Aron,Steel,Rock,3,2,5,1,3,3,6,1,3,1,3,Sturdy,Rock Head,Heavy Metal,,Yes,,Beginner,
 #305,Lairon,Steel,Rock,4,2,5,1,3,3,7,2,4,2,4,Sturdy,Rock Head,Heavy Metal,,Yes,,Amateur,
 #306,Aggron,Steel,Rock,5,3,6,2,4,4,9,2,4,2,4,Sturdy,Rock Head,Heavy Metal,,,Yes,Pro,
+#306,Mega-Aggron,Steel,,6,3,7,2,4,5,11,2,4,2,5,Filter,,,,,,Master,
 #307,Meditite,Fighting,Psychic,3,1,3,2,4,2,4,1,3,2,4,Pure Power,,Telepathy,,Yes,,Beginner,
 #308,Medicham,Fighting,Psychic,4,2,4,2,5,2,5,2,4,2,5,Pure Power,,Telepathy,,,Yes,Amateur,
+#308,Mega-Medicham,Fighting,Psychic,5,3,6,3,6,3,6,2,5,3,6,Pure Power,,,,,,Ace,
 #309,Electrike,Electric,,3,2,4,2,4,1,3,2,4,1,3,Static,Lightning Rod,Minus,,Yes,,Beginner,
 #310,Manectric,Electric,,4,2,5,3,6,2,4,3,6,2,4,Static,Lightning Rod,Minus,,,Yes,Amateur,
+#310,Mega-Manectric,Electric,,5,2,5,3,7,2,5,3,7,2,5,Intimidate,,,,,,Ace,
 #311,Plusle,Electric,,4,2,4,3,6,1,3,2,5,2,5,Plus,,Lightning Rod,,,,Starter,
 #312,Minun,Electric,,4,1,3,3,6,2,4,2,5,2,5,Minus,,Volt Absorb,,,,Starter,
 #313,Volbeat,Bug,,4,2,5,2,5,2,5,2,4,2,5,Illuminate,Swarm,Prankster,,,,Beginner,M
@@ -346,10 +376,12 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #317,Swalot,Poison,,5,2,5,2,4,2,5,2,5,2,5,Liquid Ooze,Sticky Hold,Gluttony,,,,Amateur,
 #318,Carvanha,Water,Dark,3,2,5,2,4,1,3,2,4,1,3,Rough Skin,,Speed Boost,,Yes,,Beginner,
 #319,Sharpedo,Water,Dark,4,3,7,3,6,1,3,3,6,1,3,Rough Skin,,Speed Boost,,,Yes,Ace,
+#319,Mega-Sharpedo,Water,Dark,5,4,8,3,6,2,5,3,6,2,4,Strong Jaw,,,,,,Pro,
 #320,Wailmer,Water,,5,2,5,2,4,1,3,2,5,1,3,Water Veil,Oblivious,Pressure,,Yes,,Amateur,
 #321,Wailord,Water,,11,2,5,2,4,2,4,2,5,2,4,Water Veil,Oblivious,Pressure,,,,Ace,
 #322,Numel,Fire,Ground,3,2,4,1,3,1,3,2,4,2,4,Oblivious,Simple,Own Tempo,,Yes,,Beginner,
 #323,Camerupt,Fire,Ground,4,3,6,1,3,2,5,3,6,2,5,Magma Armor,Solid Rock,Anger Point,,,Yes,Amateur,
+#323,Mega-Camerupt,Fire,Ground,5,3,7,1,2,3,6,4,8,3,6,Sheer Force,,,,,,Ace,
 #324,Torkoal,Fire,,4,2,5,1,3,3,7,2,5,2,5,White Smoke,Drought,Shell Armor,,,,Amateur,
 #325,Spoink,Psychic,,3,1,3,2,4,1,3,2,5,2,5,Thick Fat,Own Tempo,Gluttony,,Yes,,Starter,
 #326,Grumpig,Psychic,,4,2,4,2,5,2,4,2,5,3,6,Thick Fat,Own Tempo,Gluttony,,,,Amateur,
@@ -361,6 +393,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #332,Cacturne,Grass,Dark,4,3,6,2,4,2,4,3,6,2,4,Sand Veil,,Water Absorb,,,Yes,Amateur,
 #333,Swablu,Normal,Flying,3,1,3,2,4,2,4,1,3,2,5,Natural Cure,,Cloud Nine,,Yes,,Beginner,
 #334,Altaria,Dragon,Flying,4,2,5,2,5,2,5,2,5,3,6,Natural Cure,,Cloud Nine,,,Yes,Ace,
+#334,Mega-Altaria,Dragon,Fairy,5,3,6,2,5,3,6,3,6,3,6,Pixilate,,,,,,Pro,
 #335,Zangoose,Normal,,4,3,6,2,5,2,4,2,4,2,4,Immunity,,Toxic Boost,,,,Amateur,
 #336,Seviper,Poison,,4,3,6,2,4,2,4,3,6,2,4,Shed Skin,,Infiltrator,,,,Amateur,
 #337,Lunatone,Rock,Psychic,4,2,4,2,5,2,4,3,6,2,5,Levitate,,Noctem,,,,Amateur,N
@@ -381,14 +414,17 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #352,Kecleon,Normal,,4,2,5,1,3,2,5,2,4,3,7,Color Change,,Protean,,,,Amateur,
 #353,Shuppet,Ghost,,3,2,5,2,4,1,3,2,4,1,3,Insomnia,Frisk,Cursed Body,,Yes,,Beginner,
 #354,Banette,Ghost,,4,3,6,2,4,2,4,2,5,2,5,Insomnia,Frisk,Cursed Body,,,Yes,Amateur,
+#354,Mega-Banette,Ghost,,5,4,8,2,5,2,5,3,6,2,5,Prankster,,,,,,Ace,
 #355,Duskull,Ghost,,3,1,3,1,3,2,5,1,3,2,5,Levitate,,Frisk,,Yes,,Beginner,
 #356,Dusclops,Ghost,,4,2,5,1,3,3,7,2,4,3,7,Levitate,,Frisk,,Yes,,Amateur,
 #357,Tropius,Grass,Flying,5,2,4,2,4,2,5,2,5,2,5,Chlorophyll,Solar Power,Harvest,,,,Amateur,
 #358,Chimecho,Psychic,,4,2,4,2,4,2,5,3,6,2,5,Levitate,,,,,,Amateur,
 #359,Absol,Dark,,4,3,7,2,5,2,4,2,5,2,4,Pressure,Super Luck,Justified,,,Yes,Amateur,
+#359,Mega-Absol,Dark,,5,4,8,3,6,2,4,3,6,2,4,Magic Bounce,,,,,,Ace,
 #360,Wynaut,Psychic,,3,1,3,1,3,2,4,1,3,2,4,Shadow Tag,,Telepathy,,Yes,,Starter,
 #361,Snorunt,Ice,,3,2,4,2,4,2,4,2,4,2,4,Inner Focus,Ice Body,Moody,,Yes,,Beginner,
 #362,Glalie,Ice,,4,2,5,2,5,2,5,2,5,2,5,Inner Focus,Ice Body,Moody,,,,Amateur,
+#362,Mega-Glalie,Ice,,5,3,7,3,6,2,5,3,7,2,5,Refrigerate,,Moody,,,,Ace,
 #363,Spheal,Ice,Water,3,1,3,1,3,2,4,2,4,2,4,Thick Fat,Ice Body,Oblivious,,Yes,,Starter,
 #364,Sealeo,Ice,Water,4,2,4,2,4,2,5,2,5,2,5,Thick Fat,Ice Body,Oblivious,,Yes,,Amateur,
 #365,Walrein,Ice,Water,6,2,5,2,4,3,6,3,6,2,5,Thick Fat,Ice Body,Oblivious,,,,Ace,
@@ -400,17 +436,24 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #371,Bagon,Dragon,,3,2,5,2,4,2,4,1,3,1,3,Rock Head,,Sheer Force,,Yes,,Amateur,
 #372,Shelgon,Dragon,,4,3,6,2,4,3,6,2,4,2,4,Rock Head,,Overcoat,,Yes,,Amateur,
 #373,Salamence,Dragon,Flying,5,3,7,3,6,2,5,3,6,2,5,Intimidate,,Moxie,,,Yes,Pro,
+#373,Mega-Salamence,Dragon,Flying,6,4,8,3,7,3,7,3,7,2,5,Aerialate,,,,,,Master,
 #374,Beldum,Steel,Psychic,3,2,4,1,3,2,5,1,3,2,4,Clear Body,,Light Metal,,Yes,,Beginner,N
 #375,Metang,Steel,Psychic,4,2,5,2,4,3,6,2,4,2,5,Clear Body,,Light Metal,,Yes,,Amateur,N
 #376,Metagross,Steel,Psychic,5,3,7,2,5,3,7,3,6,2,5,Clear Body,,Light Metal,,,Yes,Pro,N
+#376,Mega-Metagross,Steel,Psychic,6,4,8,3,6,4,8,3,6,3,6,Tough Claws,,,,,,Master,N
 #377,Regirock,Rock,,4,6,6,4,4,10,10,4,4,6,6,Clear Body,,Sturdy,,,,Master,N
 #378,Regice,Ice,,4,4,4,4,4,6,6,6,6,10,10,Clear Body,,Ice Body,,,,Master,N
 #379,Registeel,Steel,,4,5,5,4,4,8,8,5,5,8,8,Clear Body,,Light Metal,,,,Master,N
 #380,Latias,Dragon,Psychic,4,5,5,6,6,5,5,6,6,7,7,Levitate,,,,,Yes,Master,F
-#381,Latios,Dragon,Psychic,5,5,5,6,6,5,5,7,7,6,6,Levitate,,,,,Yes,Master,M
+#380,Mega-Latias,Dragon,Psychic,5,6,6,6,6,7,7,7,7,8,8,Levitate,,,,,,Master,F
+#381,Latios,Dragon,Psychic,4,5,5,6,6,5,5,7,7,6,6,Levitate,,,,,Yes,Master,M
+#381,Mega-Latios,Dragon,Psychic,5,7,7,6,6,6,6,8,8,7,7,Levitate,,,,,,Master,M
 #382,Kyogre,Water,,6,6,6,5,5,5,5,8,8,7,7,Drizzle,,,,,Yes,Master,N
+#382,Primal Kyogre,Water,,10,8,8,5,5,5,5,9,9,8,8,Primordial Sea,,,,,,Master,N
 #383,Groudon,Ground,,5,8,8,5,5,7,7,6,6,5,5,Drought,,,,,Yes,Master,N
-#384,Rayquaza,Flying,,8,8,8,6,6,5,5,8,8,5,5,Air Lock,,,,,Yes,Master,N
+#383,Primal Groudon,Ground,Fire,7,9,9,5,5,8,8,8,8,5,5,Desolate Land,,,,,,Master,N
+#384,Rayquaza,Dragon,Flying,8,8,8,6,6,5,5,8,8,5,5,Air Lock,,,,,Yes,Master,N
+#384,Mega-Rayquaza,Dragon,Flying,11,9,9,6,6,6,6,9,9,6,6,Delta Stream,,,,,,Master,N
 #385,Jirachi,Steel,Psychic,5,6,6,6,6,6,6,6,6,6,6,Serene Grace,,,,,Yes,Master,N
 #386,Deoxys,Psychic,,4,8,8,8,8,4,4,8,8,4,4,Pressure,,,,,Yes,Master,N
 #386,Attack Deoxys,Psychic,,4,10,10,8,8,2,2,10,10,2,2,Pressure,,,,,Yes,Master,N
@@ -460,6 +503,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #426,Drifblim,Ghost,Flying,7,2,5,2,5,1,3,2,5,2,4,Aftermath,Unburden,Flare Boost,,,,Ace,
 #427,Buneary,Normal,,3,2,4,2,5,1,3,1,3,2,4,Run Away,Klutz,Limber,,Yes,,Starter,
 #428,Lopunny,Normal,,4,2,5,3,6,2,5,2,4,3,6,Cute Charm,Klutz,Limber,,,Yes,Amateur,
+#428,Mega-Lopunny,Normal,Fighting,5,3,7,3,7,3,6,2,4,3,6,Scrappy,,,,,Yes,Ace,
 #429,Mismagius,Ghost,,4,2,4,3,6,2,4,3,6,3,6,Levitate,,,,,,Ace,
 #430,Honchkrow,Dark,Flying,5,3,7,2,5,2,4,3,6,2,4,Insomnia,Super Luck,Moxie,,,,Amateur,
 #431,Glameow,Normal,,3,2,4,2,5,1,3,1,3,1,3,Limber,Own Tempo,Keen Eye,,Yes,,Starter,
@@ -477,9 +521,11 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #443,Gible,Dragon,Ground,3,2,5,1,3,2,4,1,3,2,4,Sand Veil,,Rough Skin,,Yes,,Amateur,
 #444,Gabite,Dragon,Ground,4,2,5,2,5,2,4,2,4,2,4,Sand Veil,,Rough Skin,,Yes,,Ace,
 #445,Garchomp,Dragon,Ground,6,3,7,3,6,3,6,2,5,2,5,Sand Veil,,Rough Skin,,,Yes,Pro,
+#445,Mega-Garchomp,Dragon,Ground,7,4,9,2,5,3,6,3,7,3,6,Sand Force,,,,,,Master,
 #446,Munchlax,Normal,,5,2,5,1,2,1,3,1,3,2,5,Pickup,Thick Fat,Gluttony,,Yes,,Beginner,
 #447,Riolu,Fighting,,3,2,5,2,4,1,3,1,3,1,3,Steadfast,Inner Focus,Prankster,,Yes,,Amateur,
 #448,Lucario,Fighting,Steel,4,3,6,2,5,2,5,3,6,2,5,Steadfast,Inner Focus,Justified,,,Yes,Ace,
+#448,Mega-Lucario,Fighting,Steel,5,4,8,3,6,2,5,3,7,2,5,Adaptability,,,,,,Pro,
 #449,Hippopotas,Ground,,3,2,5,1,3,2,5,1,3,1,3,Sand Stream,,Sand Force,,Yes,,Amateur,
 #450,Hippowdon,Ground,,5,3,6,2,4,3,6,2,4,2,5,Sand Stream,,Sand Force,,,,Ace,
 #451,Skorupi,Poison,Bug,3,2,4,2,4,2,5,1,3,2,4,Battle Armor,Sniper,Keen Eye,,Yes,,Beginner,
@@ -492,6 +538,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #458,Mantyke,Water,Flying,3,1,3,2,4,2,4,1,3,3,6,Swift Swim,Water Absorb,Water Veil,,Yes,,Beginner,
 #459,Snover,Grass,Ice,3,2,4,1,3,2,4,2,4,2,4,Snow Warning,,Soundproof,,Yes,,Amateur,
 #460,Abomasnow,Grass,Ice,4,2,5,2,4,2,5,2,5,2,5,Snow Warning,,Soundproof,,,Yes,Ace,
+#460,Mega-Abomasnow,Grass,Ice,5,3,7,1,2,3,6,3,7,3,6,Snow Warning,,,,,,Pro,
 #461,Weavile,Dark,Ice,4,3,7,3,7,2,4,2,4,2,5,Pressure,,Pickpocket,,,,Amateur,
 #462,Magnezone,Electric,Steel,5,2,5,2,4,3,6,3,7,2,5,Magnet Pull,Sturdy,Analytic,,,,Ace,N
 #463,Lickilicky,Normal,,5,2,5,2,4,3,6,2,5,3,6,Own Tempo,Oblivious,Cloudnine,,,,Ace,
@@ -507,6 +554,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #473,Mamoswine,Ice,Ground,6,3,7,2,5,2,5,2,5,2,4,Oblivious,Snow Cloak,Thick Fat,,,,Ace,
 #474,Porygon-Z,Normal,,5,2,5,2,5,2,5,3,7,2,5,Adaptability,Download,Analytic,,,,Ace,N
 #475,Gallade,Psychic,Fighting,5,3,7,2,5,2,4,2,4,3,6,Steadfast,,Justified,,,Yes,Ace,M
+#475,Gallade,Psychic,Fighting,6,4,8,3,6,3,6,2,4,3,6,Inner Focus,,,,,,Pro,M
 #476,Probopass,Rock,Steel,4,2,4,2,5,4,8,2,5,4,8,Sturdy,Magnet Pull,Sand Force,,,,Amateur,
 #477,Dusknoir,Ghost,,4,3,6,2,4,3,7,2,4,3,7,Pressure,,Frisk,,,,Ace,
 #478,Froslass,Ice,Ghost,4,2,5,3,6,2,5,2,5,2,5,Snow Cloak,,Cursed Body,,,Yes,Ace,F
@@ -570,6 +618,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #529,Drilbur,Ground,,3,2,5,2,4,1,3,1,3,2,4,Sand Rush,Sand Force,Mold Breaker,,Yes,,Beginner,
 #530,Excadrill,Ground,Steel,5,3,7,2,5,2,4,2,4,2,4,Sand Rush,Sand Force,Mold Breaker,,,,Amateur,
 #531,Audino,Normal,,5,2,4,2,4,2,5,2,4,2,5,Healer,Regenerator,Klutz,,,Yes,Beginner,
+#531,Mega-Audino,Normal,Fairy,6,2,4,2,4,3,7,2,5,3,7,Inner Focus,,,,,,Amateur,
 #532,Timburr,Fighting,,3,2,5,1,3,2,4,1,3,1,3,Guts,Sheer Force,Iron Fist,,Yes,,Beginner,
 #533,Gurdurr,Fighting,,4,3,6,1,3,2,5,1,3,2,4,Guts,Sheer Force,Iron Fist,,Yes,,Amateur,
 #534,Conkeldurr,Fighting,,6,3,7,2,4,3,6,2,4,2,4,Guts,Sheer Force,Iron Fist,,,,Ace,
@@ -775,6 +824,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #718,Zygarde 50%,Dragon,Ground,5,6,6,6,6,7,7,5,5,6,6,Aura Break,Power Construct,,,,,Master,N
 #718,Zygarde 100%,Dragon,Ground,11,6,6,5,5,7,7,5,5,6,6,Aura Break,,,,,,Master,N
 #719,Diancie,Rock,Fairy,4,6,6,4,4,8,8,6,6,8,8,Clear Body,,,,,,Pro,N
+#719,Mega-Diancie,Rock,Fairy,5,8,8,6,6,6,6,8,8,6,6,Magic Bounce,,,,,,Pro,N
 #720,Hoopa,Psychic,Ghost,4,6,6,5,5,4,4,8,8,7,7,Magician,,,,,Yes,Pro,N
 #720,Hoopa Unbound,Psychic,Dark,7,8,8,5,5,4,4,9,9,7,7,Magician,,,,,,Master,N
 #721,Volcanion,Fire,Water,4,6,6,5,5,7,7,7,7,5,5,Water Absorb,,,,,,Pro,N
