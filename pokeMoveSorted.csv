@@ -5,7 +5,7 @@ Branch Poke,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-
 Bullet Seed,grass,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions.
 Cotton Guard,grass,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,Increase the User's Defense by 3.
 Cotton Spore,grass,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,Reduce foe's Dexterity by 2.
-Drum Breating,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,PERFORM,Foe,Reduce the Foe’s Dexterity
+Drum Beating,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,PERFORM,Foe,Reduce the Foe’s Dexterity
 Energy Ball,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Sp. Defense.
 Forest's Curse,grass,SUPPORT,0,,,WILL,NATURE,Foe,Add the Grass Type to the Target's Type (ie. Nidoran will now be Poison/Grass Heracross will now be Bug/Fight/Grass). If the Pokémon already has a third type attached. replace it.
 Frenzy Plant,grass,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Must Recharge. -1 Accuracy.
@@ -662,8 +662,8 @@ Tar Shot,rock,SUPPORT,0,,,SPECIAL,CHANNEL,Foe,Reduce the foe’s Dexterity. Until 
 Wide Guard,rock,SUPPORT,0,,,VITALITY,BRAWL,User and Allies,Priority 3. Shield. Reduce 3 Dice from the foe's Damage Pool.
 Anchor Shot,steel,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Blocks.
 Autotomize,steel,SUPPORT,0,,,DEXTERITY,CHANNEL,Foe,Increase the User's Dexterity by 2. User's weight is halved for the rest of Scene.
-Behemot Bash,steel,PHYSICAL,4,STRENGTH,,VITALITY,BRAWL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool."
-Behemot Blade,steel,PHYSICAL,4,STRENGTH,,STRENGTH,BRAWL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool."
+Behemoth Bash,steel,PHYSICAL,4,STRENGTH,,VITALITY,BRAWL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool."
+Behemoth Blade,steel,PHYSICAL,4,STRENGTH,,STRENGTH,BRAWL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool."
 Bullet Punch,steel,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Priority.
 Doom Desire,steel,SPECIAL,6,SPECIAL,,INSIGHT,ALLURE,Foe,"Strikes at the end of the Round after the next. Bypass Shield Moves and Cover. If the target retires or switches out from battle, the damage will be dealt to the next opponent or to one of its allies. Extra effects may be added at Storyteller’s Discretion"
 Double Iron Bash,steel,PHYSICAL,2,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 5 Chance Dice to Reduce the foe’s Special. This Effect can be repeated up to 3 times per Target.
@@ -723,3 +723,4 @@ Water Spout,water,SPECIAL,6,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Remove 1 Dice of
 Waterfall,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the foe.
 Whirlpool,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Block. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.
 Withdraw,water,SUPPORT,0,,,VITALITY,BRAWL,User,Increase User's Defense.
+Any Move,any,???,0,,,,,Any,This move represents every possible move. Metronome but better.
