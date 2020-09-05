@@ -187,8 +187,8 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #148,Dragonair,Dragon,,6,2,5,2,5,2,4,2,5,2,5,Shed Skin,,Marvel Scale,,Yes,,Ace,
 #149,Dragonite,Dragon,Flying,6,3,7,2,5,3,6,3,6,3,6,Inner Focus,,Multiscale,,,,Master,
 #150,Mewtwo,Psychic,,5,6,6,7,7,5,5,8,8,5,5,Pressure,,Unnerve,,,Yes,Master,N
-#150,Mega-Mewtwo Y,Psychic,,6,8,8,7,7,5,5,10,10,7,7,Insomnia,,,,,,Master,N
 #150,Mega-Mewtwo X,Psychic,Fighting,6,9,9,7,7,6,6,7,7,6,6,Steadfast,,,,,,Master,N
+#150,Mega-Mewtwo Y,Psychic,,6,8,8,7,7,5,5,10,10,7,7,Insomnia,,,,,,Master,N
 #151,Mew,Psychic,,5,6,6,6,6,6,6,6,6,6,6,Synchronize,,,,,,Master,N
 #152,Chikorita,Grass,,3,2,4,2,4,2,4,2,4,2,4,Overgrow,,Leaf Guard,,Yes,,Starter,
 #153,Bayleef,Grass,,4,2,4,2,4,2,5,2,4,2,5,Overgrow,,Leaf Guard,,Yes,,Amateur,
@@ -265,7 +265,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #220,Swinub,Ice,Ground,3,2,4,2,4,1,3,1,3,1,3,Oblivious,Snow Cloak,Thick Fat,,Yes,,Beginner,
 #221,Piloswine,Ice,Ground,4,3,6,2,4,2,5,2,4,2,4,Oblivious,Snow Cloak,Thick Fat,,Yes,,Amateur,
 #222,Corsola,Water,Rock,4,2,4,1,3,3,6,2,4,3,6,Hustle,Natural Cure,Regenerator,,,,Amateur,
-#222G,Galarian Cursola,Ghost,,3,2,4,1,3,3,6,2,4,3,6,Weak Armor,,Cursed Body,,Yes,,Amateur,
+#222G,Galarian Corsola,Ghost,,3,2,4,1,3,3,6,2,4,3,6,Weak Armor,,Cursed Body,,Yes,,Amateur,
 #223,Remoraid,Water,,3,2,4,2,4,1,3,2,4,1,3,Hustle,Sniper,Moody,,Yes,,Beginner,
 #224,Octillery,Water,,4,3,6,2,4,2,5,3,6,2,5,Suction Cups,Sniper,Moody,,,,Amateur,
 #225,Delibird,Ice,Flying,4,2,4,2,5,2,4,2,4,2,4,Vital Spirit,Hustle,Insomnia,,,,Amateur,
@@ -644,8 +644,8 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #554,Darumaka,Fire,,3,2,5,2,4,2,4,1,2,2,4,Hustle,,Inner Focus,,Yes,,Beginner,
 #554G,Galarian Darumaka,Ice,,3,3,7,3,6,2,4,1,3,2,4,Hustle,Inner Focus,,,,,Beginner,
 #555,Darmanitan,Fire,,5,3,7,2,5,2,4,1,3,2,4,Sheer Force,,Zen Mode,,,Yes,Amateur,
-#555,Zen Darmanitan,Fire,Psychic,5,1,3,2,4,3,6,3,7,3,6,Zen Mode,,,,,Yes,Amateur,
 #555G,Galarian Darmanitan,Ice,,4,3,6,2,4,3,6,1,3,2,4,Gorilla Tactics,Zen Mode,,,,Yes,Amateur,
+#555,Zen Darmanitan,Fire,Psychic,5,1,3,2,4,3,6,3,7,3,6,Zen Mode,,,,,Yes,Amateur,
 #555G,Galarian Zen Darmanitan,Ice,Fire,4,4,8,3,7,2,4,1,3,2,4,Gorilla Tactics,Zen Mode,,,,Yes,Amateur,
 #556,Maractus,Grass,,4,2,5,2,4,2,4,3,6,2,4,Water Absorb,Chlorophyll,Storm Drain,,,,Amateur,
 #557,Dwebble,Bug,Rock,3,2,4,2,4,2,5,1,3,1,3,Sturdy,Shell Armor,Weak Armor,,Yes,,Beginner,
@@ -737,7 +737,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #641,Tornadus,Flying,,4,6,6,6,6,5,5,7,7,5,5,Prankster,,Defiant,,,Yes,Master,M
 #641,Form Tornadus,Flying,,4,6,6,7,7,5,5,6,6,5,5,Regenerator,,,,,,Master,M
 #642,Thundurus,Electric,Flying,4,6,6,6,6,5,5,7,7,5,5,Prankster,,Defiant,,,Yes,Master,M
-#642,FormThundurus,Electric,Flying,4,6,6,6,6,5,5,8,8,5,5,Prankster,,Defiant,,,,Master,M
+#642,Form Thundurus,Electric,Flying,4,6,6,6,6,5,5,8,8,5,5,Prankster,,Defiant,,,,Master,M
 #643,Reshiram,Dragon,Fire,5,7,7,5,5,6,6,8,8,7,7,Turboblaze,,,,,,Master,N
 #644,Zekrom,Dragon,Electric,5,8,8,5,5,7,7,7,7,6,6,Teravolt,,,,,,Master,N
 #645,Landorus,Ground,Flying,4,7,7,6,6,5,5,6,6,5,5,Sand Force,,Sheer Force,,,Yes,Master,M
@@ -759,8 +759,9 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #656,Froakie,Water,,3,2,4,2,5,1,3,2,4,1,3,Torrent,,Protean,,Yes,,Beginner,
 #657,Frogadier,Water,,4,2,4,3,6,2,4,2,5,2,4,Torrent,,Protean,,Yes,,Amateur,
 #658,Greninja,Water,Dark,5,3,6,3,7,2,4,3,6,2,5,Torrent,,Protean,Battle Bond,,Yes,Ace,
-#659,Bunnelby,Normal,,3,1,3,2,4,1,3,1,3,1,3,Pickup,Cheek Pouch,Huge Power,,Yes,,Beginner,
-#660,Diggersby,Normal,Ground,4,2,4,2,5,2,5,2,4,2,5,Pickup,Cheek Pouch,Huge Power,,,,Amateur,
+#668B,BBF Greninja,,,,,,,,,,,,,,,,,,,,,
+#659,Bunnelby,Normal,,3,1,3,2,4,1,3,1,3,1,3,Pickup,Cheer Pouch,Huge Power,,Yes,,Beginner,
+#660,Diggersby,Normal,Ground,4,2,4,2,5,2,5,2,4,2,5,Pickup,Cheer Pouch,Huge Power,,,,Amateur,
 #661,Fletchling,Normal,Flying,3,2,4,2,4,1,3,1,3,1,3,Big Pecks,,Gale Wings,,Yes,,Starter,
 #662,Fletchinder,Fire,Flying,4,2,5,2,5,2,4,2,4,2,4,Flame Body,,Gale Wings,,Yes,,Beginner,
 #663,Talonflame,Fire,Flying,5,2,5,3,7,2,5,2,5,2,4,Flame Body,,Gale Wings,,,,Amateur,
