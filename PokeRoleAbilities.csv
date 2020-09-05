@@ -1,0 +1,312 @@
+Name,Description
+Absolution,"While New Moon is in effect, Increase 2 Points to this Pokémon’s Special Attribute. If Sunny weather is in effect, this Pokémon will receive 1 damage at the end of the round."
+Adaptability,"Whenever this Pokémon uses a Damaging Move that matches its Type, add 1 Dice to the Damage pool of that attack."
+Aerilate,"Normal-Type Attacks that the Pokémon uses will deal damage as if they were Flying-Type, affecting STAB, weakness and resistance. Add 1 Dice of damage to Flying moves."
+Aftermath,"If this Pokémon faints due to a Non-Ranged Physical Attack , the user of that attack is dealt 2 Damage."
+Air Lock,"Negate all the effects of a Weather Condition in the field. If there are no weather conditions in the field, they cannot be activated by Moves or Abilities. If one is already active, it does not disappear but provides no effects. "
+Amplifier,All sound-based moves now receive 1 additional damage dice.
+Analytic,"If this Pokémon has a lower initiative than its target, Add 1 Dice to all of its Damage Pools."
+Ancient Presence,The user's moves becomes typeless and will always hit regardless of abilities.
+Anger Point,"If a foe lands a Critical Hit on this Pokémon, increase 3 Points to its Strength Attribute."
+Anticipation,"If a foe knows a move that would deal Lethal or Super Effective damage against this Pokémon, it will alert its Trainer."
+Arena Trap,"Foe Pokémon on the ground become Blocked, they cannot escape or be switched out for as long as this Pokémon is in the field. "
+Aroma Veil,"User and Allies in range are immune to the effects of the moves:
+Taunt, Torment Attract, Disable, Encore, and Heal Block."
+Athenian,This Pokémon has a permanent increase of 1 point to its Special attribute.
+Aura Break,"Invert the effects that the Abilities Dark Aura and Fairy Aura have on their users. If said Abilities would increase a Dice Pool for their user, reduce it instead."
+Bad Dreams,"At the end of the Round, deal 1 Damage to anyone in the battlefield that has the Sleep Status Condition."
+Ball Fetch,"Whenever you throw a pokéball to a wild Pokémon, if the roll for catching it is unsuccessful, the pokéball will not break, this Pokémon will bring it back to you at the end of the scene instead. "
+Battery,Increase 1 point to the Special of all Ally Pokémon in Range. Ally Pokémon get 1 Bonus Dice to all their Special Move’s Damage Pool.
+Battle Armor,"If a Foe lands a Critical Hit on this Pokémon, it will not get any Bonus Dice for it."
+Battle Bond,"AFTER a foe is defeated by this Pokémon, if it has a Loyalty score of 5, change its Form into “Battle-Bond Form” (BBF) until the end of the scene or until it or its Trainer faints. Only one Pokémon per party may have this Ability. Pokémon with this Ability can’t hold a Mega-Stone. 
+- BBF increases by 2 the Limits of Strength and
+ Special of the Pokémon.
+- Redistribute Rank points on BBF as you see fit.
+- Increase by 1 the Power of a Move of your choice.
+- Restore its full HP & Will, and heal any Status
+ Ailment upon changing forms.
+- When in BBF, all combat damage inflicted on
+ the Pokémon will also be dealt to its Trainer."
+Beast Boost,"If a foe faints because of an attack dealt by this Ultra-Beast, Increase 1 Point to its Attribute with highest limit. Up to 3 points can be increased this way. Only Ultra-Beasts might have this Ability. Beast Boost can’t be swapped or copied."
+Berserk,"When this Pokémon’s HP is half or less, Increase its Special Attribute by 1."
+Big Pecks,This Pokémon cannot have its Defense reduced.
+Blaze,"When this Pokémon’s HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Fire-Type Moves, and they will get 1 extra die to their Damage Pool. "
+Blaze Boost,"Immediately before using a Fire type move. Increase the user's Special, Special Defense and Dexterity by 1. Change Emolga to Blaze Boost form. In this form, whenever this Pokémon is hit with a Non-Ranged Physical Attack, roll 1 Chance Dice to inflict Burn 1 on the foe."
+Bulletproof,Reduce by 1 all damage from Special and Ranged Physical Attacks done to this Pokémon.
+Cheek Pouch,"This Pokémon restores 2 HP whenever it eats a berry with no HP healing effect. (e.g. Pecha Berry, Lum Berry)"
+Chlorofury,When Mega evolving or on switch in. Increase the user's Dexterity by 1 and its Special by X for 2 turns. X is the number of fainted teammates on this Pokemon's team.
+Chlorophyll,"If Sunny Weather is in effect, Increase 2 Points to this Pokémon’s Dexterity Attribute."
+Clear Body,Other Pokémon cannot Increase or Decrease the Attributes of this Pokémon. This Pokémon can still Increase or Decrease its own Attributes.
+Cloud Nine,"Negate the effects of Weather Conditions on this Pokémon. This does not include: Harsh Sunlight, Typhoon and Strong Winds"
+Color Change,When this Pokémon is dealt damage it will temporarily change its type to match the type of the move that just hit it. The effect ends if the Pokémon is removed from battle.
+Comatose,The Pokémon permanently has the “Sleep” Status Condition but it is immune to its effects. This Pokémon can’t be inflicted other Status Condition. Moves and Abilities affecting Asleep Pokémon still have an effect on it.
+Competitive,"The first time this Pokémon gets an Attribute reduced by a foe during a battle, increase 2 Points to its Special. "
+Compound Eyes,This Pokémon gets 2 Bonus Dice on the Accuracy Pool of any move with Reduced Accuracy. 
+Contrary,"If anything would Decrease an Attribute of this Pokémon, Increase it instead.
+If anything would Increase an Attribute of this Pokémon, Decrease it instead."
+Corrosion,Ignore any immunity the foe has to Poison-Type Damage and/or to be inflicted Poison and Badly Poisoned Status Ailments.
+Cotton Down,"Is Pokémon is hit with a Non-Ranged Physical Attack, reduce the speed of all Pokémon close to it. (Allies and foes alike at storyteller’s discretion)"
+Cursed Body,"Whenever this Pokémon is dealt damage with a Move, Roll 3 Chance Dice to disable that move. More than one Move may be disabled this way."
+Cute Charm,"If a foe hits this Pokémon with a Non-Ranged Physical Attack, roll 3 Chance Dice to make the foe fall in Love"
+Damp,No ally or foe will be able to use the moves Explosion or Self-Destruct in an area around this Pokémon. 
+Dancer,"Whenever a Pokémon uses a Move with the word “Dance” (i.e. Dragon Dance, Petal Dance etc.) This Pokémon gets a free action to use the same Move immediately after and succeeds automatically. (Damage must be rolled)"
+Dark Aura,Increase 2 dice to all Damage Pools of Dark-Type Moves of all Pokémon in the field. This effect does not stack. Pokémon and Trainers on the field will not cooperate with each other.
+Dauntless Shield,"Whenever this Pokémon enters battle, Increase 2 Points to its Defense. Outside of battle, this Pokémon is immune to physical damage."
+Dazzling,Foes cannot use Priotity Moves against this Pokémon.
+Defeatist,"If this Pokémon is at half or less of its total HP, roll this Pokemon’s Loyalty every action, if the roll fails Reduce 2 Points to its Strength and Special Attributes for that action. If it’s successful it may keep its attributes unchaged."
+Defiant,"The first time this Pokémon has an Attribute reduced during a battle, Increase 2 Points to its Strength."
+Delta Stream,"When this Pokémon comes out, it automatically starts the effects of Strong Wind Weather. The effects end when the Pokémon leaves the battle. (In case of stalemate, The Pokémon with highest Will might keep the dominant weather)"
+Desolate Land,"When this Pokémon comes out, it automatically starts the effects of Harsh Sunlight Weather. The effects end when the Pokémon leaves the battle. (In case of stalemate, The Pokémon with highest Will might keep the dominant weather)"
+Disguise,"The first time this Pokémon would receive damage during a battle, reduce that damage to zero. Entry Hazards, Weather Conditions and Status Ailments do not trigger this Ability"
+Download,When this Pokémon comes out it will scan its foes and provide information about them. It will then Increase 1 Point to either Strength or Special Attribute at Storyteller’s discretion
+Drizzle,"When this Pokémon comes out, it automatically starts the effects of Rain Weather. The effects end when the Pokémon leaves the battle. (In case of stalemate the Pokémon with higher Will might keep the dominant weather)"
+Drought,"When this Pokémon comes out, it automatically starts the effects of Sunny Weather. The effects end when the Pokémon leaves the battle. (In case of stalemate the Pokémon with higher Will might keep the dominant weather)"
+Dry Skin,"If Sunny Weather is in effect, this Pokémon will receive 1 damage at the end of each round. Fire attacks will deal 1 additional Damage to this Pokémon. Water attacks may heal 1 HP to this Pokémon instead of dealing damage."
+Early Bird,"The time this Pokémon would be asleep is reduced by half, it will only need to score 2 successes on its Insight roll to wake up in battle. This effect does not apply for the move “Rest”"
+Effect Spore,"If hit by a Non-Ranged Physical Attack, the Pokémon rolls 3 Chance Dice to Poison, Paralize or Sleep the foe at random."
+Electric Surge,"When this Pokémon comes out, it automatically starts the effects of the Move Electric Terrain. (In case of stalemate the Pokémon with higher Will might keep the dominant Terrain)"
+Emergency Exit,"Whenever this Pokémon reaches half or less of its HP, it will switch out to its pokéball, sending an Ally to take its place. If there is no Ally, the battle may end. This Ability’s effect is not affected by Block."
+Ethereal Shroud,The user gains Ghost type associated immunities and resistances.
+Fairy Aura,Increase 2 dice to all Damage Pools of Fairy-Type Moves of all Pokémon in the field. This effect does not stack. Pokémon and Trainers on the field will not attack the user of this Ability.
+Filter,"If a foe uses a move that would deal Super Effective Damage to this Pokémon, reduce by 1 the total Damage from that attack."
+Flame Body,"When hit by a Non-Ranged Physical Attack, this Pokémon rolls 3 Chance Dice to burn the foe."
+Flare Boost,"If this Pokémon gets any Burn condition, Increase 2 points to its Special attribute."
+Flash Fire,"The first time this Pokémon is hit by a Fire-Type move, add 1 Extra Die to the Damage Pool of Fire-type Moves this Pokémon uses until the end of the scene. Fire-type moves do not deal damage to this Pokémon."
+Flower Gift,"If Sunny weather is in effect, Increase 2 Points to the Strength and Sp.Defense Attribute of the user and its allies"
+Flower Veil,User and allies can’t have their Attributes reduced. User and allies can’t have any Status Condition inflicted on them. Previously inflicted Attribute reductions and/or ailments remain.
+Fluffy,Reduce by 2 the Damage dealt to this Pokémon by All Physical Attacks. Incread by 2 the Damage dealt to this Pokémon by Fire-Type Attacks.
+Forecast,"The Type of this Pokémon will change depending on the active weather. Fire under Sun, Water under Rain, Ice under Hail and Rock under Sand."
+Forewarn,"In battle, this Pokémon will warn about the strongest move one of its foes has. Storyteller has to reveal it to the trainer of this Pokémon in secret."
+Foundry,"Rock-Type Attacks that the Pokémon uses will deal damage as if they were Fire-Type, affecting STAB, weakness and resistance. Add 1 Dice of damage to Fire moves."
+Friend Guard,"If this Pokémon is hit by a move performed by an ally, Reduce by 2 the damage dealt to it."
+Frisk,"When this Pokémon enters the battlefield, Storyteller must reveal its trainer the held item of one foe."
+Full Metal Body,Other Pokémon cannot Decrease the Attributes of this Pokémon. This Pokémon can still Decrease its own Attributes.
+Fur Coat,Reduce by 2 the Damage dealt to this Pokémon by All Physical Attacks.
+Gale Wings,Add +1 Priority to all Flying-Type Moves of this Pokémon.
+Galvanize,"Normal-Type Attacks that the Pokémon uses will deal damage as if they were Electric-Type, affecting STAB, weakness and resistance. Add 1 Extra Die of Damage to Electric Moves."
+Gluttony,"This Pokémon can eat any type of food, medicine or herbal medicine with no negative. This pokémon can eat any held berries at any point of the battle as a free action."
+Gooey,"The first time an opponent hits this Pokémon with a Non-Ranged Physical Attack, reduce 1 Point to its Dexterity Attribute."
+Gorilla Tactics,"At the start of the fight, choose a Move. Increase 1 point to this Pokémon’s Strength Attribute, it can only perform the chosen Move but it may Evade every Round. This effect resets if the Pokémon is recalled from battle. "
+Grass Pelt,"If the effects of the move Grassy Terrain are active, Increase 2 Points to this Pokémon’s Defense Attribute."
+Grassy Surge,"When this Pokémon comes out, it automatically starts the effects of the Move Grassy Terrain. (In case of stalemate the Pokémon with higher Will might keep the dominant Terrain)"
+Gulp Missile,"If this Pokémon uses the Moves Surf or Dive, it will change forms after dealing damage. “Gulping Form” if it has more than half HP remaining, “Gorging Form” if it has half or less HP remaining. If the Pokémon is dealt damage by a foe when it is in any of this Forms, deal 2 Dice of Damage and an effect to it. Return this Pokémon to its regular form afterwards."
+Guts,"While affected by a Status Condition, Increase 2 Points to this Pokémon’s Strength Attribute."
+Harvest,"If this Pokémon uses a berry as a held item during a fight, the berry will grow back at the end of the day."
+Healer,"If an Ally on the battlefield has a Status Ailment, at the End of the Round this Pokémon rolls 3 Chance Dice to heal it."
+Heatproof,"Burn 1 deals no Damage to this Pokémon. If this Pokémon is hit by a Fire-Type Attack, Reduce the damage dealt by 2."
+Heavy Metal,This Pokemon weighs twice as much as it's supposed to. Moves with damage based on weight get their damage pool modified accordingly.
+Heliophobia,"If Sunny Weather is in effect, this Pokémon will receive 1 damage at the end of each round. If New Moon is in effect, you may restore 1 HP to this Pokémon at the end of each Round."
+Honey Gather,"The Pokémon produces its own honey, you can get a small barrel of high quality honey every day. A small barrel of honey can be sold for up to $100. Honey attracts wild Pokémon and feeding a Pokémon with it will make it happy."
+Hubris,"If a foe faints because of an attack dealt by this Pokémon, Increase 1 Point to its Special Attribute. Up to 3 points can be increased this way."
+Huge Power,This Pokémon has a permanent increase of 1 point to its Strength attribute.
+Hunger Switch,"At the End of the Round, switch this Pokémon’s form. Only Morpeko may have this ability. This ability cannot be copied or switched."
+Hustle,This Pokémon gets an extra -1 Reduced Accuracy and 2 Extra Dice to the Damage pool for all its Physical Attacks.
+Hydration,"When Rain weather is in effect, this Pokémon will cure any status ailment it has at the end of the round."
+Hyper Cutter,This Pokémon cannot have its Strength Attribute reduced by any means.
+Ice Body,"If Hail Weather is in effect you may restore 1 HP to this Pokémon at the end of
+the round. This Pokémon is immune to damage from Hail weather."
+Ice Cleats,"If Hail Weather is in effect, increase 1 Point to the Dexterity Attibute of this Pokémon."
+Ice Face,"The Pokémon has 2 extra HP when it is on “Ice Face form”. If the Ice receives 2 damage, change the Pokémon’s form to “No-Ice Form”. To restore “Ice Face Form” the Pokémon must be out one whole Round while Hail weather is active. "
+Ice Scales,Reduce by 2 the Damage dealt to this Pokémon by All Special Attacks.
+Illuminate,"Increases the chance of random Wild Pokémon encounters. If there were enviromental challenges where there is reduced visibility, this Pokémon and it’s allies are immune to the effects."
+Illusion,"When this Pokémon comes out, it will have the form of another Pokémon in the party, it will regain its original form if it receives damage. When taking a human form it cannot speak and its tail may remain visible."
+Immunity,Poison and Badly Poisoned Status deal no damage to this Pokémon.
+Imposter,"As soon as it enters to battle, this Pokémon will be under the effects of the move Transform."
+Infiltrator,"Shield Moves, Safeguard, Substitute, Light Screen, and Reflect are ignored by
+this Pokémon."
+Innards Out,"If an attack would faint this Pokémon, it inflicts damage on the foe equal to whatever remaining HP it had."
+Inner Focus,This Pokémon does not Flinch and cannot be Intimidated. (Intimidate Ability does not have any effect against this Pokémon.)
+Insomnia,This Pokémon is not affected by the Sleep Status.
+Intimidate,"When this Pokémon comes into battle, Reduce 1 Point to the Strength of all foes in range. This effect will last for as long as this Pokémon is out. Reduce random encounters with wild Pokémon."
+Intoxicate,"Normal-Type Attacks that the Pokémon uses will deal damage as if they were Poison-Type. Affecting STAB, weakness and resistance. Add 1 extra Die of Damage to Poison Moves."
+Intrepid Sword,"Whenever this Pokémon enters battle, Increase 2 Points to its Strength. Outside of battle, this Pokémon can cut through any surface."
+Irrelephant,Moves performed by this Pokemon ignores type based immunity.
+Iron Barbs,"Whenever this Pokémon is hit with a Non- Ranged Physical Attack, Roll 1 Die of Damage against the attacker."
+Iron Fists,Add 1 Dice to the Damage Pool of Fist Based moves.
+Justified,"The first time this Pokémon is hit by a Dark-Type Attack or if it has witnessed something it considers unjust, Increase 1 Point to its Strength Attribute."
+Keen Eye,"This Pokémon cannot have successes removed from its Accuracy rolls by Moves, Items or Abilities. Pain Penalizations and Difficulty Penalties may still apply."
+Klutz,Held items won’t have any effect on this Pokémon.
+Leaf Guard,"If Sunny weather is in effect, this Pokémon can’t have any Status Conditions inflicted. Previously inflicted conditions remain."
+Lernean,"The Pokemon gains additional heads when it loses hp. One at 80%, 60%, 40% and 20%. Each head adds an additional 1 damage die to the Pokemon. Restoring HP does not remove the heads and they will only disappeaar when the user cancels the Mega Evolution."
+Levitate,Ground-Type moves and effects on the ground won’t affect this Pokémon. If a Pokémon uses a move that binds it to the ground the effects are lost until it is free again.
+Libero,"Whenever this Pokémon uses a move, first change its type to that of the move. If the move is an attack and deals damage, use the appropriate STAB."
+Light Metal,This Pokemon weighs 50% less than it's supposed to. Moves with damage based on weight get their damage pool modified accordingly.
+Lightning Rod,"If anyone uses an Electric-Type move with a Single target, it will be redirected to this Pokémon; it is immune to damage from them. The first time this Pokémon is hit by an Electric-Type move, Increase 1 Point to this Pokemon’s Special.
+"
+Limber,This Pokémon is not affected by the Paralysis Status.
+Liquid Ooze,"If hit by a move that would asborb this Pokemon’s vital energy (Leech seed, Dream Eater, Drain Punch, etc.) it will instead deal that amount as damage."
+Liquid Voice,All Sound-Based Moves this Pokémon uses are considered Water-Type.
+Long Reach,All Attacks made by this Pokémon are considered Ranged attacks.
+Magic Bounce,All Support moves that target this Pokémon or its side of the battlefield will have its effects redirected into the foe’s instead.
+Magic Guard,"This Pokémon won’t receive damage from Status Conditions, Recoil, Held Item or Weather Conditions"
+Magician,This Pokémon will steal the Held Item of a foe it just hit.
+Magma Armor,This Pokémon is not affected by the Frozen Status. 
+Magnet Pull,All Steel-Type Pokémon on the field are Blocked.
+Marvel Scale,"If this Pokémon has a Status Ailment, Increase 2 points to its Defense Attribute."
+Mega Launcher,Add 2 Extra Dice to the Damage pool/Healing Pool of moves with the keyword “Pulse” and “Aura” on their name.
+Merciless,"If the Foe is inflicted with Poison or Badly Poison, all of this Pokémon Moves are considered to be Critical Hits. This Pokémon will not hold back when using Lethal Damage Moves at Storyteller’s discretion."
+Mimicry,"If there is a Terrain Move active (i.e. Electric Terrain, Psyichic Terrain etc.) Change this Pokémon’s main type to match the active Terrain. Restore its original main type if the terrain effects end."
+Minus,"If an ally Pokémon on the field has the ability “Plus”, Increase 2 Points to the Special Attribute of this Pokémon."
+Mirror Armor,All Attribute-reducing effects that target this Pokémon or its side of the battlefield will have its effects redirected into the foe’s instead.
+Misty Surge,"When this Pokémon comes out, it automatically starts the effects of the Move Misty Terrain. (In case of stalemate the Pokémon with higher Will might keep the dominant Terrain)"
+Mold Breaker,"If a foe Pokémon has a type, an immunity, or an Ability that would prevent this Pokémon from attacking with a certain Move, ignore it."
+Moody,"At the end of each round, reset Attributes modified by Moody, then Reduce 1 Point to a random Attribute and Increase 1 Point to another random Attribute. "
+Motor Drive,"The first time this Pokémon is hit by an Electric-type move, Increase 1 Point to its Dexterity Attribute. This Pokémon doesn’t receive damage from Electrictype moves."
+Moxie,"If a foe faints because of an attack dealt by this Pokémon, Increase 1 Point to its Strength Attribute. Up to 3 points can be increased this way."
+Multiscale,"If this Pokémon was at full health, Reduce by 1 the damage dealt by an attack."
+Multitype,"This Pokémon can freely change its Type at any moment. This Ability can’t be copied, switched, changed, ignored, or negated in any way."
+Mummy,"When this Pokémon hits or gets hit with a Non-Ranged Physical Attack, the
+foe’s ability is changed to Mummy. "
+Natural Cure,"At the end of the round, if this Pokémon has a Status Ailment, it Rolls 3 Chance Dice to heal itself."
+Neuroforce,This Pokémon will deal 1 automatic Damage on any Move that is Super Effective against a foe.
+Neutralizing Gas,Foe Pokémon in range will have their Abilities effects negated as long as this Pokémon is out.
+No Guard,"You can declare you won’t make any Evasion Action at the start of the Round. If you do, roll all moves of this Pokémon as if they had no reduced accuracy."
+Noctem,"When this Pokémon comes out, it automatically starts the effects of New Moon. The effects end when the Pokémon leaves the battle. (In case of stalemate the Pokémon with higher Will might keep the dominant weather)"
+Normalize,"All the moves known by this Pokémon are considered Normal Type. Affecting STAB, weaknesses, immunities, and resistances. Add 1 Dice of Damage to all Normal Moves."
+Oblivious,"This Pokémon is not affected by the Love Status. It is immune to the effects of moves that affect its feelings such as Taunt, Charm, Captivate etc."
+Omnitype,The user is considered all types when defending.
+Overcoat,This Pokémon won’t be damaged by weather conditions.
+Overgrow,"When this Pokémon’s HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Grass-Type Moves, and they will get 1 extra die to their Damage Pool. "
+Own Tempo,This Pokémon is not affected by the Confused Status.
+Parental Bond,"All of the Damage Pools of this Pokémon get rolled twice. Choose the highest
+roll to deal damage to the foe."
+Pastel Veil,"User and Allies in range are immune to Poison and Badly Poison. If the condition was inflicted before this Pokémon came out, it will remain."
+Pendulum,Increases the damage pool of moves by 1 when used consecutively up to 3 times.
+Periodic Orbit,"Moves like Future Sight, Doom Desire and Wish will now activate twice. For example, Future Sight and Doom Desire will now activate once on the 2nd turn and then trigger again on the 4th turn. Wish will activate on the next round and a 2nd time on the 2nd round."
+Perish Body,"If this Pokémon is hit with Non-Ranged Physical Attack, the Foe will receive its remaining HP as damage and faint after three Rounds, unless it is removed from battle."
+Phototroph,"If Sunny weather is in effect, you may restore 1 HP to this Pokémon at the end of each Round. You can still restore 1 HP at the end of each round without Sunny weather but only 5 per day. This ability is disabled during New Moon and Rainy weather."
+Pickup,"If this Pokémon was out of its Pokéball, at the end of the scene see what it found for you at Storyteller’s discretion."
+Pickpocket,If this Pokémon is not holding an Item it will steal the held Item of the foe it just hit with a Non-Ranged Physical Attack. 
+Pixilate,"Normal-Type Attacks that the Pokémon uses will deal damage as if they were Fairy-Type. Affecting STAB, weakness and resistance. Add 1 extra Die of Damage to Fairy Moves."
+Plus,"If an ally Pokémon has the ability “Minus”, Increase 2 Points to the Special Attribute of this Pokémon."
+Poison Heal,If this Pokémon becomes poisoned or badly poisoned. It will Heal 1 HP at the end of each round instead of receiving damage. The Poison will be completely absorbed after 3 Rounds.
+Poison Point,"If this Pokémon is hit by a Non-Ranged Physical Attack, Roll 3 Chance Dice to Poison the foe."
+Poison Touch,"If this Pokémon hits its foe with a Non-Ranged Physical Attack, Roll 2 Chance Dice to Poison the foe."
+Power Construct,"At the end of the Round, if this Pokémon has half or less of its HP, change its Form to the next one. When this Pokémon changes Form, remove Status Ailments & restore its full HP & Will. This Ability can’t be copied, switched, or changed."
+Power of Alchemy,"For the next 24 Hours the Pokémon copies the ability of a fainted foe. Multiple Abilities may be copied this way, but only one may be active during combat. (Certain Abilities cannot be copied at Storyteller’s Discretion)"
+Power Spot,Increase 1 Extra Die to the Damage Pools from Moves of One Ally. This Effect does not stack on the same Ally if multiple Pokémon use this Ability.
+Prankster,Add Pritority +1 to all Support moves of this Pokémon.
+Pressure,"While this Pokémon is out, reduce the total Will Points of all foes by half, rounded down."
+Primordial Sea,"When this Pokémon comes out, it automatically starts the effects of Typhoon Weather. The effects end when the Pokémon leaves the battle. (In case of stalemate, The Pokémon with highest Will might keep the dominant weather)"
+Prism Armor,Negate all automatic Damage from any Super Effective Move dealt to this Pokémon. 
+Prism Guard,"Whenever this Pokémon is hit with a non-contact Attack, Roll 1 Die of damage against the attacker. "
+Propeller Tail,"Ignore any Moves or Abilities that would redirect this Pokémon’s Moves into another target. (i.e. The Move “Follow Me”, the Ability “Lightining Rod” etc.)"
+Protean,"Whenever this Pokémon uses a move, first change its type to that of the move. If the move is an attack and deals damage, use the appropriate STAB."
+Protean Maxima,"Whenever Eevee uses a move that corresponds with its evolution. Switch its form to said Eeveelution. Eevee gains the type, stats as well as the abilities of said Eeveelution in addition to Protean Maxima."
+Psychic Surge,"When this Pokémon comes out, it automatically starts the effects of the Move Psychic Terrain. (In case of stalemate the Pokémon with higher Will might keep the dominant Terrain)"
+Psycho Call,"When this Pokémon’s HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Psychic-Type Moves, and they will get 1 extra die to their Damage Pool. "
+Punk Rock,Sound-Based Moves this Pokémon uses have 1 Extra Die to their Damage Pool. Sound-Based Moves deal 2 less Damage to this Pokémon.
+Pure Power,This Pokémon has a permanent increase of 1 point to its Strength attribute.
+Queenly Majesty,Foes cannot use Priotity Moves against this Pokémon.
+Quick Feet,"While affected by any Status Condition, Increase 2 Points to this Pokémon’s Dexterity Attribute. The Pokémon may be inflicted with Paralysis condition but this Ability prevents its effects."
+Rain Dish,"If Rain weather is in effect, you may restore 1 HP to this Pokémon at the end of each Round."
+Rattled,"The first time this Pokémon is hit by a Bug, Dark, or Ghost-Type Attack, increase 1 Point to its Dexterity Attribute."
+Receiver,"If an Ally is fainted in battle, this Pokémon may copy their ability for the next 24 hours. Only one Ability may be copied this way. (Certain Abilities cannot be copied at Storyteller’s Discretion)"
+Reckless,"When this Pokémon performs a move with Recoil, Add 2 Extra Dice to the Damage Pool of that move."
+Refrigerate,"Normal-Type Attacks that the Pokémon uses will deal damage as if they were Ice-Type. Affecting STAB, weakness and resistance. Add 1 Die of Damage to Ice moves."
+Regenerator,This Pokémon may Heal up to 4 Damage or up to 2 Lethal Damage on its own every day. The Pokémon must be out of combat to benefit from this effect.
+Regurgitation,"When Sand Tomb is active, everytime Delta Muk attacks, it will perform a second attack that has 2 damage rolls.. The typing is based on the primary type of the Pokemon caught in the Sand Tomb "
+Ripen,Moves that use berries for added effects will have 2 Extra Dice on their Damage Pool (i.e. “Natural Gift” etc.) Increase the Healing properties of Berries at Storyteller’s discretion.
+Rivalry,"If this Pokémon has a foe of the same gender, Increase 1 Point to its Strength Attribute. If the foe is the opposite gender, Reduce 1 Point to its Strength Attribute."
+RKS System,Change the Pokemon’s Type to match the Disc on its Held Item slot. (i.e. Electric Disc makes this Pokémon become an Electric Type)
+Rock Head,This Pokémon will not receive damage from Recoil.
+Rough Skin,"Whenever this Pokémon is hit with a Non-Ranged Physical Attack, Roll 1 Die of damage against the attacker. "
+Run Away,"This Pokémon cannot be Blocked. It may also obtain bonus dice to escape from battle or captivity at Storyteller’s
+discretion."
+Sand Force,"If Sandstorm Weather is in effect when this Pokémon deals damage using Ground, Steel or Rock-Type attacks, add 1 Extra Die to the damage pool of that attack. The Pokémon is immune to damage from Sandstorm Weather."
+Sand Rush,"If Sandstorm Weather is in effect, increase 1 Point to the Dexterity Attibute of this Pokémon. The Pokémon is immune to damage from Sandstorm Weather."
+Sand Spit,"If this Pokémon is hit with a Non-Ranged Physical attack, it starts the effects of Sandstorm Weather. The effect lasts 4 rounds."
+Sand Stream,"When this Pokémon comes out, it automatically starts the effects of Sandstorm Weather. The effects end when the Pokémon leaves the battle. (In case of stalemate the Pokémon with higher Will, might keep the dominant weather)"
+Sand Veil,"If Sandstorm Weather is in effect, increase 1 Point to the Evasion of this Pokémon. The Pokémon is immune to damage from Sandstorm weather."
+Sap Sipper,"The first time this Pokémon is hit by a Grass-type attack, Increase 1 Point to its Strength Attribute instead of dealing damage. Grass-type moves do not deal damage to this Pokémon."
+Schooling,"Only Wishiwashi can use this Ability. When this Pokémon reaches half or less of its HP its allies will arrive, when they do, replace your Pokémon for Wishiwashi School-Form at full HP. Increase its Rank to Pro. At the end of the battle restore Wishiwashi to its base form. (Healing/Fainting/Recalling prevents allies from arriving)"
+Scrappy,"This Pokémon has the ability to hit Ghost-type Pokémon with Normal-type and Fighting-type moves, dealing Regular Damage. Apply the right resistances or weaknesses to the foe if it has a secondary type."
+Screen Cleaner,"When this Pokémon enters the field, remove any barries (i.e.Light Screen, Reflect etc.) on both the user and the foe’s side of the field."
+Serene Grace,"Add 2 Extra Chance Dice to all effects done by this Pokémon. (e.g. A move has 3 Chance Dice to Flinch the foe, will roll 5 Dice with this Pokémon)"
+Shadow Call,"When this Pokémon’s HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Dark-Type Moves, and they will get 1 extra die to their Damage Pool. "
+Shadow Dance,"If New Moon is in effect, increase 1 Point to the Dexterity Attibute of this Pokémon."
+Shadow Shield,"If this Pokémon was at full health, Reduce by 2 the damage dealt by an attack. This effect cannot be ignored by Moves or Abilities."
+Shadow Tag,All foes become Blocked. Ghost-type Pokémon are immune to this effect. Pokémon with the same ability are immune to this effect.
+Shed Skin,"At the end of the round. If this Pokémon has a Status Condition, it rolls 3 Chance Dice to heal itself."
+Sheer Force,"Whenever this Pokémon uses an attack with chance dice for an additional effect, you may ignore those chance dice and add 2 Dice to its damage pool."
+Shell Armor,"If a foe lands a Critical Hit on this Pokémon, it will not get its Bonus Damage Dice for that attack."
+Shield Dust,"If this Pokémon is hit by an attack with chance dice for an additional effect, it won’t be affected by said effects."
+Shields Down,"Only Minior can use this Ability. After reaching half or less of its HP in battle, replace Minior by Minior (Core) at full HP. To restore it to its base form, the core must be set free and then recaptured after it returns a few days later."
+Simple,"If this Pokémon gets an Attribute reduced, reduce 1 more Point. If this Pokémon gets an Attribute increased, increase 1 more Point."
+Skill Link,Add 2 Dice to the Accuracy roll of Successive Actions.
+Sleet,If this Pokemon is in the field during Hail weather. All Pokemon that are not immune to Hail receive 2 damage rather than 1.
+Slow Start,"During the first 5 Rounds of a battle, this Pokémon will always go last in the initiative order. After those 5 Rounds are over, Increase 2 points to its Strength and Dexterity Attributes, and it will always go first in the initiative order. This effect resets if the Pokémon is called out of combat."
+Slush Rush,"If Hail Weather is in effect, increase 1 Point to the Dexterity Attibute of this Pokémon. The Pokémon is immune to damage from Hail Weather."
+Sniper,"If this Pokémon lands a Critical Hit, it will get 3 Bonus Dice to the Damage Pool of its attack instead of the regular 2."
+Snow Cloak,"If Hail weather is in effect, Increase 1 Point to the Evasion of this Pokémon. The Pokémon is immune to damage from Hail weather."
+Snow Warning,"When this Pokémon comes out, it automatically starts the effects of Hail Weather. The effects end when the Pokémon leaves the battle. (In case of stalemate the Pokémon with higher Will might keep the dominant weather)"
+Solar Power,"While Sunny Weather is in effect, Increase 2 Points to this Pokémon’s Special Attribute. If Sunny weather is in effect, this Pokémon will receive 1 damage at the end of the round."
+Solid Rock,"If this Pokémon is hit by a move dealing Super-Effective Damage, reduce 1 Damage dealt to it."
+Soul Heart,"If a foe faints because of an attack dealt by this Pokémon, Increase 1 Point to its Special Attribute. Up to 3 points can be increased this way."
+Soundproof,This Pokémon is immune to the damage and effects of all Sound-based moves.
+Spectral Jaws,"If this Pokémon uses a move with the Keywords: Fang, Bite or Crunch, add 1 Extra Dice to the Damage Pool of that Move. These moves are all converted to Special."
+Speed Boost,"At the end of the Round, Increase 1 Point to this Pokémon’s Dexterity Attribute. Up to 3 Points might be added this way."
+Speed Swap,"When this Pokémon comes out, it automatically starts the effects of Trick Room. The effects end when the Pokémon leaves the battle."
+Spirit Call,"When this Pokémon’s HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Ghost-Type Moves, and they will get 1 extra die to their Damage Pool. "
+Stakeout,"Whenever a Foe Pokémon switches out, this Pokémon will inflict 1 additional Damage with its first successful attack to its replacement."
+Stall,This Pokémon always goes last in the the initiative order.
+Stalwart,"Ignore any Moves or Abilities that would redirect this Pokémon’s Moves into another target. (i.e. The Move “Follow Me”, the Ability “Lightining Rod” etc.)"
+Stamina,"The first time this Pokémon receives Damage in combat, increase 1 point to its Defense and Special Defense"
+Stance Change,"Only Aegislash may use this Ability. At the beginning of the round, choose a Form. While in Sword Stance it can only use Attack moves. While in Shield Stance, it can only use Support Moves. Adjust its Attributes according to the Rank and Limits it has for each Form."
+Static,"Whenever this Pokémon is hit with a Non-Ranged Physical Attack, roll 3 Chance Dice to Paralyze its foe."
+Steadfast,"The first time this Pokémon is affected by Flinch, Increase 1 Point to its Dexterity Attribute."
+Steam Engine,The first time this Pokémon is hit with a Fire or Water-Type Move. Increase 3 Points to its Dexterity Atribute.
+Steelworker,Steel-Type Attacks used by this Pokémon get 1 Extra Die to their Damage Pool.
+Steely Spirit,Steel-Type Attacks used by this Pokémon and Allies get 1 Extra Die to their Damage Pool.
+Stench,"Reduces the chance of random Wild Pokémon encounters. Whenever this Pokémon is hit with a Non-Ranged Physical Attack, it Rolls 1 Chance Dice to Flinch the foe. "
+Sticky Hold,"This Pokémon’s Held Item cannot be removed, stolen or swapped by Moves or Abilities."
+Storm Drain,"If anyone uses a Water-Type move with a Single target, it will be redirected to this Pokémon; it is immune to damage from them. The first time this Pokémon is hit by a Water-Type move, Increase 1 Point to this Pokemon’s Special."
+Strong Jaw,"If this Pokémon uses a move with the Keywords: Fang, Bite or Crunch, add 1 Extra Dice to the Damage Pool of that Move."
+Sturdy,"The first time this Pokémon would faint due to a Damaging move, it will remain at 1 HP instead. Status Conditions and Self inflicted damage will still cause it to faint. The Pokémon must rest for an hour before benefiting from Sturdy again."
+Suction Cups,The Pokémon is immune to effects that force switches.
+Supercell,"If New Moon and Rainy Weather is in effect, increase 1 Point to the Special Attibute of this Pokémon."
+Super Luck,"Add “High Critical” to all the Attack Moves of this Pokémon. If a move already has the High Critical property, this Pokémon will only need 1 More Success on the Accuracy roll to land a Critical instead of 2."
+Surge Surfer,"If Electric Terrain is in effect, Increase 2 Points to this Pokémon’s Dexterity Attribute."
+Swarm,"When this Pokémon’s HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Bug-Type Moves, and they will get 1 extra die to their Damage Pool. "
+Sweet Veil,The Pokémon and its allies are immune to the Sleep status. Increase random encounters with Wild Pokémon.
+Swift Swim,"If Rain Weather is in effect, Increase 2 Points to this Pokémon’s Dexterity Attribute."
+Symbiosis,"If an ally loses or spends its Held Item, this Pokémon will immediately give the one it’s holding to the ally as a free action. "
+Synchronize,"If a foe inflicts a Status Condition to this Pokémon, the same condition is inflicted into the foe unless it is immune to the effect."
+Tangled Feet,"While this Pokémon is Confused, Add an extra -2 “Reduced Accuracy” to all the foe’s Moves which target this Pokémon."
+Tangling Hair,"The first time a foe hits this Pokémon with a Non-Ranged Physical Attack, reduce 1 Point to its Dexterity Attribute."
+Technician,Add 1 dice to the Damage pool of all Moves with Power 2 or less.
+Telepathy,This Pokémon won’t receive damage from moves performed by its allies.
+Teravolt,"If a Move, Item or Ability would prevent this Pokémon from targeting a foe or inflicting an effect, ignore it. (e.g. A Pokémon with Immunity can be Poisoned, A Pokémon with Levitate can be hit by Ground moves)."
+Thick Fat,Reduce by 1 the damage taken from Fire and Ice-Type moves.
+Tinted Lens,"If a foe has a resistance against an attack performed by this Pokémon, make that attack deal Regular Damage instead. If the foe has a double resistance, make the attack as if the foe had only one."
+Torrent,"When this Pokémon’s HP is at half or less, Pain Penalization will not reduce successes from Damage rolls of its Water-Type Moves, and they will get 1 Extra Die to their Damage Pool."
+Tough Claws,"Whenever this Pokémon uses a Non-Ranged Physical Attack, Add 1 Die to its damage pool."
+Toxic Boost,"If this Pokémon gets the Poison or Badly Poison Status, Increase 2 Point to its Strength Attribute."
+Trace,"This Pokémon copies the ability of one random foe when it comes out. Effect ends if this Pokémon is removed from the battle. Some Abilities (Flower Gift, Illusion, Imposter, Stance Change, Wonder Guard etc.) Can’t be copied."
+Triage,Add Pritority +1 to all Support moves of this Pokémon that Heal HP or cure Status Ailments.
+Truant,"Roll this Pokemon’s Loyalty every other turn, and score at least 2 successes. If the roll fails this Pokémon refuses to act. If it is successful it may act normally."
+Turboblaze,"If a Move, Item or Ability would prevent this Pokémon from targeting a foe or inflicting an effect, ignore it. (e.g. A Pokémon with Immunity can be Poisoned, A Pokémon with Levitate can be hit by Ground moves)."
+Unaware,This Pokémon ignores any of the opponent’s Attribute increases or decreases. Both when attacking and taking damage.
+Unburden,"The first time this Pokémon loses or spends its held item and is no longer holding any, Increase 2 Points to its Dexterity Attribute."
+Unleafed,"When Mega evolving or on switch in. Increase the user's Strength, Defense, Special, Special Defense and Dexterity by 1. These boosts lasts for X + 1 turns where X is the number of fainted Pokemon in this Pokemon's team."
+Unnerve,Opponents may not consume their held berry while this Pokémon is in the field.
+Vampiric,"When using a contact move, the user restores hp equal to a quarter of the damage dealt, rounded down."
+Vaporization,All Water Type moves including Support moves will fail. Water Type Pokemon take 1 damage per round.
+Venomous,The Pokemon will inflict Poison+ in place of regular Poison.
+Victory Star,This Pokémon’s and All its allies damaging moves gain “Never Miss” while this Pokémon is on the field. This Ability can’t be switched or swapped.
+Vital Spirit,The Pokémon is immune to the Sleep status.
+Wandering Spirit,"If this Pokémon hits a Foe with a Non-Ranged Physical Attack, it switches its Ability
+with the Foe’s. Some Abilities (Flower Gift, Illusion, Imposter, Stance Change, Wonder
+Guard etc.) can’t be switched at Storyteller’s discretion."
+Water Absorb,"Whenever this Pokémon is hit by a Water-Type Move, you may Heal 1 HP instead of receiving damage. Water-type moves do not deal damage to this Pokémon."
+Water Bubble,Fire-Type Moves deal 1 less damage to this Pokémon. This Pokémon is immune to Burn 1 and Burn 2 Status. Add 2 Extra Dice to the Damage Pool of this Pokémon’s Water-Type Moves.
+Water Compaction,"The fist time this Pokémon is hit by a Water-Type Move, Increase its Defense by 2 instead of receiving damage. Water-type moves do not deal damage to this Pokémon."
+Water Veil,The Pokémon is immune to any of the Burn status.
+Weak Armor,"The first time this Pokémon is hit by any Physical Attack, Increase 1 Point to its Dexterity Attribute and Reduce 1 Point to its Defense."
+White Smoke,"Foes cannot reduce the Attributes of this Pokémon. However, it can still lower its own Attributes."
+Wimp Out,"Whenever this Pokémon reaches half of its total HP, it will switch out to its pokéball, sending an Ally to take its place. If there is no Ally, the battle may end. This Ability’s effect is not affected by Block."
+Wind Force,"The first time this Pokémon is hit by a Flying-Type move, add 1 Extra Die to the Damage Pool of Fire-type Moves this Pokémon uses until the end of the scene."
+Winter Joy,"During Winter, this Pokemon has its Strength and  Special increased by 2. However, it will have its Strength and Special decreased by 1 during Summer. Its stats remains unchanged in other seasons."
+Wonder Guard,"This Pokémon only receives damage from Status Conditions, and from Moves that deal Super Effective damage against it. This Pokémon is immune to damage from other sources like weather conditions and entry hazards."
+Wonder Skin,"Reduce up to 2 Chance Dice from foes against this Pokémon. (Example: The move Ember has 1 Chance Dice to Burn the foe, against this Pokémon it has zero Chance Dice)."
+Zen Mode,"Only Darmanitan may use this Ability. When at half or less of its HP, change to Zen Mode Form at the end of the Round. Use its Zen Mode Form from then on. Adjust its Attributes according to the Rank and Limits it has for each Form."
