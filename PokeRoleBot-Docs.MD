@@ -12,7 +12,7 @@
 	* Overview of item lists
 * [Random Encounters](#random-encounters)
 	* How do they work?
-	* Examples with lists
+	* %encounter
 	* I want a chance for a rarer encounter mixed in
 * [Misc Commands](#misc-commands)
 	* Random from a list
