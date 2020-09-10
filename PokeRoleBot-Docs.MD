@@ -51,6 +51,12 @@ example: `%item <item>` OR `%item`
 This command gives you the item's description, and any properties it has.
 You may use %item by itself for a list of catagories.
 
+- **Ability Descriptions** --> `%ability <ability>`
+
+example: `%ability run away`
+
+This command gives you the description of the ability.
+
 -----------------------------------------------------------------
 
 <h3>Lists</h3>
