@@ -1,4 +1,4 @@
-No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality,Max Vitalty,Special,Max Special,Insight,Max Insight,Ability 1,Ability 2,Hidden Ability,Event Abilities,Unevolved?,Has a form?,Recommended Rank,Gender Type
+No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality,Max Vitality,Special,Max Special,Insight,Max Insight,Ability 1,Ability 2,Hidden Ability,Event Abilities,Unevolved?,Has a form?,Recommended Rank,Gender Type
 #001,Bulbasaur,Grass,Poison,3,2,4,2,4,2,4,2,4,2,4,Overgrow,,Chlorophyll,,Yes,,Beginner,
 #002,Ivysaur,Grass,Poison,4,2,4,2,4,2,4,2,5,2,5,Overgrow,,Chlorophyll,,Yes,,Amateur,
 #003,Venusaur,Grass,Poison,5,2,5,2,5,2,5,3,6,3,6,Overgrow,,Chlorophyll,,,Yes,Ace,
@@ -759,7 +759,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #656,Froakie,Water,,3,2,4,2,5,1,3,2,4,1,3,Torrent,,Protean,,Yes,,Beginner,
 #657,Frogadier,Water,,4,2,4,3,6,2,4,2,5,2,4,Torrent,,Protean,,Yes,,Amateur,
 #658,Greninja,Water,Dark,5,3,6,3,7,2,4,3,6,2,5,Torrent,,Protean,Battle Bond,,Yes,Ace,
-#668B,BBF Greninja,,,,,,,,,,,,,,,,,,,,,
+#668B,BBF Greninja,Water,Dark,5,3,6,3,7,2,4,3,6,2,5,Torrent,,Protean,Battle Bond,,Yes,Ace,
 #659,Bunnelby,Normal,,3,1,3,2,4,1,3,1,3,1,3,Pickup,Cheer Pouch,Huge Power,,Yes,,Beginner,
 #660,Diggersby,Normal,Ground,4,2,4,2,5,2,5,2,4,2,5,Pickup,Cheer Pouch,Huge Power,,,,Amateur,
 #661,Fletchling,Normal,Flying,3,2,4,2,4,1,3,1,3,1,3,Big Pecks,,Gale Wings,,Yes,,Starter,
