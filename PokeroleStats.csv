@@ -967,13 +967,13 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #847,Barraskewda,Water,,4,3,7,3,7,2,4,2,4,2,4,Swift Swim,,Propeller Tail,,,,Amateur,
 #848,Toxel,Electric,Poison,3,3,3,3,3,3,3,3,3,3,3,Rattled,Static,Klutz,,Yes,,Amateur,
 #849,Toxtricity Amped,Electric,Poison,4,3,6,2,5,2,5,3,6,2,5,Punk Rock,Plus,Technician,,,Yes,Ace,
-#849,Toxtricity Low Key,Electric,Poison,4,3,6,2,5,2,5,3,6,2,5,Punk Rock,Plus,Technician,,,Yes,Ace,
+#849,Toxtricity Low Key,Electric,Poison,4,3,6,2,5,2,5,3,6,2,5,Punk Rock,Minus,Technician,,,Yes,Ace,
 #850,Sizzlipede,Fire,Bug,3,2,4,2,4,2,4,2,4,2,4,Flash Fire,White Smoke,Flame Body,,Yes,,Amateur,
 #851,Centiskorch,Fire,Bug,5,3,6,2,4,2,4,2,5,2,5,Flash Fire,White Smoke,Flame Body,,,,Ace,
 #852,Clobbopus,Fighting,,3,2,4,1,3,2,4,2,4,2,4,Limber,,Technician,,Yes,,Beginner,
 #853,Grapploct,Ghost,,4,3,6,1,3,2,5,2,5,2,5,Limber,,Technician,,,,Amateur,
 #854,Sinistea,Ghost,,3,2,4,2,4,2,4,2,5,2,4,Weak Armor,,Cursed Body,,Yes,,Beginner,
-#855,Polteageist,Psychic,,4,2,4,2,5,2,4,3,7,3,6,Weak Armor,,Cursed Body,,,,Amateur,N
+#855,Polteageist,Ghost,,4,2,4,2,5,2,4,3,7,3,6,Weak Armor,,Cursed Body,,,,Amateur,N
 #856,Hatenna,Psychic,,3,1,3,1,3,2,4,2,4,2,4,Healer,Anticipation,Magic Bounce,,Yes,,Beginner,F
 #857,Hattrem,Psychic,,4,1,3,2,4,2,4,2,5,2,5,Healer,Anticipation,Magic Bounce,,Yes,,Amateur,F
 #858,Hatterene,Psychic,Fairy,5,2,5,1,3,3,6,3,7,3,6,Healer,Anticipation,Magic Bounce,,,,Ace,F
@@ -993,7 +993,8 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #872,Snom,Ice,Bug,3,1,3,1,3,1,3,2,4,1,3,Shield Dust,,Ice Scales,,Yes,,Starter,
 #873,Frosmoth,Ice,Bug,4,2,4,2,4,2,4,3,7,2,5,Shield Dust,,Ice Scales,,,,Amateur,
 #874,Stonjourner,Rock,,6,3,7,2,5,3,7,1,3,1,3,Power Spot,,,,,,Amateur,
-#875,Eiscue,Ice,,6,2,5,2,4,3,6,2,4,2,5,Ice Face,,,,,Yes,Amateur,
+#875,Eiscue,Ice,,4,2,5,2,4,3,6,2,4,2,5,Ice Face,,,,,Yes,Amateur,
+#875,Form Eiscue,Ice,,4,2,5,3,7,2,5,2,4,2,4,Ice Face,,,,,Yes,Amateur,
 #876,Indeedee,Psychic,Normal,4,2,4,3,6,2,4,3,6,3,6,Inner Focus,Synchronize,Psychic Surge,,,,Starter,
 #877,Morpeko,Electric,Dark,4,3,6,3,6,2,4,2,5,2,4,Hunger Switch,,,,,Yes,Beginner,
 #878,Cufant,Steel,,3,2,5,1,3,2,4,1,3,2,4,Sheer Force,,Heavy Metal,,Yes,,Beginner,
