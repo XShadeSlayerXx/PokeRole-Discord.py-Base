@@ -5,6 +5,8 @@
 	* What Moves a Pokemon can learn
 	* Finding Move Definitions
 	* Items and what they do
+	* Abilities
+	* Habitats
 * [Lists](#lists)
 	* How do they work?
 	* Creating, Modifying, and Deleting them
@@ -56,6 +58,16 @@ You may use %item by itself for a list of catagories.
 example: `%ability run away`
 
 This command gives you the description of the ability.
+
+- **Habitats** --> `%habitat`
+
+example: `%habitat` OR `%habitat tide pools`
+
+This command is similar to `%item`, using `%habitat` by iself lists catagories,
+and using `%habitat <habitat>` lists that habitat's suggested inhabitants.
+(All habitats and the pokemon in them were originally created by theworldofpokemon.com)
+
+Filtering pokemon by habitat coming soon!
 
 -----------------------------------------------------------------
 
