@@ -1,4 +1,5 @@
 No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality,Max Vitality,Special,Max Special,Insight,Max Insight,Ability 1,Ability 2,Hidden Ability,Event Abilities,Unevolved?,Has a form?,Recommended Rank,Gender Type
+#000,Egg,Normal,,1,1,1,1,1,1,1,1,1,1,1,,,,,,,Starter,
 #001,Bulbasaur,Grass,Poison,3,2,4,2,4,2,4,2,4,2,4,Overgrow,,Chlorophyll,,Yes,,Beginner,
 #002,Ivysaur,Grass,Poison,4,2,4,2,4,2,4,2,5,2,5,Overgrow,,Chlorophyll,,Yes,,Amateur,
 #003,Venusaur,Grass,Poison,5,2,5,2,5,2,5,3,6,3,6,Overgrow,,Chlorophyll,,,Yes,Ace,
