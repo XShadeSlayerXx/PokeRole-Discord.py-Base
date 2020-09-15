@@ -11,6 +11,7 @@
 	* How do they work?
 	* Creating, Modifying, and Deleting them
 	* Quickly adding lots of similar pokemon
+	* Adding pokemon from a habitat
 	* Overview of item lists
 * [Random Encounters](#random-encounters)
 	* How do they work?
@@ -67,7 +68,7 @@ This command is similar to `%item`, using `%habitat` by iself lists catagories,
 and using `%habitat <habitat>` lists that habitat's suggested inhabitants.
 (All habitats and the pokemon in them were originally created by theworldofpokemon.com)
 
-Filtering pokemon by habitat coming soon!
+[Check out how to filter pokemon from a habitat into a list!](#filtering-by-habitat)
 
 -----------------------------------------------------------------
 
@@ -166,6 +167,26 @@ Pokemon lists are the most common, so I'll go over them first.
 		In this case I want to remove the pokemon in shade_grassland that are also in shade_forest (Bellsprout, Bulbasaur).
 		
 		`%listsub shade_grassland shade_forest` will remove the pokemon from shade_grassland, and will not affect the list shade_forest.
+		
+- **<h4 id='filtering-by-habitat'>Filtering Pokemon into a list from a habitat</h4>** --> `%filterhabitat list [rank] [includeLowerRanks] habitat`
+
+	(`%fh list habitat` for the short version)
+
+	Want to add a specific biome to a list? Combine different habitats together? This command lets you do just that!
+	
+	To get started, you'll need to have a habitat in mind. Finding one is easy, simply type `%habitat`, choose a biome from the list, and type `%habitat <biome>` i.e. `%habitat ocean biomes`.
+	
+	In this example I'll use the Tide Pool biome from the Ocean Biomes option.
+	
+	I'll add the pokemon ranked Amateur and lower to the list, since Pro is stronger than I want for this occasion.
+	
+	`%filterhabitat tide_bois amateur tide pools`
+	
+	And Voila! The pokemon are added!
+	
+	(Note: if I wanted *only* Amateur ranks, type `false` after the rank, like so:
+	`%filterhabitat tide_bois amateur False tide pools`)
+		
 - <h5>Overview of item lists</h5>
 		
 	Item lists are new, so if they don't work correctly please @shadeslayer
