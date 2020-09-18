@@ -1,6 +1,8 @@
 # PokeRole-Discord.py-Base
 Just a collection of database csv files and a small script for use in a python-based discord bot.
 
+[Documentation here!](https://github.com/XShadeSlayerXx/PokeRole-Discord.py-Base/blob/master/PokeRoleBot-Docs.MD)
+
 How to help: Currently taking suggestions on improvements.
 
 Items and Pokemon are fully implemented!
