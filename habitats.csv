@@ -79,7 +79,7 @@ Deserts,Sandaconda,Heliolisk,Silicobra,Helioptile,Maractus,Krookodile,Krokorok,S
 Active Volcanoes,Magmortar,Magby,Magmar,Weezing,Koffing,Arcanine,Growlithe
 Volcanic Areas,Cyndaquil,Quilava,Typhlosion
 High/Rocky Biomes,Badlands,Cliffs,Highlands,Mountains,Rocky Areas,Mountainous Forests,Cliffsides,Harsh Mountains,Crags,Seaside Cliffs,Near Mountains,Montane,Peaks,Cliffs Near Oceans
-Badlands,Salazzle,Salandit,Toxel,Toxtricity,Mandibuzz,Vullaby,Scraggy,Scrafty,Garchomp,Gabite,Gible,Houndoom,Falinks,Kommo-o,Jangmo-o,Hakamo-o,Mudsdale,Mudbray,Rockruff,Lycanroc,Rhyperior,Rhydon,Rhyhorn,Tyranitar,Larvitar,Pupitar,Skarmory,Cubone,Marowak,Pawniard,Duskull,Metagross,Beldum,Dusclops,Dusknoir,Metang
+Badlands,Salazzle,Salandit,Toxel,Toxtricity Low Key,Mandibuzz,Vullaby,Scraggy,Scrafty,Garchomp,Gabite,Gible,Houndoom,Falinks,Kommo-o,Jangmo-o,Hakamo-o,Mudsdale,Mudbray,Rockruff,Lycanroc,Rhyperior,Rhydon,Rhyhorn,Tyranitar,Larvitar,Pupitar,Skarmory,Cubone,Marowak,Pawniard,Duskull,Metagross,Beldum,Dusclops,Dusknoir,Metang
 Cliffs,Hydreigon,Salamence,Metagross,Beldum,Shelgon,Bagon,Metang
 Highlands,Hydreigon,Pawniard
 Mountains,Ursaring,Teddiursa,Chatot,Starly,Duraludon,Falinks,Centiskorch,Sizzlipede,Carkol,Coalossal,Rolycoly,Kommo-o,Jangmo-o,Hakamo-o,Drampa,Clefairy,Mienshao,Mienfoo,Hariyama,Makuhita,Cleffa,Clefable,Turtonator,Rockruff,Lycanroc,Pangoro,Pancham,Skiddo,Diggersby,Bunnelby,Durant,Heatmor,Cinccino,Minccino,Sawk,Throh,Bonsly,Snorlax,Conkeldurr,Timburr,Gigalith,Boldore,Roggenrola,Stoutland,Gliscor,Rhyperior,Rhydon,Rhyhorn,Chingling,Chimecho,Staraptor,Staravia,Munchlax,Absol,Medicham,Meditite,Tyranitar,Larvitar,Pupitar,Hitmontop,Tyrogue,Hitmonchan,Hitmonlee,Stantler,Shuckle,Steelix,Onix,Scyther,Cubone,Marowak,Golem,Graveler,Geodude,Machamp,Machoke,Machop,Primeape,Mankey,Jumpluff,Skiploom,Hoppip,Vanillish,Vanilluxe,Vanillite,Froslass,Mamoswine,Swinub,Piloswine,Sneasel,Weavile,Riolu,Lopunny,Spinda,Aron,Grumpig,Spoink,Lairon,Aggron,Lucario,Buneary
@@ -94,7 +94,7 @@ Montane,Sawsbuck,Deerling
 Peaks,Glalie,Snorunt
 Cliffs Near Oceans,Spoink,Grumpig
 Field Biomes,Grasslands,Fields,Meadows,Plains,Arid Scrublands Near Water,Dry Chaparrals,Wastelands,Barren Wastelands,Scorched Plains,Prairies,Remote Areas,Pastures,Farms Ranches,Savannas,Grassy Plains,Grassy Fields,Dry Grasslands,Rural Areas,Grassy Meadows Near Streams,Grassy Meadows,Open Areas,Farmlands,Chaparrals,Plains Near Water,Ranches,Grasslands Near Water,Open Fields,Warm Grasslands,Fields Near Ponds
-Grasslands,Toxel,Toxtricity,Sandslash,Sandshrew,Stonjourner,Chingling,Chimecho,Scyther,Hypno,Drowzee,Electrike,Zangoose,Manectric,Gumshoos,Yungoos,Morpeko,Dubwool,Wooloo,Poochyena,Mightyena,Scizor,Tauros,Ponyta,Rapidash,Serperior,Servine,Snivy,Sentret,Furret,Linoone,Zigzagoon,Pidgey,Incineroar,Torracat,Litten,Farfetch'd,Farfetch'd,Yamper,Pignite,Emboar,Tepig,Obstagoon,Boltund
+Grasslands,Toxel,Toxtricity Low Key,Sandslash,Sandshrew,Stonjourner,Chingling,Chimecho,Scyther,Hypno,Drowzee,Electrike,Zangoose,Manectric,Gumshoos,Yungoos,Morpeko,Dubwool,Wooloo,Poochyena,Mightyena,Scizor,Tauros,Ponyta,Rapidash,Serperior,Servine,Snivy,Sentret,Furret,Linoone,Zigzagoon,Pidgey,Incineroar,Torracat,Litten,Farfetch'd,Farfetch'd,Yamper,Pignite,Emboar,Tepig,Obstagoon,Boltund
 Fields,Togedemaru,Dedenne,Electivire,Electabuzz,Elekid,Plusle,Minun,Spearow,Chatot,Starly,Skiddo,Diggersby,Bunnelby,Stoutland,Staraptor,Staravia,Medicham,Meditite,Jumpluff,Skiploom,Hoppip,Pidgey,Fletchling,Watchog,Patrat,Morpeko,Dubwool,Wooloo,Nidoking,Nidorino,Nidoran M,Litleo,Pyroar,Nidorina,Nidoqueen,Nidoran F,Nickit,Orbeetle,Blipbug,Dottler,Ribombee,Sunflora,Sunkern,Florges,Floette,Flabebe,Talonflame,Fletchinder,Milcery,Herdier,Lillipup,Alcremie,Cutiefly,Pumpkaboo,Gourgeist,Espurr,Meowstic,Swablu,Linoone,Zigzagoon,Persian,Meowth,Raticate,Rattata,Escavalier,Karrablast,Yamper,Eldegoss,Gossifleur,Chesnaught,Quilladin,Chespin,Amoonguss,Foongus,Pidgeot,Pidgeotto,Altaria,Thievul,Luxray,Kricketune,Roserade,Luxio,Shinx,Kecleon,Budew,Obstagoon,Boltund,Spinda,Roselia,Kricketot
 Meadows,Dedenne,Ribombee,Sunflora,Sunkern,Aromatisse,Spritzee,Sentret,Furret,Comfey,Cutiefly,Slurpuff,Swirlix,Eldegoss,Gossifleur,Swellow,Taillow,Oricorio
 Plains,Mandibuzz,Vullaby,Mudsdale,Mudbray,Rhyperior,Rhydon,Rhyhorn,Bouffalant,Zebstrika,Blitzle,Doduo,Miltank,Girafarig,Dodrio,Tauros,Ponyta,Rapidash,Arbok,Ekans,Raticate,Rattata
@@ -153,7 +153,7 @@ Abysses,Malamar,Inkay,Lumineon,Jellicent,Frillish,Dhelmise,Dragalge,Skrelp,Goreb
 Ocean Trenches,Gorebyss,Huntail
 Swamp Biomes,Wetlands,Swamps,Marshes,Iron-Rich Marshes,Fens,Humid Swamps,Bogs
 Wetlands,Rufflet,Braviary,Tympole,Seismitoad,Palpitoad,Tangela,Tangrowth,Accelgor,Shelmet,Escavalier,Karrablast,Stunfisk,Greninja,Froakie,Frogadier,Surskit,Masquerain,Corvisquire,Rookidee,Corviknight
-Swamps,Toxel,Toxtricity,Whiscash,Murkrow,Honchkrow,Yanma,Yanmega,Vileplume,Gloom,Oddish,Sliggoo,Goodra,Goomy,Carnivine,Toxicroak,Croagunk,Barboach
+Swamps,Toxel,Toxtricity Low Key,Whiscash,Murkrow,Honchkrow,Yanma,Yanmega,Vileplume,Gloom,Oddish,Sliggoo,Goodra,Goomy,Carnivine,Toxicroak,Croagunk,Barboach
 Marshes,Skorupi,Drapion,Whiscash,Wooper,Quagsire,Sliggoo,Goodra,Goomy,Carnivine,Toxicroak,Croagunk,Barboach
 Iron-Rich Marshes,Stunfisk
 Fens,Stunfisk,Accelgor,Shelmet
@@ -232,7 +232,7 @@ Hoenn Savannas,Blaziken,Combusken,Torchic
 Hoenn Forests,Sceptile,Grovyle,Treecko
 Alolan Jungles,Incineroar,Torracat,Litten
 Alolan Forests,Dartrix,Decidueye,Rowlet
-Alolan Beaches,Primarina,Brionne
+Alolan Beaches,Primarina,Brionne,Popplio
 Galarian Grasslands,Cinderace,Raboot,Scorbunny
 Galarian Jungles,Grookey,Rillaboom,Thwackey
 Galarian Ponds,Inteleon,Drizzile,Sobble
