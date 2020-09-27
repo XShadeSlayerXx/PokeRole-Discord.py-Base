@@ -175,7 +175,7 @@ Mat Block,fighting,SUPPORT,0,,,DEXTERITY,ATHLETIC,User and Allies,Shield. Reduce
 Meteor Assault,fighting,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. Must Recharge. -1 Accuracy.
 No Retreat,fighting,SUPPORT,0,,,INSIGHT,NATURE,User,"Increase the User's Strength, Dexterity, Special, Defense and Sp. Defense. The user is now blocked."
 Octolock,fighting,SUPPORT,0,,,STRENGTH,BRAWL,Foe,Block. Reduce the foe's Defense and Sp. Defense.
-Power-up Punch,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Increase User's Strength.
+Power-Up Punch,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Increase User's Strength.
 Quick Guard,fighting,SUPPORT,0,,,DEXTERITY,ATHLETIC,User and Allies,"Priority 3. Shield Move. This move will only protect against Damaging Moves with ""Priority"". Reduce 3 Dice from the foe's Damage Pool. Negate the effects of support moves that target the User and Allies."
 Revenge,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the User has already received damage this round. add 2 Extra Dice to the Damage Pool.
 Reversal,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 1 Extra Dice to the Damage Pool for every missing HP the User has. Up to 5 Dice may be added this Way.
@@ -276,7 +276,7 @@ Shadow Sneak,ghost,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Priority 1.
 Spectral Thief,ghost,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"If successful, BEFORE the user deals damage with this Move, steal all Attribute Increases the foe may have. Reduced Attributes on the foe remain."
 Spirit Shackle,ghost,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Blocks.
 Spite,ghost,SUPPORT,0,,,WILL,INTIMIDATE,Foe,Reduce Target's Will to 1 point temporarily. Reset any effects it got from spending Will Points.
-Trick-or-Treat,ghost,SUPPORT,0,,,WILL,ALLURE,Foe,Add the Ghost type to Target's Type. (ie. Meowth will now by Normal/Ghost Charizard will now be Fire/Flying/Ghost) If the Pokémon already has a third type attached. replace it.
+Trick-Or-Treat,ghost,SUPPORT,0,,,WILL,ALLURE,Foe,Add the Ghost type to Target's Type. (ie. Meowth will now by Normal/Ghost Charizard will now be Fire/Flying/Ghost) If the Pokémon already has a third type attached. replace it.
 Absorb,grass,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,The user restores HP equal to half the damage dealth rounded down.
 Apple Acid,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce the Foe's Sp. Defense.
 Aromatherapy,grass,SUPPORT,0,,,INSIGHT,NATURE,User and Allies,Cure User and Allies from Burn. Freeze. Paralysis. Poison or Sleep.
