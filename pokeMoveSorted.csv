@@ -284,7 +284,7 @@ Branch Poke,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-
 Bullet Seed,grass,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions.
 Cotton Guard,grass,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,Increase the User's Defense by 3.
 Cotton Spore,grass,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,Reduce foe's Dexterity by 2.
-Drum Breating,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,PERFORM,Foe,Reduce the Foe's Dexterity
+Drum Beating,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,PERFORM,Foe,Reduce the Foe's Dexterity
 Energy Ball,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Sp. Defense.
 Forest's Curse,grass,SUPPORT,0,,,WILL,NATURE,Foe,Add the Grass Type to the Target's Type (ie. Nidoran will now be Poison/Grass Heracross will now be Bug/Fight/Grass). If the Pokémon already has a third type attached. replace it.
 Frenzy Plant,grass,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Must Recharge. -1 Accuracy.
