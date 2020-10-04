@@ -972,7 +972,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #850,Sizzlipede,Fire,Bug,3,2,4,2,4,2,4,2,4,2,4,Flash Fire,White Smoke,Flame Body,,Yes,,Amateur,
 #851,Centiskorch,Fire,Bug,5,3,6,2,4,2,4,2,5,2,5,Flash Fire,White Smoke,Flame Body,,,,Ace,
 #852,Clobbopus,Fighting,,3,2,4,1,3,2,4,2,4,2,4,Limber,,Technician,,Yes,,Beginner,
-#853,Grapploct,Ghost,,4,3,6,1,3,2,5,2,5,2,5,Limber,,Technician,,,,Amateur,
+#853,Grapploct,Fighting,,4,3,6,1,3,2,5,2,5,2,5,Limber,,Technician,,,,Amateur,
 #854,Sinistea,Ghost,,3,2,4,2,4,2,4,2,5,2,4,Weak Armor,,Cursed Body,,Yes,,Beginner,
 #855,Polteageist,Ghost,,4,2,4,2,5,2,4,3,7,3,6,Weak Armor,,Cursed Body,,,,Amateur,N
 #856,Hatenna,Psychic,,3,1,3,1,3,2,4,2,4,2,4,Healer,Anticipation,Magic Bounce,,Yes,,Beginner,F
