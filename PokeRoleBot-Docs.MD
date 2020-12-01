@@ -20,6 +20,7 @@
 * [Misc Commands](#misc-commands)
 	* Random from a list
 	* Status Tracker between turns
+	* Items found in shops, sorted by price
 * [Settings](#settings)
 	* What each setting does
 	* How to add items to random encounters
@@ -264,6 +265,16 @@ Pokemon lists are the most common, so I'll go over them first.
 	`%status del <status>` or `%status del <number>` will delete the status by exact \<name> or \<number>.
 	
 	`%status change <number> <status>` will change the status in \<number> to \<status>. Useful for changing Burn 2 to Burn 1, etc.
+
+* <h5>Items found in shops, sorted by price</h5>
+
+	The `%shop` command displays items that can be found in shops, sorted by their prices.
+	(The `%item` command will display items by category, and provides lookup for item descriptions and effects)
+	
+	For example, your player has 1000 poke to spend. `%shop 1000` will display all items up to and including 1000 poke.
+	Alternatively, if your player is overflowing with cash and wants to only see the highest priced goods, `%shop 1000 True` or `%shop 1000 t` will show all items that cost 1000 poke or more.
+	
+	Any price value will work.
 
 -----------------------------------------------------------------
 
