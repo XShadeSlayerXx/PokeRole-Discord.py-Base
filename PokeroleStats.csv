@@ -480,7 +480,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #404,Luxio,Electric,,4,2,5,2,4,2,4,2,4,2,4,Rivalry,Intimidate,Guts,,Yes,,Amateur,
 #405,Luxray,Electric,,5,3,7,2,5,2,5,3,6,2,5,Rivalry,Intimidate,Guts,,,,Ace,
 #406,Budew,Grass,Poison,3,1,3,2,4,1,3,2,4,2,5,Natural Cure,Poison Point,Leaf Guard,,Yes,,Starter,
-#407,Roserade,Grass,Poison,5,2,5,2,5,2,4,3,7,3,6,Natural Cure,Poison Point,Leaf Guard,,,,Amateur,
+#407,Roserade,Grass,Poison,5,2,5,2,5,2,4,3,7,3,6,Natural Cure,Poison Point,Technician,,,,Amateur,
 #408,Cranidos,Rock,,3,3,7,2,4,1,3,1,3,1,3,Mold Breaker,,Sheer Force,,Yes,,Amateur,
 #409,Rampardos,Rock,,4,4,8,2,4,2,4,2,4,2,4,Mold Breaker,,Sheer Force,,,,Ace,
 #410,Shieldon,Rock,Steel,3,1,3,1,3,3,6,1,3,2,5,Sturdy,,Soundproof,,Yes,,Amateur,
