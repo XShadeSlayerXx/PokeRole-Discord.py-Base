@@ -84,7 +84,7 @@ Dual Chop,dragon,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Double Action. -1 Accu
 Dynamax Cannon,dragon,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool."
 Eternabeam,dragon,SPECIAL,7,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Must Recharge. -1 Accuracy.
 Outrage,dragon,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Random Foe,Rampage.
-Roar of Time,dragon,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,"Lethal. If successful, the target can't have any action until next Round. -1 Accuracy."
+Roar Of Time,dragon,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,"Lethal. If successful, the target can't have any action until next Round. -1 Accuracy."
 Spacial Rend,dragon,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. High Critical.
 Twister,dragon,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 2 Chance Dice to Flinch the foes.
 Aura Wheel,electric,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,"If successful, Increase user's Dexterity. If the user is in “Hangry” Form this Move is considered to be Dark-Type."
@@ -136,7 +136,7 @@ Fleur Cannon,fairy,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Reduce User's 
 Floral Healing,fairy,SUPPORT,0,,,INSIGHT,NATURE,One Ally,Basic Heal. If performed over Grassy Terrain this move is a Complete Heal.
 Flower Shield,fairy,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,Increase the Defense of All Grass Type Pokémon on the field.
 Geomancy,fairy,SUPPORT,0,,,INSIGHT,NATURE,User,"Charge Move. The user charges, then Increases by 2 its Dexterity, Special and Sp. Defense scores on its next Turn."
-Light of Ruin,fairy,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Recoil. -1 Accuracy.
+Light Of Ruin,fairy,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Recoil. -1 Accuracy.
 Misty Terrain,fairy,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,Creatures standing on the battlefield won't be affected by Status Ailments. Dragon Type attacks won't add their Power to the Damage Pool. Lasts 4 Rounds.
 Moonblast,fairy,SPECIAL,3,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 3 Chance Dice to Reduce foe's Special.
 Moonlight,fairy,SUPPORT,0,,,INSIGHT,NATURE,User,Basic Heal. If successful spend 1 Will point to activate. If performed at Night or Sunny Weather is in effect this move becomes a Complete Heal. If rain/Sandstorm Weather is in effect this move only heals 1hp
