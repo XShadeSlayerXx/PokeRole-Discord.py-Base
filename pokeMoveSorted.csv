@@ -3,7 +3,7 @@ Bug Bite,bug,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the Target Pokémon is 
 Bug Buzz,bug,SPECIAL,3,SPECIAL,,SPECIAL,PERFORM,Foe,Sound Based. Roll 1 Chance Dice to reduce foe's Sp. Defense.
 Defend Order,bug,SUPPORT,0,,,TOUGH,NATURE,User,User Increases its Defense and Sp. Defense.
 Fell Stinger,bug,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,If the foe faints due to damage from this attack increase the user's Strength by 2.
-First Impression,bug,PHYSICAL,3,STRENGTH,,STRENGTH,INTIMIDATE,Foe,Priority 2. This move will only work the First Round the Pokémon is out in battle. From the second round on it will fail automatic.
+First Impression,bug,PHYSICAL,3,STRENGTH,,STRENGTH,INTIMIDATE,Foe,Priority 2. This move will only work the First Round the Pokémon is out in battle. From the second round on it will fail automatically.
 Fury Cutter,bug,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions.
 Heal Order,bug,SUPPORT,0,,,TOUGH,NATURE,User,Basic Heal.
 Infestation,bug,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds.
@@ -727,5 +727,5 @@ Struggle,typeless,PHYSICAL/SPECIAL,0,STRENGTH/SPECIAL,,DEXTERITY,BRAWL/CHANNEL,F
 Grapple,typeless,SUPPORT,0,,,STRENGTH,BRAWL,Foe,The foe is Blocked. Foe can resist this Maneuver by rolling their Strength or Dexterity score and scoring the same or more successes than the user.
 Help Another,typeless,SUPPORT,0,,,,VARIES,One Ally,"Roll your Accuracy as if it was Chance Dice. If Successful, add one die to the Action of an Ally. Up to 6 dice may be added this way."
 Cover An Ally,typeless,SUPPORT,0,,,,,One Ally,The user will provide cover to the target from Ranged attacks and is more likely to be hit by close-range attacks. The level of Cover the user provides will depend on its size.
-Stabilize An Ally,typeless,SUPPORT,0,,,CLEVER,MEDICINE,One Ally,"The User applies CPR and/or first aid to an unconcious Ally. Target won't receive Lethal Damage each hour anymore. Each Lethal Damage on the Ally reduces 1 Success to the Accuracy Pool of this Maneuver."
+Stabilize An Ally,typeless,SUPPORT,0,,,CLEVER,MEDICINE,One Ally,The User applies CPR and/or first aid to an unconcious Ally. Target won't receive Lethal Damage each hour anymore. Each Lethal Damage on the Ally reduces 1 Success to the Accuracy Pool of this Maneuver.
 Run Away,typeless,SUPPORT,0,,,DEXTERITY,ATHLETIC,User,The User runs away from the battlefield. This effect ends the battle. Foes might try to prevent this by rolling: Dexterity + Athletic and scoring the same or more successes. If the user is Blocked this Maneuver fails.
