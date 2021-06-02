@@ -574,6 +574,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #485,Heatran,Fire,Steel,4,5,5,5,5,6,6,7,7,6,6,Flash Fire,,Flame Body,,,,Ace,
 #486,Regigigas,Normal,,6,8,8,6,6,6,6,5,5,6,6,Slow Start,,,,,Yes,Master,N
 #487,Giratina,Ghost,Dragon,8,6,6,5,5,7,7,6,6,7,7,Pressure,,Telepathy,,,Yes,Master,N
+#487,Origin Giratina,Ghost,Dragon,8,7,7,5,5,6,6,7,7,6,6,Levitate,,,,,Yes,Master,N
 #488,Cresselia,Psychic,,6,5,5,5,5,7,7,5,5,7,7,Levitate,,,,,,Pro,F
 #489,Phione,Water,,4,2,5,2,5,2,5,2,5,2,5,Hydration,,,,,,Pro,N
 #490,Manaphy,Water,,5,6,6,6,6,6,6,6,6,6,6,Hydration,,,,,,Pro,N
