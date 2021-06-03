@@ -661,8 +661,8 @@ Tar Shot,rock,SUPPORT,0,,,SPECIAL,CHANNEL,Foe,Reduce the foe's Dexterity. Until 
 Wide Guard,rock,SUPPORT,0,,,VITALITY,BRAWL,User and Allies,Priority 3. Shield. Reduce 3 Damage the User and Allies would receive from a damaging move. Reduce to zero the set damage from a move the User and Allies would take.
 Anchor Shot,steel,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Blocks.
 Autotomize,steel,SUPPORT,0,,,DEXTERITY,CHANNEL,User,Increase the User's Dexterity by 2. User's weight is halved for the rest of Scene.
-Behemot Bash,steel,PHYSICAL,4,STRENGTH,,VITALITY,BRAWL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool."
-Behemot Blade,steel,PHYSICAL,4,STRENGTH,,STRENGTH,BRAWL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool."
+Behemoth Bash,steel,PHYSICAL,4,STRENGTH,,VITALITY,BRAWL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool."
+Behemoth Blade,steel,PHYSICAL,4,STRENGTH,,STRENGTH,BRAWL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool."
 Bullet Punch,steel,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Priority 1.
 Doom Desire,steel,SPECIAL,6,SPECIAL,,INSIGHT,ALLURE,Foe,"Strikes at the end of the Round after the next. Bypass Shield Moves and Cover. If the target retires or switches out from battle, the damage will be dealt to the next opponent or to one of its allies. Extra effects may be added at Storyteller's Discretion"
 Double Iron Bash,steel,PHYSICAL,2,STRENGTH,,SPECIAL,CHANNEL,Foe,Roll 3 Chance Dice to Flinch the Foe.
