@@ -366,3 +366,17 @@ Lopunnite,Makes Lopunny Mega-evolve into Mega-Lopunny,,,,,,,,,,,,Lopunny,,Not fo
 Galladite,Makes Gallade Mega-evolve into Mega-Gallade,,,,,,,,,,,,Gallade,,Not for Sale,
 Audinite,Makes Audino Mega-evolve into Mega-Audino,,,,,,,,,,,,Audino,,Not for Sale,
 Diancite,Makes Diancie Mega-evolve into Mega-Diancie,,,,,,,,,,,,Diancie,,Not for Sale,
+Pmd Exclusive,,,,,,,,,,,,,,,,
+Blast Seed,If you eat this seed you'll suddenly sneeze a blast of fire. Foes do not have time to react. Deal 1 damage to a foe.,,,,,,,,,,,,,,,30
+Sleep Seed,Make a Dexterity + Fight + Canalize roll to shoot these seeds into your foe's mouth. Inflict the Sleep Condition.,,,,,,,,,,,,,,,50
+Stun Seed,Make  a  Dexterity  +  Fight  +  Canalize roll to shoot these seeds into your foe's mouth. Inflict the Paralysis Condition.,,,,,,,,,,,,,,,50
+Encourage Seed,"It doesn't taste any different than a plain seed, but you'll feel a surge of confidence after eating it. Gain High Critical in all moves for a scene.",,,,,,,,,,,,,,,100
+Heal Seed,"This seed's pure energy will cleanse any impurities away from your body, leaving you glowing with health. Heal all Status Conditions.",,,,,,,,,,,,,,,200
+Reviver Seed,Feed this seed to a Pokemon that just lost conciousness to get it back on its feet. These seeds are incredibly rare. Restore 1HP and return awareness.,,,,,,,,,,,,,,,1000
+All-Hit Orb,"As it explodes, the visibility around gets clear, no light, darkness or fog impedes your team to strike direcly. Gain Never-Miss in all moves for a scene.",,,,,,,,,,,,,,,150
+Escape Orb,This orb allows you to escape back to the guild. (The Mission will fail if the objective was not completed). Escape back to Guild territory.,,,,,,,,,,,,,,,150
+Health Orb,"Those who stand inside the blast's ratio will become healthy again, try to keep it thay way. Heal all Status Conditions.",,,,,,,,,,,,,,,300
+Luminous Orb,"As it explodes, the Orb will reveal the paths in the dungeon. Traps, treasures, hostile Pok'mon, etc. remain hidden. Reveal the dungeon.",,,,,,,,,,,,,,,300
+Weather Orb,"This orb will call for Sunshine, Rain, a Sandstorm or Hail in the area. The effects will last for the Scene. Summon a Weather condition.",,,,,,,,,,,,,,,300
+Observer Orb,Those affected by the orb's blast will remain observing the lights it produced unable to move. Flinch all foes in range.,,,,,,,,,,,,,,,300
+All-Protect Orb,"For the next three attacks each member of  the  team  receives, an energy field will protect you from damage. Cast Protect three times on each teammate.",,,,,,,,,,,,,,,500
