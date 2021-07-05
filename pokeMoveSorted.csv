@@ -155,7 +155,7 @@ Circle Throw,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Low Priority 1. T
 Close Combat,fighting,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,After dealing damage. Reduce the User's Defense and Sp. Defense.
 Counter,fighting,PHYSICAL,2,,,INSIGHT,BRAWL,Foe,This Move can only deal damage if the Foe has dealt Physical Damage to the User this Round. Roll the same Damage Pool as your Foe plus 2 Extra Dice. Ignore the foe's Defenses.
 Cross Chop,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical. -2 Accuracy.
-Detect,fighting,SUPPORT,0,,,INSIGHT,ALERT,User,Priority 5. Shield Move. Reduce 3 Dice from the foe's Damage Pool. Negate effects of Support Moves that target the user. Reduce to zero the set damage from a move the user would take.
+Detect,fighting,SUPPORT,0,,,INSIGHT,ALERT,User,Priority. Shield Move. Reduce 3 Damage this pokemon would receive from a Damaging Move. Negate effects of Support Moves that target the user. Reduce to zero the set damage from a move the user would take.
 Double Kick,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Double Action.
 Drain Punch,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. The user restore HP equal to half the damage dealt. rounded down.
 Dynamic Punch,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Confuse the foe. -3 Accuracy.
