@@ -427,7 +427,7 @@ Foresight,normal,SUPPORT,0,,,INSIGHT,ALERT,Foe,The Foe cannot evade moves perfor
 Frustration,normal,PHYSICAL,0,STRENGTH,MISSING HAPPINESS,DEXTERITY,BRAWL,Foe,Add +1 Dice to the Damage Roll for every missing point of Happiness on the User.
 Fury Attack,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. -1 Accuracy.
 Fury Swipes,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. -1 Accuracy.
-Giga Impact,normal,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Must Recharge. Lethal. -1 Accuracy
+Giga Impact,normal,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Must Recharge. Lethal. -1 Accuracy.
 Glare,normal,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,Paralyze the foe. -1 Accuracy.
 Growl,normal,SUPPORT,0,,,,PERFORM,All Foes,"Reduce the foe's Strength. Sound Based. ""Growl (Cute/Tough)"", the user should use the one with highest stat (tough / cute)"
 Growl (Cute),normal,SUPPORT,0,,,CUTE,PERFORM,All Foes,"Reduce the foe's Strength. Sound Based. Same move as ""Growl (Tough)"", the user should use the one with highest stat (tough / cute)"
