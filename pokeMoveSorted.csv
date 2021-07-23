@@ -373,22 +373,22 @@ Icy Wind,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Reduce Dexterity of t
 Mist,ice,SUPPORT,0,,,SPECIAL,NATURE,User and Allies,For the next 4 Rounds. the User and Allies cannot have their Attributes or Traits reduced.
 Powder Snow,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Roll 1 Chance Dice to Freeze those affected.
 Sheer Cold,ice,SPECIAL,0,,,SPECIAL,CHANNEL,Foe,Deal damage to the Target equal to its remaining HP plus 1 Lethal Damage. -5  Accuracy.
-Acupressure,normal,SUPPORT,0,,,DEXTERITY,NATURE,User,Increase a Random Attribute. If this Move is used again. the previous Attribute Modifier is removed.
-After You,normal,SUPPORT,0,,,COOL,ETIQUETTE,One Ally,The Target will go first in the order of Initiative. Lasts for the rest of this Battle.
-Assist,normal,SUPPORT,0,,,CLEVER,PERFORM,One Ally,Choose one Move known by a random member of your party. You performed that Move using the Accuracy roll from Assist.
-Attract,normal,SUPPORT,0,,,BEAUTY,ALLURE,Foe,If Successful. Target is now In Love. This Move fails if target is from same gender as the User of genderless.
-Barrage,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions. -1 Accuracy.
-Baton Pass,normal,SUPPORT,0,,,SPECIAL,CHANNEL,User,The User returns to this Pokéball. Any Increased Trait on the User is passed on to the next Pokémon. That Pokémon is ready to fight on the next Round. The User can't Increase those Traits again for the rest of the scene. Switcher Move.
-Belly Drum,normal,SUPPORT,0,,,TOUGH,PERFORM,User,User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength by 3.
-Bestow,normal,SUPPORT,0,,,COOL,ETIQUETTE,Foe,If target is not holding an Item. the User gives its own.
-Bide,normal,PHYSICAL,0,,,DEXTERITY,BRAWL,Foe,The User will take the next 2 hits. After those two attacks. you may use this Move again to retaliate with Strength + Twice the Damage receive from those 2 hits.
-Bind,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Block. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.
-Block,normal,SUPPORT,0,,,DEXTERITY,BRAWL,Foe,Blocks.
-Body Slam,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Paralyze the foe.
-Boomburst,normal,SPECIAL,6,SPECIAL,,DEXTERITY,CHANNEL,Area,Sound Based.
-Camouflage,normal,SUPPORT,0,,,SPECIAL,NATURE,User,The user changes type to whatever terrain it's standing on (ie. User stands on rocks in a cave. becomes rock type). Lasts for the rest of the scene.
-Captivate,normal,SUPPORT,0,,,BEAUTY,ALLURE,All Foes,If the target is from the opposite gender. Reduce its Special by 2.
-Chip Away,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,This attack ignores Defense and Evasion modifiers on the foe.
+Acupressure,normal,SUPPORT,0,,,DEXTERITY,NATURE,User,"Increase a Random Attribute. If this Move is used again, the previous Attribute Modifier is removed.","The user starts pushing its pressure points, releasing the energy that was stored in its body."
+After You,normal,SUPPORT,0,,,COOL,ETIQUETTE,One Ally,The Target will go first in the order of Initiative. Lasts for the rest of this Battle.,"The user bows and courteously lets an ally or foe use their action first."
+Assist,normal,SUPPORT,0,,,CLEVER,PERFORM,One Ally,Choose one Move known by a random member of your party. You performed that Move using the Accuracy roll from Assist.,"The Pokémon hurriedly remembers one action performed by a partner. Some Pokémon can even do what a human does and assist him with any tasks."
+Attract,normal,SUPPORT,0,,,BEAUTY,ALLURE,Foe,"If Successful, Target is now In Love. This Move fails if target is from same gender as the User or genderless.","The user makes use of its good looks and attitude to infatuate its foe."
+Barrage,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions. -1 Accuracy.,"The Pokémon Throws many round objects at the target, one after the other."
+Baton Pass,normal,SUPPORT,0,,,SPECIAL,CHANNEL,User,"Switcher Move. User switches out with another Pokémon. Any Attribute increase on the user is passed on the next Pokémon. The user can’t increase its Attributes again until the end of the scene.","The user stores part of its power on a twig or a stick, anyone who touch the item will receive its might."
+Belly Drum,normal,SUPPORT,0,,,TOUGH,PERFORM,User,User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength by 3.,"The Pokémon Roars a war cry while hitting its Belly."
+Bestow,normal,SUPPORT,0,,,COOL,ETIQUETTE,Foe,"If target is not holding an Item, the User gives its own.","The Pokemon respectfully offers an item, the target will take it and keep it to be polite."
+Bide,normal,PHYSICAL,0,,,DEXTERITY,BRAWL,Foe,"The User will take the next 2 hits. After those two attacks, you may use this Move again to retaliate with Strength + Twice the Damage Received from those 2 hits.","The user endures the hit then unleashes an attack even greater."
+Bind,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Block. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.,"The Pokémon uses its body to bind the foe, restraining and squeezing it."
+Block,normal,SUPPORT,0,,,DEXTERITY,BRAWL,Foe,Blocks.,"The user moves swiftly, blocking the escape routes of the foe."
+Body Slam,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Paralyze the foe.,"The user charges against the foe using its body to knock it down, leaving the target stunned."
+Boomburst,normal,SPECIAL,6,SPECIAL,,DEXTERITY,CHANNEL,Area,Sound Based.,"The user creates an explosive sound that deafens everyone in the battlefield."
+Camouflage,normal,SUPPORT,0,,,SPECIAL,NATURE,User,"For the rest of the scene the User changes type to one that fits the terrain it is in (i.e. Usar is in a rocky cave, becoming rock type)","The user mimics the environment, it becomes one with the surroundings."
+Captivate,normal,SUPPORT,0,,,BEAUTY,ALLURE,All Foes,"If the affected targets are from the opposite gender, Reduce their Special by 2.","The Pokémon shows off its attractiveness and even flirts with the opponents, those who fall for its charms can’t focus on the battle."
+Chip Away,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,This attack ignores Defense and Evasion modifiers on the foe.,"The user looks for an opening and strikes directly there. It nibbles bit by bit even the toughest of surfaces."
 Comet Punch,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. Fist Based.
 Confide,normal,SUPPORT,0,,,CUTE,ALLURE,Foe,Reduce the foes' Special.
 Constrict,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds.
