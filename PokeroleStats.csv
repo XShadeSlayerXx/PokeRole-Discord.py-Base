@@ -172,7 +172,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #133,Eevee,Normal,,3,2,4,2,4,2,4,2,4,2,4,Run Away,Adaptability,Anticipation,,Yes,Yes,Beginner,
 #134,Vaporeon,Water,,6,2,4,2,4,2,4,3,6,3,6,Water Absorb,,Hydration,,,,Amateur,
 #135,Jolteon,Electric,,4,2,4,3,7,2,4,3,6,3,6,Volt Absorb,,Quick Feet,,,,Amateur,
-#136,Flareon,Fire,,6,3,7,2,4,2,4,3,6,3,6,Flash Fire,,Guts,,,,Amateur,
+#136,Flareon,Fire,,4,3,7,2,4,2,4,3,6,3,6,Flash Fire,,Guts,,,,Amateur,
 #137,Porygon,Normal,,3,2,4,1,3,2,5,2,5,2,5,Trace,Download,Analytic,,Yes,,Beginner,N
 #138,Omanyte,Rock,Water,3,1,3,1,3,3,6,2,5,2,4,Swift Swim,Shell Armor,Weak Armor,,Yes,,Beginner,
 #139,Omastar,Rock,Water,4,2,4,2,4,3,7,3,6,2,5,Swift Swim,Shell Armor,Weak Armor,,,,Ace,
