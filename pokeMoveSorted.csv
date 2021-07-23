@@ -389,29 +389,29 @@ Boomburst,normal,SPECIAL,6,SPECIAL,,DEXTERITY,CHANNEL,Area,Sound Based.,"The use
 Camouflage,normal,SUPPORT,0,,,SPECIAL,NATURE,User,"For the rest of the scene the User changes type to one that fits the terrain it is in (i.e. Usar is in a rocky cave, becoming rock type)","The user mimics the environment, it becomes one with the surroundings."
 Captivate,normal,SUPPORT,0,,,BEAUTY,ALLURE,All Foes,"If the affected targets are from the opposite gender, Reduce their Special by 2.","The Pokémon shows off its attractiveness and even flirts with the opponents, those who fall for its charms can’t focus on the battle."
 Chip Away,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,This attack ignores Defense and Evasion modifiers on the foe.,"The user looks for an opening and strikes directly there. It nibbles bit by bit even the toughest of surfaces."
-Comet Punch,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. Fist Based.
-Confide,normal,SUPPORT,0,,,CUTE,ALLURE,Foe,Reduce the foes' Special.
-Constrict,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds.
-Conversion,normal,SUPPORT,0,,,WILL,CHANNEL,User,The user changes its type at random.
-Conversion 2,normal,SUPPORT,0,,,WILL,CHANNEL,User,After being dealt damage. choose a Type resistant to the Type of that attack. That's the Type of the User until it uses this Move again.
-Copycat,normal,SUPPORT,0,,,,,Foe,Copies the last move the foe has performed. Copy power and accuracy as well.
-Court Change,normal,SUPPORT,0,,,CLEVER,ETIQUETTE,Battlefield,"Swap any Barriers (i.e.Light Screen, Reflect etc.), Entry Hazards (i.e. Toxic Spikes, Sticky Web etc.) and Effects on the foe's side of the field (i.e. Tailwind, Grassy Terrain etc.) for the one's on the User's side."
-Covet,normal,PHYSICAL,2,STRENGTH,,CLEVER,STEALTH,Foe,If the user is not holding an item. Steal the target's Held Item.
-Crush Claw,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 5 Chance Dice to Reduce the target's Defense by 2. Lethal.
-Crush Grip,normal,PHYSICAL,1,STRENGTH,,STRENGTH,BRAWL,Foe,"Lethal. If the foe has a Base HP higher than 3, add 1 Die to the Damage pool for every exceeding point. Up to 9 Dice may be added this way"
-Cut,normal,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,May be used to cut down trees and clear paths.
-Defense Curl,normal,SUPPORT,0,,,VITALITY,BRAWL,User,Increase the User's Defense.
-Disable,normal,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,The Target cannot use the last move it performed. Lasts 4 Rounds.
-Dizzy Punch,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Confuse the foe. Fist Based.
-Double Hit,normal,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Double Action. -1 Accuracy.
-Double Slap,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. -2 Accuracy.
-Double Team,normal,SUPPORT,0,,,DEXTERITY,EVASION,User,The User can now make up to 5 Evasions per Round.
-Double-Edge,normal,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil.
-Echoed Voice,normal,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Sound Based. This move can be used many times in the same Round. Add 1 Extra Dice to the Damage Pool for every consecutive action the user performs. Up to 8 dice may be added this way. If the user performs another action the damage resets.
-Egg Bomb,normal,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. -2 Accuracy.
-Encore,normal,SUPPORT,0,,,COOL,ALLURE,Foe,For the duration of this effect. the target will repeat the exact same action sequence it had this round. Target must have had an action sequence. Last 4 Rounds. Priority 3.
-Endeavor,normal,PHYSICAL,0,,,WILL,CHANNEL,Foe,Roll Damage equal to the Difference between user's Full HP and its Current HP (up to 10). User cannot reduce the target's HP to lower than its own remaining HP. Ignore foe's Defenses.
-Endure,normal,SUPPORT,0,,,WILL,CHANNEL,User,Priority 5. Shield. For the rest of the Round damaging moves can not reduce the user's HP to less then 1. Status Ailments. Weather Conditions. Recoil. Self inflicted damage can still deal damage.
+Comet Punch,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. Fist Based.,"The user throws a quick series of punches at the foe."
+Confide,normal,SUPPORT,0,,,CUTE,ALLURE,Foe,Reduce the foes' Special.,"The Pokemon tells a secret to the target. The foe loses its ability to concentrate."
+Constrict,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds.,"The Pokemon uses its body to hold and constrict the foe. It won't let go easily."
+Conversion,normal,SUPPORT,0,,,WILL,CHANNEL,User,The user changes its type at random.,"The Pokemon downloads the data of a Move to add it to its code."
+Conversion 2,normal,SUPPORT,0,,,WILL,CHANNEL,User,"After being dealt damage, choose a Type resistant to the Type of that attack. That's the Type of the User until it uses this Move again.","The Pokemon downloads the data of a move that was used against it. Change the code of the user to a type resistant to the that move."
+Copycat,normal,SUPPORT,0,Same as the copied move,,Same as the copied move,,Foe,Copies the last move the foe has performed.,"The user will closely watch the movements of the target and will imitate them to perfection."
+Court Change,normal,SUPPORT,0,,,CLEVER,ETIQUETTE,Battlefield,"Swap any Barriers (i.e.Light Screen, Reflect etc.), Entry Hazards (i.e. Toxic Spikes, Sticky Web etc.) and Effects on the foe's side of the field (i.e. Tailwind, Grassy Terrain etc.) for the one's on the User's side.","The Pokemon signals the referee for half-time, the referee complies and both parties swap their sides of the field. Wait. Did we forget something?"
+Covet,normal,PHYSICAL,2,STRENGTH,,CLEVER,STEALTH,Foe,"If the user is not holding an item, Steal the target's Held Item.","The User approaches with caution, deals a quick strike and takes the chance to steal the target's item."
+Crush Claw,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 5 Chance Dice to Reduce the target's Defense by 2. Lethal.,"The user crushes its claws against the foe, it may pierce the skin of the foe."
+Crush Grip,normal,PHYSICAL,1,STRENGTH,,STRENGTH,BRAWL,Foe,"Lethal. If the foe has a Base HP higher than 3, add 1 Die to the Damage pool for every exceeding point. Up to 9 Dice may be added this way","The Pokemon grips the foe and starts crushing it. Small targets are difficult to grasp but larger bodies will not be released until they break."
+Cut,normal,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,May be used to cut down trees and clear paths.,"A slim but precise cut that may slice through anything."
+Defense Curl,normal,SUPPORT,0,,,VITALITY,BRAWL,User,Increase the User's Defense.,"The user curls like a ball to protect against most threats."
+Disable,normal,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,The Target cannot use the last move it performed. Lasts 4 Rounds.,"The user hits a nerve on the foe, impeding it from performing its previous action for a short while."
+Dizzy Punch,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Confuse the foe. Fist Based.,"A swift punch to the jaw that spins the target and may leave it quite dizzy and disoriented."
+Double Hit,normal,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Double Action. -1 Accuracy.,"The Pokemon uses the classic 'One-Two' to attack the foe."
+Double Slap,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. -2 Accuracy.,"The user attacks its foe with two or more slaps in the face."
+Double Team,normal,SUPPORT,0,,,DEXTERITY,EVASION,User,The User can now make up to 5 Evasions per Round.,"The user moves rapidly around the foe, creating illusory copies of itself."
+Double-Edge,normal,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil.,"The user recklessly slams its foe to deal a lot of damage, but it may also hurt itself in the process."
+Echoed Voice,normal,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,"Sound Based. This move can be used many times in the same Round. Add 1 Extra Dice to the Damage Pool for every consecutive time you use it. Up to 8 dice may be added this way. Reset the effect if the user performs another move, evasion, or clash.","The user shouts loudly and the echo answers back, it will yell louder every time the echo talks back."
+Egg Bomb,normal,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. -2 Accuracy.,"The user throws a big egg with great force against its foe."
+Encore,normal,SUPPORT,0,,,COOL,ALLURE,Foe,"For the duration of this effect, the target will repeat the exact same action sequence it had this round. Target must have had an action sequence. Last 4 Rounds. Priority 3.","The user claps and cheers at the target to encourage it to repeat what it just did."
+Endeavor,normal,PHYSICAL,0,,,WILL,CHANNEL,Foe,Roll Damage equal to the Difference between user's Full HP and its Current HP (up to 10). User cannot reduce the target's HP to lower than its own remaining HP. Ignore foe's Defenses.,"With pure willpower, the user struggles with its foe despite the pain"
+Endure,normal,SUPPORT,0,,,WILL,CHANNEL,User,"Priority 5. Shield Move. For the rest of the Round damaging moves can not reduce the user's HP to less then 1. Status Ailments, Weather Conditions, Recoil, Self inflicted damage can still deal damage.","The user gets prepared to receive a fatal blow. It resists the pain despite being seriously hurt."
 Entrainment,normal,SUPPORT,0,,,COOL,PERFORM,Foe,The target's Ability is replaced by the User's own Ability. (ie. Luvdiscs's Swift Swim Ability will replace Geodude's Sturdy Ability).
 Explosion,normal,PHYSICAL,10,STRENGTH,,STRENGTH,BRAWL,Area,After the damage is dealt. the User faints. Lethal.
 Extreme Speed,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Priority 2. Triple the Pokémon movement speed.
