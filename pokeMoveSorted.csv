@@ -374,7 +374,7 @@ Mist,ice,SUPPORT,0,,,SPECIAL,NATURE,User and Allies,For the next 4 Rounds. the U
 Powder Snow,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Roll 1 Chance Dice to Freeze those affected.
 Sheer Cold,ice,SPECIAL,0,,,SPECIAL,CHANNEL,Foe,Deal damage to the Target equal to its remaining HP plus 1 Lethal Damage. -5  Accuracy.
 Acupressure,normal,SUPPORT,0,,,DEXTERITY,NATURE,User,"Increase a Random Attribute. If this Move is used again, the previous Attribute Modifier is removed.","The user starts pushing its pressure points, releasing the energy that was stored in its body."
-After You,normal,SUPPORT,0,,,COOL,ETIQUETTE,One Ally,The Target will go first in the order of Initiative. Lasts for the rest of this Battle."The user bows and courteously lets an ally or foe use their action first"
+After You,normal,SUPPORT,0,,,COOL,ETIQUETTE,One Ally,The Target will go first in the order of Initiative. Lasts for the rest of this Battle.,"The user bows and courteously lets an ally or foe use their action first"
 Assist,normal,SUPPORT,0,,,CLEVER,PERFORM,One Ally,Choose one Move known by a random member of your party. You performed that Move using the Accuracy roll from Assist.
 Attract,normal,SUPPORT,0,,,BEAUTY,ALLURE,Foe,If Successful. Target is now In Love. This Move fails if target is from same gender as the User of genderless.
 Barrage,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions. -1 Accuracy.
