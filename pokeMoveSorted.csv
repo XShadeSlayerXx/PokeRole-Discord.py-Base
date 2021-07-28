@@ -641,24 +641,24 @@ Trick,psychic,SUPPORT,0,,,SPECIAL,ALLURE,Foe,The foe and the user swap Held Item
 Trick Room,psychic,SUPPORT,0,,,SPECIAL,CHANNEL,Battlefield,Invert the order of Initiative. Lasts 4 Rounds.,"This reality altering move can manipulate time, so slow creatures are fast, and fast creatures are slow."
 Wonder Room,psychic,SUPPORT,0,,,SPECIAL,CHANNEL,Battlefield,Defense and Sp. Defense will be calculated with Insight instead of Vitality. Lasts 4 Rounds.,"Inside the Wonder Room, a strong mind makes a strong body and a resilient body makes a resilient mind. However, if the mind is weak, the body will be weak and vice-versa."
 Zen Headbutt,psychic,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the foe. -1 Accuracy.,The user focuses its will on its head to strike with a headbutt.
-Accelerock,rock,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Priority 1.,
-Ancient Power,rock,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Increase the User's Strength. Dexterity. Special. Defense. and Sp. Defense.,
-Diamond Storm,rock,PHYSICAL,4,STRENGTH,,DEXTERITY,CHANNEL,All Foes,Ranged. Roll 5 Chance Dice to Increase the User's Defense by 2.,
-Head Smash,rock,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil. -2 Accuracy.,
-Power Gem,rock,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,
-Rock Blast,rock,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions. -1 Accuracy.,
-Rock Polish,rock,SUPPORT,0,,,DEXTERITY,CHANNEL,User,Increase User's Dexterity by 2.,
-Rock Slide,rock,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,All Foes,Ranged. Roll 3 Chance Dice to Flinch those affected. -1 Accuracy.,
-Rock Throw,rock,PHYSICAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. -1 Accuracy.,
-Rock Tomb,rock,PHYSICAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. Reduce Foe's Dexterity. -1 Accuracy.,
-Rock Wrecker,rock,PHYSICAL,6,STRENGTH,,STRENGTH,CHANNEL,Foe,Ranged. Must Recharge. Lethal. -1 Accuracy.,
-Rollout,rock,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. Add 1 Extra Dice to the Damage Roll of the last Rollout hit the user performs. If the Pokémon used Defense Curl this Round. add 1 Extra Dice to the Damage Roll of every hit. -1 Accuracy.,
-Sandstorm,rock,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Sandstorm Weather is activated for the next 4 Rounds.,
-Smack Down,rock,PHYSICAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. Remove the foe's Immunity to Ground-Type Attacks.,
-Stealth Rock,rock,SUPPORT,0,,,DEXTERITY,STEALTH,Battlefield,Entry Hazard. Foe Pokémon that enter the battlefield lose 1 HP. this effect does not stack.,
-Stone Edge,rock,PHYSICAL,4,STRENGTH,,STRENGTH,CHANNEL,Foe,Ranged. High Critical. Lethal. -2 Accuracy.,
-Tar Shot,rock,SUPPORT,0,,,SPECIAL,CHANNEL,Foe,Reduce the foe's Dexterity. Until the end of the Scene Fire Type Moves will deal Super-Effective damage against the foe.,
-Wide Guard,rock,SUPPORT,0,,,VITALITY,BRAWL,User and Allies,Priority 3. Shield. Reduce 3 Damage the User and Allies would receive from a damaging move. Reduce to zero the set damage from a move the User and Allies would take.,
+Accelerock,rock,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Priority 1.,The Pokémon dashes at great speed using the rocks on its body to strike its foe upon impact.
+Ancient Power,rock,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Increase the User's Strength. Dexterity. Special. Defense. and Sp. Defense.,the Pokémon calls upon an energy fron ancient times that strikes the foe and may infuse the user with a primal strength.
+Diamond Storm,rock,PHYSICAL,4,STRENGTH,,DEXTERITY,CHANNEL,All Foes,Ranged. Roll 5 Chance Dice to Increase the User's Defense by 2.,"The Pokémon summons a storm of diamonds over the field, these diamonds also serve as barriers the user can take cover into."
+Head Smash,rock,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil. -2 Accuracy.,"The user charges head first to attack the foe, the strike is devastating for both."
+Power Gem,rock,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,The user attacks with a ray of light that comes out of the gem on its body.
+Rock Blast,rock,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions. -1 Accuracy.,The Pokémon shoots and throws small rock pebbles that burst into tiny pieces as they touch the foe.
+Rock Polish,rock,SUPPORT,0,,,DEXTERITY,CHANNEL,User,Increase User's Dexterity by 2.,The user polishes the rough ends of its rock body for easier and faster movement.
+Rock Slide,rock,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,All Foes,Ranged. Roll 3 Chance Dice to Flinch those affected. -1 Accuracy.,The Pokémon creates a slide of falling rocks against its foes that may leave them crushed below the rubble.
+Rock Throw,rock,PHYSICAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. -1 Accuracy.,The user picks up a rock or pebble and throws it at the foe.
+Rock Tomb,rock,PHYSICAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. Reduce Foe's Dexterity. -1 Accuracy.,"The Pokémon covers the foe in gravel and rocks, leaving it unable to move freely."
+Rock Wrecker,rock,PHYSICAL,6,STRENGTH,,STRENGTH,CHANNEL,Foe,Ranged. Must Recharge. Lethal. -1 Accuracy.,"The user shoots a huge boulder as if it were a cannon ball that can even go through thick walls. This, however, requires a lot of energy from the user."
+Rollout,rock,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. Add 1 Extra Dice to the Damage Roll of the last Rollout hit the user performs. If the Pokémon used Defense Curl this Round. add 1 Extra Dice to the Damage Roll of every hit. -1 Accuracy.,"The user curls up into a ball and starts rolling towards its foe, trampling everything in its way."
+Sandstorm,rock,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Sandstorm Weather is activated for the next 4 Rounds.,The Pokémon casts a fierce wind that carries millions of rough sand particles.
+Smack Down,rock,PHYSICAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. Remove the foe's Immunity to Ground-Type Attacks.,"The user hurls a projectile, usually a heavy rock that sends the foe down to the ground, leaving it unable to take off the ground afterwards."
+Stealth Rock,rock,SUPPORT,0,,,DEXTERITY,STEALTH,Battlefield,Entry Hazard. Foe Pokémon that enter the battlefield lose 1 HP. this effect does not stack.,The Pokémon hides sharp and point rocks all over the foe's side of the battlefield.
+Stone Edge,rock,PHYSICAL,4,STRENGTH,,STRENGTH,CHANNEL,Foe,Ranged. High Critical. Lethal. -2 Accuracy.,The user hurls sharp stones at the foe. The speed and weight of the stones deals a severe amount of damage.
+Tar Shot,rock,SUPPORT,0,,,SPECIAL,CHANNEL,Foe,Reduce the foe's Dexterity. Until the end of the Scene Fire Type Moves will deal Super-Effective damage against the foe.,"The Pokémon gushes a blob of black tar over its foe. The unfortunate voctim can barely move afterwards, keep it away from fire sources, tar is extrmely flammable."
+Wide Guard,rock,SUPPORT,0,,,VITALITY,BRAWL,User and Allies,Priority 3. Shield. Reduce 3 Damage the User and Allies would receive from a damaging move. Reduce to zero the set damage from a move the User and Allies would take.,The Pokémon uses its whole body to provide coverage and protection to its allies against an incoming attack.
 Anchor Shot,steel,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Blocks.,"The Pokémon hurls an anchor towards its foe and entangles it with seaweed, the anchor drags the foe down so it cannot escape."
 Autotomize,steel,SUPPORT,0,,,DEXTERITY,CHANNEL,User,Increase the User's Dexterity by 2. User's weight is halved for the rest of Scene.,The Pokémon sheds pieces and starts rotating other parts of its body for easier and lighter movement.
 Behemoth Bash,steel,PHYSICAL,4,STRENGTH,,VITALITY,BRAWL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool.",The Pokémon becomes a giant energy shield that tramples everything in its wake. if the foe is under the effects of the Dynamax phenomenon all its energy will be swept away.
@@ -686,42 +686,42 @@ Smart Strike,steel,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal. Never Fail.,
 Steel Beam,steel,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Recoil.,A concentrated ray of light that is capable of melting even the thickest steel plates. Unfortunately the user will also have trouble handling this power.
 Steel Wing,steel,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 1 Chance Dice to Increase the User's Defense. -1 Accuracy.,The Pokémon uses its sharp feathers as if they were razors.
 Sunsteel Strike,steel,PHYSICAL,4,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. If anything on the foe's side of the field would prevent this move from dealing damage (Pokemon types. Abilities. Shield Moves. Weather. Or Barriers.) ignore it. This Move cannot be Clashed.,You suddenly stop your in tracks as you see a bright and blinding light coming towards you at great speed. You did not see what hit you and then it's all darkness.
-Aqua Jet,water,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Priority 1.,
-Aqua Ring,water,SUPPORT,0,,,SPECIAL,NATURE,User,If successful spent 1 Will point to activate. At the end of each Round. recover 1 HP. Lasts 4 Rounds.,
-Aqua Tail,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the foe. -1 Accuracy.,
-Bouncy Bubble,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"The user restores HP equal to half the damage dealt, rounded down. If the user of this Move is at its Final Stage of Evolution, this move fails.",
-Brine,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,If the foe is at half HP or less. add 3 Extra Dice to the Damage Pool.,
-Bubble,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Target all foes in range. Roll 1 Chance Dice to Reduce the Dexterity of those affected.,
-Bubble Beam,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce the foe's Dexterity.,
-Clamp,water,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Block. Deal 2 Dice of Damage at the end of each Round. Lasts 4 Rounds. -1 Accuracy.,
-Crabhammer,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical. -1 Accuracy.,
-Dive,water,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Charge Move. While charging this move. the User will be out of range. Allows the Pokémon to swim into Deep Waters.,
-Fishious Rend,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"If the foe has not had its Turn this Round, Add 2 Extra Dice to the Damage Pool.",
-Hydro Cannon,water,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Must Recharge. -1 Accuracy.,
-Hydro Pump,water,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe, -1 Accuracy.,
-Life Dew,water,SUPPORT,0,,,SPECIAL,NATURE,User and Allies,"If successful, spend 1 Will point to activate. User and Allies in Range heal 1 HP at the end of each Round. Lasts 4 Rounds.",
-Liquidation,water,PHYSICAL,3,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. Roll 2 Chance Dice to Reduce the Foe's Defense.,
-Muddy Water,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,All Foes,All Foes in Range. Roll 3 Chance Dice to Reduce the Accuracy of those affected. -2 Accuracy.,
-Octazooka,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 5 Chance Dice to Reduce the foe's Accuracy. -2 Accuracy.,
-Origin Pulse,water,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. -2 Accuracy.,
-Rain Dance,water,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Rain Weather is activated for the next 4 Rounds.,
-Razor Shell,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 1 Chance Dice to Reduce the foe's Defense.,
-Scald,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Burn the foe.,
-Snipe Shot,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,High Critical. Ignore effects from Moves or Abilities that would prevent this Move from targeting a foe.,
-Soak,water,SUPPORT,0,,,SPECIAL,CHANNEL,Foe,Change the target's Type to Water.,
-Sparkling Aria,water,SPECIAL,3,SPECIAL,,SPECIAL,PERFORM,Area,Sound Based. Area Attack. If an affected Pokémon had any of the Burn Status Conditions. heal it isntead of dealing damage.,
-Splishy Splash,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"Roll 3 Chance Dice to Paralyze the foe. If the user of this Move is at its Final Stage of Evolution, this move fails.",
-Steam Eruption,water,SPECIAL,4,SPECIAL,,DEXTERITY,CHANNEL,Foe,Lethal. Roll 3 Chance Dice to Apply Burn 2 to those affected. -1 Accuracy.,
-Surf,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Area,-,
-Water Gun,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,
-Water Pledge,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield,Creates a rainbow that adds 2 Dice to all Chance Dice rolls. This effect lasts 4 turns.,
-Water Pulse,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Confuse the foe.,
-Water Shuriken,water,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,Ranged. Priority 1. Successive Actions.,
-Water Sport,water,SUPPORT,0,,,SPECIAL,CHANNEL,Battlefield,For the next 4 Rounds Fire Type attacks won't add their Power to the Damage Pool.,
-Water Spout,water,SPECIAL,6,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Remove 1 Dice of Damage for every missing HP of the User. Up to 5 Dice may be reduced this way.,
-Waterfall,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the foe.,
-Whirlpool,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Block. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.,
-Withdraw,water,SUPPORT,0,,,VITALITY,BRAWL,User,Increase User's Defense.,
+Aqua Jet,water,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Priority 1.,The user propels itself with a blast of water and strikes at high speed.
+Aqua Ring,water,SUPPORT,0,,,SPECIAL,NATURE,User,If successful spent 1 Will point to activate. At the end of each Round. recover 1 HP. Lasts 4 Rounds.,The user coats itself in a ring of special flowing water that lessens the pain.
+Aqua Tail,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the foe. -1 Accuracy.,The user swings its tail as if it were a vicious wave in a raging storm.
+Bouncy Bubble,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"The user restores HP equal to half the damage dealt, rounded down. If the user of this Move is at its Final Stage of Evolution, this move fails.","The user shoots bubbles at its target, the bubbles fill up with fresh water upon contact and bounce back towards the user. Should you drink the water inside? Who cares? It's fun!"
+Brine,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,If the foe is at half HP or less. add 3 Extra Dice to the Damage Pool.,"The user blasts the foe with extremely dense water, if the target is tired he may be swept away easily by the pressure."
+Bubble,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Target all foes in range. Roll 1 Chance Dice to Reduce the Dexterity of those affected.,"A spray of bubbles flies around the enemies, some of the bubbles stick to their bodies hindering their movement."
+Bubble Beam,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce the foe's Dexterity.,"A long stream of bubbles hits the foe, the bubble foam may prevent the target from moving freely."
+Clamp,water,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Block. Deal 2 Dice of Damage at the end of each Round. Lasts 4 Rounds. -1 Accuracy.,The user traps and crushes the opponent using its thick and sturdy shell.
+Crabhammer,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical. -1 Accuracy.,A large pincer strikes with the power of a hammer. The demolition power is incredible.
+Dive,water,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Charge Move. While charging this move. the User will be out of range. Allows the Pokémon to swim into Deep Waters.,The user submerges into the water and continues diving at an insane speed.
+Fishious Rend,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"If the foe has not had its Turn this Round, Add 2 Extra Dice to the Damage Pool.","This Pokémon uses its gills to snap at its target, even if they don't have teeth, they can have a crushing strength."
+Hydro Cannon,water,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Must Recharge. -1 Accuracy.,The Pokémon blasts the foe with a water surge that could bring down a house. The user needs to res afterwards.
+Hydro Pump,water,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe, -1 Accuracy.,The user builds up pressure inside its body and then releases a tremendous amount of water at the target.
+Life Dew,water,SUPPORT,0,,,SPECIAL,NATURE,User and Allies,"If successful, spend 1 Will point to activate. User and Allies in Range heal 1 HP at the end of each Round. Lasts 4 Rounds.",The user creates a fresh-water dew that makes it and its allies full of energy.
+Liquidation,water,PHYSICAL,3,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. Roll 2 Chance Dice to Reduce the Foe's Defense.,"The Pokémon gets close to its foe then strikes while bursting a full-force blast of pressurized water, the water may cut or dent through the foe's armor."
+Muddy Water,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,All Foes,All Foes in Range. Roll 3 Chance Dice to Reduce the Accuracy of those affected. -2 Accuracy.,The user fills its mouth with dirt and spits a torrent of mud at the foes. This mud may get in the eyes of the enemies.
+Octazooka,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 5 Chance Dice to Reduce the foe's Accuracy. -2 Accuracy.,The user sprays ink at the target's face to obstruct its vison.
+Origin Pulse,water,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. -2 Accuracy.,The Pokémon sends a giant pulse underwater that creates a chain reaction and causes water to move in large streams. It is believed that all water in the sea moves thanks to this.
+Rain Dance,water,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Rain Weather is activated for the next 4 Rounds.,The user performs a curious mystic dance that summons a heavy rainfall.
+Razor Shell,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 1 Chance Dice to Reduce the foe's Defense.,"The Pokémon uses its sharp shell as a weapon to cut the target's fur, armor or anything protecting its body."
+Scald,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Burn the foe.,"The user shoots a torrent of boiling water, it may leave the foe sopping with burns."
+Snipe Shot,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,High Critical. Ignore effects from Moves or Abilities that would prevent this Move from targeting a foe.,The User Shoots a piercing water jet with incredible precision.
+Soak,water,SUPPORT,0,,,SPECIAL,CHANNEL,Foe,Change the target's Type to Water.,The user shoots a stream of water and moisture that clings to the foe's body as an overcoat.
+Sparkling Aria,water,SPECIAL,3,SPECIAL,,SPECIAL,PERFORM,Area,Sound Based. Area Attack. If an affected Pokémon had any of the Burn Status Conditions. heal it isntead of dealing damage.,"The Pokémon sings a beautiful melody, the song comes out as a sparkling fountain, bursting upon impact and quenching any fire in its path."
+Splishy Splash,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"Roll 3 Chance Dice to Paralyze the foe. If the user of this Move is at its Final Stage of Evolution, this move fails.","The Pokémon rides a giant surge of electricity as if surfing. It looks incredibly rad but it is also dangerous, as electricity does not share the same properties of water for safe surfing."
+Steam Eruption,water,SPECIAL,4,SPECIAL,,DEXTERITY,CHANNEL,Foe,Lethal. Roll 3 Chance Dice to Apply Burn 2 to those affected. -1 Accuracy.,"In less than a second, the sound of steam boiling over a raging engine thunders through the ears of the foe before it is shot through the sky by a scalding geyser."
+Surf,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Area,-,A giant wave of water sweeps the area while the user swims on top of it.
+Water Gun,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,The user learns to shoot water with enough force to hurt the foe.
+Water Pledge,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield,Creates a rainbow that adds 2 Dice to all Chance Dice rolls. This effect lasts 4 turns.,The Pokémon chants to invoke the power of Water. Moisture in the air bends the light to create an inspiring rainbow. Everyone in the field is sure to give its best.
+Water Pulse,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Confuse the foe.,"The Pokémon attacks with a pulsing blast of water, this leaves the foe feeling dizzy."
+Water Shuriken,water,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,Ranged. Priority 1. Successive Actions.,The Pokémon quickly throws sharp jets of water in the shape of a shuriken.
+Water Sport,water,SUPPORT,0,,,SPECIAL,CHANNEL,Battlefield,For the next 4 Rounds Fire Type attacks won't add their Power to the Damage Pool.,"The user soaks the battlefield with moisture, making it harder for fire attacks to ignite."
+Water Spout,water,SPECIAL,6,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Remove 1 Dice of Damage for every missing HP of the User. Up to 5 Dice may be reduced this way.,The Pokémon builds up an amazing pressure and releases a huge columnar vortex of water that could even reach the clouds.
+Waterfall,water,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the foe.,The Pokémon may swim with such strength that it may even swim upwards in a waterfall.
+Whirlpool,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Block. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.,Trap the foe inside a violent swirling whirlpool that makes the foe unable to escape the battle.
+Withdraw,water,SUPPORT,0,,,VITALITY,BRAWL,User,Increase User's Defense.,The user hides inside its hard shell to protect itself from incoming attacks.
 Any Move,any,???,0,,,,,Any,This move represents every possible move. Metronome but better.,
 Struggle,typeless,PHYSICAL/SPECIAL,0,STRENGTH/SPECIAL,,DEXTERITY,BRAWL/CHANNEL,Foe,The most basic attack.,
 Grapple,typeless,SUPPORT,0,,,STRENGTH,BRAWL,Foe,The foe is Blocked. Foe can resist this Maneuver by rolling their Strength or Dexterity score and scoring the same or more successes than the user.,
