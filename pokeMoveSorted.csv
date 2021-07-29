@@ -26,67 +26,67 @@ Tail Glow,bug,SUPPORT,0,,,INSIGHT,NATURE,User,Increase the User's Special by 3.,
 Twineedle,bug,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Double action. Ranged. Roll 2 Chance Dice to Poison the foe per hit.,"The Pokémon stabs the foe with its stinger, claws or spikes infused with poison."
 U-Turn,bug,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,The user switches out after dealing damage. The replacement Pokémon arrives to ready to fight. Roll its initiative Switcher Move.,"The user strikes its foe, then quickly goes back to safety while another party Pokémon takes its place."
 X-Scissor,bug,PHYSICAL,3,STRENGTH,,STRENGTH,BRAWL,Foe,-,The Pokémon uses its scythes or claws as if they were a pair of scissors to cut through the foe.
-Assurance,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the User has already received damage from the target this Round add 2 Extra Dice to the Damage Pool.,
-Baddy Bad,dark,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"If successful, for the next 4 Rounds the User and Allies will receive 1 less damage from Physical Attacks. This effect does not stack. If the user of this Move is at its Final Stage of Evolution, this move fails.",
-Beat Up,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the attack is successful add 2 Dice of Damage for every ally Pokémon that spends an action to help the user perform this move. up to 3 allies may join.,
-Bite,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the foe.,
-Brutal Swing,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,All Foes,Lethal. Target all Foes in range.,
-Crunch,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal. Roll 1 Chance Dice to reduce foe's Defense.,
-Dark Pulse,dark,SPECIAL,3,SPECIAL,,INSIGHT,CHANNEL,Random Foe,Targets random foe. Roll 2 Chance Dice to Flinch the foe.,
-Dark Void,dark,SUPPORT,0,,,INSIGHT,CHANNEL,All Foes,All Foes in Range have the Sleep condition.  -3 Accuracy.,
-Darkest Lariat,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Ignore the the foe's Attribute Increases that would decrease this Move's damage.,
-Embargo,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,The target cannon use its held item nor can its trainer use items on it.,
-Fake Tears,dark,SUPPORT,0,,,CUTE,PERFORM,Foe,Reduce the foe's Sp. Defense by 2.,
-False Surrender,dark,PHYSICAL,3,STRENGTH,,INSIGHT,ALLURE,Foe,Never Fail.,
-Feint Attack,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Never Fail.,
-Flatter,dark,SUPPORT,0,,,COOL,ALLURE,Foe,Reduce the foe's Special. Confuse foe.,
-Fling,dark,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Add up to 4 Dice to the Damage Pool. depending on the held item thrown. See P. 432 for more info.,
-Foul Play,dark,PHYSICAL,3,,,DEXTERITY,BRAWL,Foe,S.T.A.B of the user and Strength of the foe apply for this move's damage.,
-Hone Claws,dark,SUPPORT,0,,,INSIGHT,NATURE,User,Increase the User's Strength and Accuracy.,
-Hyperspace Fury,dark,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Never Fails. Ignores the effect of any Shield Move the Foe might have used. Reduce the user's Defense.,
-Jaw Lock,dark,PHYSICAL,3,STRENGTH,,STRENGTH,BRAWL,Foe,Both User and Target are Blocked.,
-Knock Off,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,The target Pokémon loses its held item.,
-Memento,dark,SUPPORT,0,,,WILL,CHANNEL,Foe,The user faints. Reduce foe's Strength. Dexterity. Special. Defense and Sp. Defense by 2. Lasts for a whole scene.,
-Nasty Plot,dark,SUPPORT,0,,,CLEVER,ALERT,User,Increase the user's Special by 2.,
-Night Daze,dark,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 4 Chance Dice to Reduce foe's Accuracy.,
-Night Slash,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal. High Critical.,
-Obstruct,dark,SUPPORT,0,,,DEXTERITY,INTIMIDATE,User,"Priority 4. Shield Move. * If the Foe used a Non-Ranged Physical Move against the user, Reduce the Foes Defense by 2.",
-Parting Shot,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,Reduce foe's Strength and Special. The user switches out. the new Pokémon arrives ready to fight. Roll for its initiative. Switcher Move.,
-Payback,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 2 Extra Dice to the Damage Pool if the target already damaged you this Round.,
-Power Trip,dark,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 1 Dice to the Damage Pool of this Move for every Attribute increase the user has. Up to 7 Dice may be added this way. (ie. the user has 2 increased points on Defense. add 2 Damage dice).,
-Punishment,dark,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Add up to 7 Dice to the Damage Pool for every Increased Attribute the foe has. (ie. Foe has 1 Increased dice in Dexterity & Strength that equals +2 Dice on the Damage Pool of this attack).,
-Pursuit,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the foe is Switching Out or escaping. Add 2 Dice to the Damage Pool and Priority 1 to this move.,
-Quash,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,For the rest of the scene. the target will go last in the order of Initiative.,
-Snarl,dark,SPECIAL,2,SPECIAL,,INSIGHT,PERFORM,Foe,Sound Based. Reduce the foe's Special.,
-Snatch,dark,SUPPORT,0,,,CLEVER,STEALTH,Foe,Erase any Increase or Decrease on the foe's Traits. and place them on the User instead.,
-Sucker Punch,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Priority 1. This move can only be used after the Target rolls a damaging move.,
-Switcheroo,dark,SUPPORT,0,,,INSIGHT,STEALTH,Foe,User and Foe switch their Held Item. If only one Pokémon is holding an item it gives it away.,
-Taunt,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,The target Pokémon can only perform Damaging Moves and Evasion actions for the next 4 Rounds.,
-Thief,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,The user steals the foe's Held Item.,
-Throat Chop,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"The target cannot use any ""Sound Based"" Move for the rest of the scene.",
-Topsy-Turvy,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,Any Decreases on the foe's Attributes become Increases and vice versa.,
-Torment,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,The target cannot use the same Moves it used during the last Round. Lasts 4 Rounds.,
-Breaking Swipe,dragon,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,All Foes,All Foes in Range. Reduce the Strength of those affected.,
-Clanging Scales,dragon,SPECIAL,4,SPECIAL,,DEXTERITY,PERFORM,All Foes,Sound Based. Reduce User's Defense.,
-Clangorous Soul,dragon,SUPPORT,0,,,TOUGH,PERFORM,User,"User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength, Dexterity, Special, Defense and Sp. Defense.",
-Core Enforcer,dragon,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,"If successful and the target of this Move has already inflicted damage this Round, remove the Foe's Ability for the rest of the Scene. (Battle Bond, Comatose, Disguise, Multitype, Power Construct, RKS System, Schooling, Stance Change & Shields Down are exceptions)",
-Draco Meteor,dragon,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Reduce User's Special by 2. -1 Accuracy.,
-Dragon Breath,dragon,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Paralyze the foe.,
-Dragon Claw,dragon,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,-,
-Dragon Dance,dragon,SUPPORT,0,,,TOUGH,PERFORM,User,Increase the User's Strength and Dexterity.,
-Dragon Darts,dragon,PHYSICAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. Double Action,
-Dragon Hammer,dragon,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,-,
-Dragon Pulse,dragon,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,
-Dragon Rage,dragon,SPECIAL,0,,,DEXTERITY,CHANNEL,Foe,This moves always inflicts 2 damage.,
-Dragon Rush,dragon,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Flinch the foe. -2 Accuracy.,
-Dragon Tail,dragon,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Low Priority 1. The target is hit and knocked back to its trainer. stunned. Forcing the trainer to send another Pokémon. In the wild the target is sent away. Switcher Move. -1 Accuracy.,
-Dual Chop,dragon,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Double Action. -1 Accuracy.,
-Dynamax Cannon,dragon,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool.",
-Eternabeam,dragon,SPECIAL,7,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Must Recharge. -1 Accuracy.,
-Outrage,dragon,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Random Foe,Rampage.,
-Roar Of Time,dragon,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,"Lethal. If successful, the target can't have any action until next Round. -1 Accuracy.",
-Spacial Rend,dragon,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. High Critical.,
-Twister,dragon,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 2 Chance Dice to Flinch the foes.,
+Assurance,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the User has already received damage from the target this Round add 2 Extra Dice to the Damage Pool.,"The user retaliates against the foe, the rush of adrenaline allows it to hit harder."
+Baddy Bad,dark,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"If successful, for the next 4 Rounds the User and Allies will receive 1 less damage from Physical Attacks. This effect does not stack. If the user of this Move is at its Final Stage of Evolution, this move fails.",The Pokémon acts like a thug and channels its own dark aura as protection for itself and its allies.
+Beat Up,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the attack is successful add 2 Dice of Damage for every ally Pokémon that spends an action to help the user perform this move. up to 3 allies may join.,"The user calls other Pokémon to aid it in battle, together they give a beating to the foe."
+Bite,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the foe.,The user lands a vicious bite that may leave an ugly bruise.
+Brutal Swing,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,All Foes,Lethal. Target all Foes in range.,"The Pokémon starts attacking at full force with its claws, anyone unfortunate enough to be in its path will end up severely wounded."
+Crunch,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal. Roll 1 Chance Dice to reduce foe's Defense.,The Pokémon uses its fangs to viciously tear whatever it is biting.
+Dark Pulse,dark,SPECIAL,3,SPECIAL,,INSIGHT,CHANNEL,Random Foe,Targets random foe. Roll 2 Chance Dice to Flinch the foe.,"The Pokémon sends a wave of dark feelings that affect those who are most vulnerable, hurting the foe and leaving it unable to act."
+Dark Void,dark,SUPPORT,0,,,INSIGHT,CHANNEL,All Foes,All Foes in Range have the Sleep condition.  -3 Accuracy.,"A portal opens and transports all foes to a world of darkness, inside they can't see or feel anything, it's like they are trapped in an eternal slumber."
+Darkest Lariat,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Ignore the the foe's Attribute Increases that would decrease this Move's damage.,"The user swings both of its arms against the target, there's no armor thick enough to stop the strike."
+Embargo,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,The target cannon use its held item nor can its trainer use items on it.,The user quickly takes out the held item of a Pokémon. It also empties the bag of the trainer and forces everyone to stay away from their own properties. Evildoers master this Move.
+Fake Tears,dark,SUPPORT,0,,,CUTE,PERFORM,Foe,Reduce the foe's Sp. Defense by 2.,"The user stops battling and feigns to be crying, disrupting the foe's mood to battle and making it lower its guard."
+False Surrender,dark,PHYSICAL,3,STRENGTH,,INSIGHT,ALLURE,Foe,Never Fail.,"The Pokémon bows in defeat, begging for forgiveness, then backstabs its gullible foe."
+Feint Attack,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Never Fail.,The Pokémon approaches the foe disarmingly then attacks suddenly without giving any time to react.
+Flatter,dark,SUPPORT,0,,,COOL,ALLURE,Foe,Reduce the foe's Special. Confuse foe.,"The user starts flattering and admiring its opponent, it sure makes it feel good about itself but why?"
+Fling,dark,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Add up to 4 Dice to the Damage Pool. depending on the held item thrown. See P. 432 for more info.,The usr takes its held item and throws it at the opponent. You may get it back after the fight.
+Foul Play,dark,PHYSICAL,3,,,DEXTERITY,BRAWL,Foe,S.T.A.B of the user and Strength of the foe apply for this move's damage.,The user feint attacks then tricks the foe who ends up hurting itself.
+Hone Claws,dark,SUPPORT,0,,,INSIGHT,NATURE,User,Increase the User's Strength and Accuracy.,The Pokémon sharpens its claws to perform more precise attacks.
+Hyperspace Fury,dark,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Never Fails. Ignores the effect of any Shield Move the Foe might have used. Reduce the user's Defense.,"The Pokémon opens portals to attack with each one of its arms, bypassing all defenses and making it impossible to escape, however, the user's defense also gets neglected."
+Jaw Lock,dark,PHYSICAL,3,STRENGTH,,STRENGTH,BRAWL,Foe,Both User and Target are Blocked.,The user will capture its foe in a crushing jaw grip. It won't let go no matter how much you try to seperate them. The only way it will release its victim is by fainting.
+Knock Off,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,The target Pokémon loses its held item.,The Pokémon makes a quick tackle that knocks off anything the foe was holding.
+Memento,dark,SUPPORT,0,,,WILL,CHANNEL,Foe,The user faints. Reduce foe's Strength. Dexterity. Special. Defense and Sp. Defense by 2. Lasts for a whole scene.,The user unleashes all its remaining power to send a wave of hopeless thoughts to haunt the foe's mind and soul. The target will be left in grief.
+Nasty Plot,dark,SUPPORT,0,,,CLEVER,ALERT,User,Increase the user's Special by 2.,The Pokémon starts plotting on how to defeat the enemy. Its evil laugh reveals the bad intentions.
+Night Daze,dark,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 4 Chance Dice to Reduce foe's Accuracy.,The user forms a pitch black wave that hurts the foe. This darkness may remain obstructing the target's vision.
+Night Slash,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal. High Critical.,The user quickly slashes through the target as soon as it gets the chance. The intent to end the target's life is frightening.
+Obstruct,dark,SUPPORT,0,,,DEXTERITY,INTIMIDATE,User,"Priority 4. Shield Move. * If the Foe used a Non-Ranged Physical Move against the user, Reduce the Foes Defense by 2.","In a reckless action, the user charges against the foe to stop its momentum and block its incoming attack. Being so close allows the user to reach for weak spots."
+Parting Shot,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,Reduce foe's Strength and Special. The user switches out. the new Pokémon arrives ready to fight. Roll for its initiative. Switcher Move.,"The user threatens the foe, leaving it too scared to pursuit the user or overwhelm the ally that just switched in the battlefield."
+Payback,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 2 Extra Dice to the Damage Pool if the target already damaged you this Round.,The Pokémon tackles the target with hatred and vengeance.
+Power Trip,dark,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 1 Dice to the Damage Pool of this Move for every Attribute increase the user has. Up to 7 Dice may be added this way. (ie. the user has 2 increased points on Defense. add 2 Damage dice).,"In the heat of the battle, the Pokémon gets carried away, relishing in its own power."
+Punishment,dark,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Add up to 7 Dice to the Damage Pool for every Increased Attribute the foe has. (ie. Foe has 1 Increased dice in Dexterity & Strength that equals +2 Dice on the Damage Pool of this attack).,The user takes advantage of its foe's strengths to use them against it.
+Pursuit,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the foe is Switching Out or escaping. Add 2 Dice to the Damage Pool and Priority 1 to this move.,The Pokémon chases the foe to deliver a final blow before it escapes.
+Quash,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,For the rest of the scene. the target will go last in the order of Initiative.,The user represses the foe with intimidation so it has to think twice before acting.
+Snarl,dark,SPECIAL,2,SPECIAL,,INSIGHT,PERFORM,Foe,Sound Based. Reduce the foe's Special.,The Pokémon viciously snarls showing its teeth. Its menacing look will make the foe cower in fear.
+Snatch,dark,SUPPORT,0,,,CLEVER,STEALTH,Foe,Erase any Increase or Decrease on the foe's Traits. and place them on the User instead.,The user analyzes the advantages of the foe then makes them their own.
+Sucker Punch,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Priority 1. This move can only be used after the Target rolls a damaging move.,"While the foe is preparing its attack, the user takes advantage and strikes."
+Switcheroo,dark,SUPPORT,0,,,INSIGHT,STEALTH,Foe,User and Foe switch their Held Item. If only one Pokémon is holding an item it gives it away.,The user quickly switches the held items before the foe can realize what happened.
+Taunt,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,The target Pokémon can only perform Damaging Moves and Evasion actions for the next 4 Rounds.,The user mocks and teases the target to make it attack in a raging fury.
+Thief,dark,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,The user steals the foe's Held Item.,The Pokémon strikes its foe and takes the opportunity to steal whatever the target was holding.
+Throat Chop,dark,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"The target cannot use any ""Sound Based"" Move for the rest of the scene.",A heinous attack to a Pokémon's throat that will leave them unable to make a sound for hours.
+Topsy-Turvy,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,Any Decreases on the foe's Attributes become Increases and vice versa.,"The user changes the nature of its target, bad things become good and good things become bad."
+Torment,dark,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,The target cannot use the same Moves it used during the last Round. Lasts 4 Rounds.,"The user torments and enrages the foe, making it unable to keep using its strategy."
+Breaking Swipe,dragon,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,All Foes,All Foes in Range. Reduce the Strength of those affected.,"The Pokémon will use its tail to make a long swipe at its foes. A few cracks are heard, and the foe will limp afterwards."
+Clanging Scales,dragon,SPECIAL,4,SPECIAL,,DEXTERITY,PERFORM,All Foes,Sound Based. Reduce User's Defense.,"The Pokémon rattles the scales of its armor creating a frightening noise in the area. Some of its scales fall of as a result, leaving some areas exposed."
+Clangorous Soul,dragon,SUPPORT,0,,,TOUGH,PERFORM,User,"User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength, Dexterity, Special, Defense and Sp. Defense.","The Pokémon shakes its scales around, to sharpen, shed, and rearrange them. It's a bit rough, but in the end the Pokémon feels more focused for battle."
+Core Enforcer,dragon,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,"If successful and the target of this Move has already inflicted damage this Round, remove the Foe's Ability for the rest of the Scene. (Battle Bond, Comatose, Disguise, Multitype, Power Construct, RKS System, Schooling, Stance Change & Shields Down are exceptions)","Zygarde shoots a beam that fractures the target to its core, rendering it unable to sustain even the most basic of its traits."
+Draco Meteor,dragon,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Reduce User's Special by 2. -1 Accuracy.,The Pokémon calls a comet that falls from the sky to deal a brutal amount of damage. This feat demands a lot from the user.
+Dragon Breath,dragon,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Paralyze the foe.,The user lets out a mystical green breath that hinders the movement of anyone it touches.
+Dragon Claw,dragon,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,-,The Pokémon uses its strong claws to deliver a fierce tearing blow.
+Dragon Dance,dragon,SUPPORT,0,,,TOUGH,PERFORM,User,Increase the User's Strength and Dexterity.,The user performs a vigorous and mystical dance that boosts the fighting spirit and reflexes.
+Dragon Darts,dragon,PHYSICAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. Double Action,"The Pokémon's head is a nest for its less evolved forms, the younglings will sometimes be used as projectiles."
+Dragon Hammer,dragon,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,-,The Pokémon swings its body as a hammer and leaves the foe nailed to the cracked ground.
+Dragon Pulse,dragon,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,The user opens its mouth and sends a powerful wave of energy.
+Dragon Rage,dragon,SPECIAL,0,,,DEXTERITY,CHANNEL,Foe,This moves always inflicts 2 damage.,A dual colored flame that always leaves the same burn marks on everything it touches.
+Dragon Rush,dragon,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Flinch the foe. -2 Accuracy.,The user charges rapidly against the foe. The strike may leave thetarget gasping for air.
+Dragon Tail,dragon,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Low Priority 1. The target is hit and knocked back to its trainer. stunned. Forcing the trainer to send another Pokémon. In the wild the target is sent away. Switcher Move. -1 Accuracy.,This Powerful tail strike can knockdown anyone up to 100 feet away!
+Dual Chop,dragon,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Double Action. -1 Accuracy.,The Pokémon strikes the foe with brutal blows.
+Dynamax Cannon,dragon,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,"If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool.","The Pokémon shoots a heavy projectile, if the foe is under the effects of the Dynamax phenomenon all the energy will be concentrated and explode on the target."
+Eternabeam,dragon,SPECIAL,7,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Must Recharge. -1 Accuracy.,The Pokémon shoots an incredibly powerful beam towards the sky. The energy released might keep traveling through space thousands of years later.
+Outrage,dragon,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Random Foe,Rampage.,"The user awakens their primal instinct as a dragon and unleashes its uncontrollable fury, destroying everything in its path. After that, the Pokémon is left disoriented and confused."
+Roar Of Time,dragon,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,"Lethal. If successful, the target can't have any action until next Round. -1 Accuracy.","Through a terrifying roar, Dialga bounds the forces of time on a single area, the unfortunate target will be trapped in a time warp, growing old in a matter of seconds."
+Spacial Rend,dragon,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. High Critical.,"With a flicker of its claws, Palkia defragments the space around its foe. Those who survive rarely do peserve their original shape."
+Twister,dragon,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 2 Chance Dice to Flinch the foes.,The Pokémon lets out a spiral current that surrounds the foes. They can't move until they free themselves from this terrible whirlwind.
 Aura Wheel,electric,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,"If successful, Increase user's Dexterity. If the user is in “Hangry” Form this Move is considered to be Dark-Type.",
 Bolt Beak,electric,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,"If the Target hasn't had a Turn this Round, add 2 Extra Dice to the Damage pool.",
 Bolt Strike,electric,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Roll 2 Chance Dice to Paralyze the foe. -2 Accuracy.,
