@@ -858,7 +858,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #743,Ribombee,Bug,Fairy,4,2,4,3,7,2,4,3,6,2,5,Honey Gather,Shield Dust,Sweet Veil,,,,Beginner,
 #744,Rockruff,Rock,,3,2,4,2,4,1,3,1,3,1,3,Keen Eye,Vital Spirit,Steadfast,Own Tempo,Yes,,Beginner,
 #745,Lycanroc Midday,Rock,,4,3,6,3,6,2,4,2,4,2,4,Keen Eye,Sand Rush,Steadfast,,,Yes,Amateur,
-#745,Lycanroc Dusk,Rock,,4,3,6,3,6,2,4,2,4,2,4,,,Tough Claws,,,Yes,Amateur,
+#745,Lycanroc Dusk,Rock,,4,3,6,3,6,2,4,2,4,2,4,Tough Claws,,,,,Yes,Amateur,
 #745,Lycanroc Midnight,Rock,,4,3,6,2,5,2,5,2,4,2,5,Keen Eye,Vital Spirit,No Guard,,,Yes,Amateur,
 #746,Wishiwashi,Water,,4,1,3,2,4,1,3,1,3,1,3,Schooling,,,,,Yes,Starter,
 #746,Wishiwashi Swarm,Water,,8,3,7,1,3,3,7,3,7,3,7,Schooling,,,,,,Pro,
