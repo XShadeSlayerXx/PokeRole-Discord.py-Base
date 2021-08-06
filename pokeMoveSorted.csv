@@ -87,41 +87,41 @@ Outrage,dragon,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Random Foe,Rampage.,"The user
 Roar Of Time,dragon,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,"Lethal. If successful, the target can't have any action until next Round. -1 Accuracy.","Through a terrifying roar, Dialga bounds the forces of time on a single area, the unfortunate target will be trapped in a time warp, growing old in a matter of seconds."
 Spacial Rend,dragon,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. High Critical.,"With a flicker of its claws, Palkia defragments the space around its foe. Those who survive rarely do peserve their original shape."
 Twister,dragon,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 2 Chance Dice to Flinch the foes.,The Pokémon lets out a spiral current that surrounds the foes. They can't move until they free themselves from this terrible whirlwind.
-Aura Wheel,electric,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,"If successful, Increase user's Dexterity. If the user is in “Hangry” Form this Move is considered to be Dark-Type.",
-Bolt Beak,electric,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,"If the Target hasn't had a Turn this Round, add 2 Extra Dice to the Damage pool.",
-Bolt Strike,electric,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Roll 2 Chance Dice to Paralyze the foe. -2 Accuracy.,
-Buzzy Buzz,electric,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"Paralyze the foe. If the user of this Move is at its Final Stage of Evolution, this move fails.",
-Charge,electric,SUPPORT,0,,,INSIGHT,NATURE,User,Add 2 Dice to the Damage Pool to the next Electric Damaging move the user performs.,
-Charge Beam,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 5 Chance Dice to Increase the User's Special. -1 Accuracy.,
-Discharge,electric,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Area,Roll 3 Chance Dice to Paralyze those affected.,
-Eerie Impulse,electric,SUPPORT,0,,,INSIGHT,NATURE,Foe,Reduce foe's Special by 2.,
-Electric Terrain,electric,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,"For the Next 4 Rounds all Electric Attacks will deal 1 Extra Dice of Damage. Anyone on the ground will be cured from ""Sleep"" Status.",
-Electrify,electric,SUPPORT,0,,,INSIGHT,NATURE,Foe,The Damage from the next attack made by the target will be Electric Type.,
-Electro Ball,electric,SPECIAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,The user adds 1 Dice to the Damage Pool for every Dexterity point the User has that surpasses the foe's. Up to 4 Dice may be added.,
-Electroweb,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Reduce Dexterity of those affected.,
-Fusion Bolt,electric,PHYSICAL,4,STRENGTH,,STRENGTH,CHANNEL,Foe,"Lethal. If the Move “Fusion Flare” has already been used by anyone this Round, add 4 Extra Dice to the Damage Pool of this Move.",
-Ion Deluge,electric,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,For the rest of the Scene. Normal Type Moves will deal damage as if they were Electric Type Moves.,
-Magnet Rise,electric,SUPPORT,0,,,INSIGHT,NATURE,User,For the Next 4 Rounds the User gains immunity against Ground Type Moves.,
-Magnetic Flux,electric,SUPPORT,0,,,INSIGHT,NATURE,User and Allies,Increase the Defense and Sp. Defense of User and all its Electric and Steel Type Allies.,
-Nuzzle,electric,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Paralyze the foe.,
-Overdrive,electric,SPECIAL,3,SPECIAL,,DEXTERITY,PERFORM,All Foes,All Foes in Range. Sound Based.,
-Parabolic Charge,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Area,The user restores HP equal to half the damage dealt to one target. rounded down.,
-Pika Papow,electric,SPECIAL,0,SPECIAL,HAPPINESS,DEXTERITY,CHANNEL,Foe,"Add 1 Die to the Damage Roll for every point of Happiness on the User. If the user of this Move is at its Final Stage of Evolution, this move fails.",
-Plasma Fists,electric,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,"Fist Based. If successful, all Normal-Type Moves of the user will be considered ElectricType until the end of the Scene.",
-Shock Wave,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Never Fail.,
-Spark,electric,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Paralyze the foe.,
-Thunder,electric,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Roll 3 Chance Dice to Paralyze foe. If performed under Sunny Weather. Reduce 1 additional dice from the Accuracy Roll. If performed under Rain Weather. Ignore this Moves Reduced Accuracy. -2 Accuracy.,
-Thunder Fang,electric,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Flinch the foe. Roll 2 Chance Dice to Paralyze the foe.,
-Thunder Punch,electric,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Roll 1 Chance Dice to Paralyze foe.,
-Thunder Shock,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Paralyze the foe.,
-Thunder Wave,electric,SUPPORT,0,,,INSIGHT,NATURE,Foe,Paralyze the foe. -1 Accuracy.,
-Thunderbolt,electric,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Paralyze the foe.,
-Volt Switch,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,The user switches out after dealing damage. the new Pokémon arrives ready to fight on the next Round. Switcher Move.,
-Volt Tackle,electric,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil. Roll 1 Chance Dice to Paralyze the Foe.,
-Wild Charge,electric,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Recoil.,
-Zap Cannon,electric,SPECIAL,5,SPECIAL,,DEXTERITY,CHANNEL,Foe,Lethal. Paralyze the Foe. -3 Accuracy.,
-Zing Zap,electric,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the Foe.,
-Zippy Zap,electric,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,"Priority 2. This Move is always a Critical Hit and gets the proper Bonus for it. If the user of this Move is at its Final Stage of Evolution, this move fails.",
+Aura Wheel,electric,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,"If successful, Increase user's Dexterity. If the user is in “Hangry” Form this Move is considered to be Dark-Type.",The Pokemon happily runs into a wheel made of electricity that strikes the foe. If the user is feeling hungry the wheel's energy is replaced by a dark aura.
+Bolt Beak,electric,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,"If the Target hasn't had a Turn this Round, add 2 Extra Dice to the Damage pool.","The Pokemon charges with its beak and pecks its foe, if the foe is not fast it will be zapped by a jolt of electricity."
+Bolt Strike,electric,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Roll 2 Chance Dice to Paralyze the foe. -2 Accuracy.,"Zekrom delivers a powerful tackle while discharging lightning through its body. The foe is rendered unable to move, either by the strike or the electricity"
+Buzzy Buzz,electric,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"Paralyze the foe. If the user of this Move is at its Final Stage of Evolution, this move fails.","The Pokemon releases a jolt of static electricity from its fur, that makes a cute zapping sound. It's all fun and games until somebody gets paralyzed."
+Charge,electric,SUPPORT,0,,,INSIGHT,NATURE,User,Add 2 Dice to the Damage Pool to the next Electric Damaging move the user performs.,The user concentrates all the electricity in its body to be released.
+Charge Beam,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 5 Chance Dice to Increase the User's Special. -1 Accuracy.,The Pokemon lets out an electric beam then uses the remaining charge to boost its power.
+Discharge,electric,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Area,Roll 3 Chance Dice to Paralyze those affected.,The user releases its stored electricity in all directions.
+Eerie Impulse,electric,SUPPORT,0,,,INSIGHT,NATURE,Foe,Reduce foe's Special by 2.,"The user radiates electricity around itself, the foe will think twice about attacking."
+Electric Terrain,electric,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,"For the Next 4 Rounds all Electric Attacks will deal 1 Extra Dice of Damage. Anyone on the ground will be cured from ""Sleep"" Status.","The user electrifies the terrain, making it impossible to get a good night's sleep on it."
+Electrify,electric,SUPPORT,0,,,INSIGHT,NATURE,Foe,The Damage from the next attack made by the target will be Electric Type.,"The user hurls an electric projectile to the target, the foe is charged with electricity until it is released by the foe's next attack."
+Electro Ball,electric,SPECIAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,The user adds 1 Dice to the Damage Pool for every Dexterity point the User has that surpasses the foe's. Up to 4 Dice may be added.,"The Pokemon creates a small electricity orb that is hurled at the target. If the user is faster, the impact will be bigger."
+Electroweb,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Reduce Dexterity of those affected.,Shoots an electrified web at all foes to restrict their movement. Walking through this web can be painful.
+Fusion Bolt,electric,PHYSICAL,4,STRENGTH,,STRENGTH,CHANNEL,Foe,"Lethal. If the Move “Fusion Flare” has already been used by anyone this Round, add 4 Extra Dice to the Damage Pool of this Move.","The Pokemon strikes with a devastating electric impact, said impact will grow larger and stronger if there's a special kind of fire nearby."
+Ion Deluge,electric,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,"For the rest of the Scene, Normal Type Moves will deal damage as if they were Electric Type Moves.",The user amplifies all electrically charged particles in the environment. The results are shocking!
+Magnet Rise,electric,SUPPORT,0,,,INSIGHT,NATURE,User,For the Next 4 Rounds the User gains immunity against Ground Type Moves.,"The Pokemon uses the magnetic field of the earth to repel itself from the ground, allowing it to float for a short period of time."
+Magnetic Flux,electric,SUPPORT,0,,,INSIGHT,NATURE,User and Allies,Increase the Defense and Sp. Defense of User and all its Electric and Steel Type Allies.,"The Pokemon bends the magnetic field around itself, this also affects all allies who are sensible to it."
+Nuzzle,electric,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Paralyze the foe.,"The Pokemon rubs its electrified cheeks against the foe, it looks very cute but it can be dangerous."
+Overdrive,electric,SPECIAL,3,SPECIAL,,DEXTERITY,PERFORM,All Foes,All Foes in Range. Sound Based.,The Pokemon uses its own body as an amplifier for the energizing sounds it produces.
+Parabolic Charge,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Area,"The user restores HP equal to half the damage dealt to one target, rounded down.",The Pokemon lets go of a big electric charge from its body. The charge comes back to it even bigger.
+Pika Papow,electric,SPECIAL,0,SPECIAL,HAPPINESS,DEXTERITY,CHANNEL,Foe,"Add 1 Die to the Damage Roll for every point of Happiness on the User. If the user of this Move is at its Final Stage of Evolution, this move fails.","The User lets out its energy in the form of a lightning strike, the happier the user feels the more energized it will be."
+Plasma Fists,electric,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,"Fist Based. If successful, all Normal-Type Moves of the user will be considered Electric Type until the end of the Scene.","The user charges its fists with electricity, and upon impact the charge materializes into plasma that adds an electric element to all of its Normal moves."
+Shock Wave,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Never Fail.,The user quickly releases jolts of electricity that are too fast for many to react.
+Spark,electric,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Paralyze the foe.,"The user tackles the foe, releasing a powerful spark on contact."
+Thunder,electric,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,"Lethal. Roll 3 Chance Dice to Paralyze foe. If performed under Sunny Weather, Accuracy becomes -3 instead. If performed under Rain Weather, Ignore this Moves Reduced Accuracy. -2 Accuracy.",The Pokemon commands a tremendous lightning to strike a specific point on the ground. It's quite dangerous.
+Thunder Fang,electric,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Flinch the foe. Roll 2 Chance Dice to Paralyze the foe.,The user lands an electrified bite on the foe. The direct current may affect the foe greatly.
+Thunder Punch,electric,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Roll 1 Chance Dice to Paralyze foe.,An Electrified punch to deal a shocking blow.
+Thunder Shock,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Paralyze the foe.,A small electric attack that shocks the foe and may leave it with muscular cramps. Some electric devices hit by this attack will malfunction.
+Thunder Wave,electric,SUPPORT,0,,,INSIGHT,NATURE,Foe,Paralyze the foe. -1 Accuracy.,A tide of bright lightning streams from the floor onto the foe. The target's body will be cramped for hours.
+Thunderbolt,electric,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Paralyze the foe.,A strong electric attack that shocks and harms the foe. It can destroy most kinds of electric equipment.
+Volt Switch,electric,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,The user switches out after dealing damage. The new Pokémon arrives ready to fight on the next Round. Switcher Move.,"The User quickly shoots an electic jolt, then switches places with an awaiting Pokemon partner at the speed of lightning."
+Volt Tackle,electric,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil. Roll 1 Chance Dice to Paralyze the Foe.,"The user surrounds itself with big bolts of electricity, then it crashes against the foe."
+Wild Charge,electric,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Recoil.,"The Pokemon surrounds itself with wild botls of lightning, then tackles recklessly."
+Zap Cannon,electric,SPECIAL,5,SPECIAL,,DEXTERITY,CHANNEL,Foe,Lethal. Paralyze the Foe. -3 Accuracy.,The user hurls a dreadful bombardment of electric explosions. Anyone hit won't be able to move for a very long time.
+Zing Zap,electric,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the Foe.,"The user hurls itself as a zig-zaging ball of electricity that explodes on contact, this leaves the foe unable to move for a few seconds."
+Zippy Zap,electric,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,"Priority 2. This Move is always a Critical Hit and gets the proper Bonus for it. If the user of this Move is at its Final Stage of Evolution, this move fails.","The user zips and zaps from one place to another to strike the foe moving so fast it appears to be teleporting, leaving almost no time to react."
 Aromatic Mist,fairy,SUPPORT,0,,,INSIGHT,NATURE,One Ally,Increase one Ally's Defense and Sp. Defense.,
 Baby-Doll Eyes,fairy,SUPPORT,0,,,CUTE,ALLURE,Foe,Priority 1. Reduce foe's Strength.,
 Charm,fairy,SUPPORT,0,,,CUTE,ALLURE,Foe,Reduce foe's Strength by 2.,
