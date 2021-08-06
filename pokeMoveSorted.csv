@@ -122,30 +122,30 @@ Wild Charge,electric,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Recoil.,"The Pokem
 Zap Cannon,electric,SPECIAL,5,SPECIAL,,DEXTERITY,CHANNEL,Foe,Lethal. Paralyze the Foe. -3 Accuracy.,The user hurls a dreadful bombardment of electric explosions. Anyone hit won't be able to move for a very long time.
 Zing Zap,electric,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the Foe.,"The user hurls itself as a zig-zaging ball of electricity that explodes on contact, this leaves the foe unable to move for a few seconds."
 Zippy Zap,electric,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,"Priority 2. This Move is always a Critical Hit and gets the proper Bonus for it. If the user of this Move is at its Final Stage of Evolution, this move fails.","The user zips and zaps from one place to another to strike the foe moving so fast it appears to be teleporting, leaving almost no time to react."
-Aromatic Mist,fairy,SUPPORT,0,,,INSIGHT,NATURE,One Ally,Increase one Ally's Defense and Sp. Defense.,
-Baby-Doll Eyes,fairy,SUPPORT,0,,,CUTE,ALLURE,Foe,Priority 1. Reduce foe's Strength.,
-Charm,fairy,SUPPORT,0,,,CUTE,ALLURE,Foe,Reduce foe's Strength by 2.,
-Crafty Shield,fairy,SUPPORT,0,,,INSIGHT,NATURE,User and Allies,Priority 3. The User and its Allies are protected from the effects of a Support Move. Shield.,
-Dazzling Gleam,fairy,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,All Foes,-,
-Decorate,fairy,SUPPORT,0,,,BEAUTY,NATURE,One Ally,Increase the Strength and Special of One Ally by 2,
-Disarming Voice,fairy,SPECIAL,2,SPECIAL,,INSIGHT,PERFORM,All Foes,Sound Based. Never Fail. Targets All foes in range.,
-Draining Kiss,fairy,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,The User restores HP equal to half the damage dealt. rounded down.,
-Fairy Lock,fairy,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,Blocks. Last 1 Round.,
-Fairy Wind,fairy,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,
-Fleur Cannon,fairy,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Reduce User's Special by 2. -1 Accuracy.,
-Floral Healing,fairy,SUPPORT,0,,,INSIGHT,NATURE,One Ally,Basic Heal. If performed over Grassy Terrain this move is a Complete Heal.,
-Flower Shield,fairy,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,Increase the Defense of All Grass Type Pokémon on the field.,
-Geomancy,fairy,SUPPORT,0,,,INSIGHT,NATURE,User,"Charge Move. The user charges, then Increases by 2 its Dexterity, Special and Sp. Defense scores on its next Turn.",
-Light Of Ruin,fairy,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Recoil. -1 Accuracy.,
-Misty Terrain,fairy,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,Creatures standing on the battlefield won't be affected by Status Ailments. Dragon Type attacks won't add their Power to the Damage Pool. Lasts 4 Rounds.,
-Moonblast,fairy,SPECIAL,3,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 3 Chance Dice to Reduce foe's Special.,
-Moonlight,fairy,SUPPORT,0,,,INSIGHT,NATURE,User,Basic Heal. If successful spend 1 Will point to activate. If performed at Night or Sunny Weather is in effect this move becomes a Complete Heal. If rain/Sandstorm Weather is in effect this move only heals 1hp,
-Nature's Madness,fairy,SPECIAL,0,,,INSIGHT,NATURE,Foe,"Damage Roll is Half of the Foe's remaining HP (up to 10) Rounded down. If the remaining HP of the foe is 1, this move fails. Ignore the foe's Defenses. -1 Accuracy.",
-Play Rough,fairy,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 1 Chance Dice to Reduce foe's Strength. -1 Accuracy.,
-Sparkly Swirl,fairy,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"If successful, heal any Status Ailment on the User and Allies. If the user of this Move is at its Final Stage of Evolution, this move fails. -1 Accuracy.",
-Spirit Break,fairy,PHYSICAL,2,STRENGTH,,INSIGHT,BRAWL,Foe,"If successful, reduce the Foe's Special.",
-Strange Steam,fairy,SPECIAL,3,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 2 Chance Dice to Confuse the Foe.,
-Sweet Kiss,fairy,SUPPORT,0,,,CUTE,ALLURE,Foe,Confuse the foe. -2 Accuracy.,
+Aromatic Mist,fairy,SUPPORT,0,,,INSIGHT,NATURE,One Ally,Increase one Ally's Defense and Sp. Defense.,The Pokemon showers an ally in a mist with a revitalizing armoa.
+Baby-Doll Eyes,fairy,SUPPORT,0,,,CUTE,ALLURE,Foe,Priority 1. Reduce foe's Strength.,"Before anyone acts in battle, the user looks at the foe with the cutest eyes."
+Charm,fairy,SUPPORT,0,,,CUTE,ALLURE,Foe,Reduce foe's Strength by 2.,The Pokemon uses a cute and harmless attitude to make the foe less wary and aggresive.
+Crafty Shield,fairy,SUPPORT,0,,,INSIGHT,NATURE,User and Allies,Priority 3. The User and its Allies are protected from the effects of a Support Move. Shield.,"The Pokemon creates a magic shield to protect everyone from the bad tricks a foe might have under its sleeve. Under this shield, everyone can see dishonesty and bad intentions."
+Dazzling Gleam,fairy,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,All Foes,-,The user shines a powerful flash that hurts the eyes of everyone watching it.
+Decorate,fairy,SUPPORT,0,,,BEAUTY,NATURE,One Ally,Increase the Strength and Special of One Ally by 2,"Using some frosting the Pokemon decorates their target to look bigger, more powerful, and incredibly delicious!"
+Disarming Voice,fairy,SPECIAL,2,SPECIAL,,INSIGHT,PERFORM,All Foes,Sound Based. Never Fail. Targets All foes in range.,"With a charming and manipulative cry, the user deals emotional damage to its opponent. This move always makes the target feel bad."
+Draining Kiss,fairy,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,"The User restores HP equal to half the damage dealt, rounded down.","The user sends a kiss with a flirty intention, the foe catches the kiss but it ends up draining the target's energy."
+Fairy Lock,fairy,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,Blocks. Last 1 Round.,The user moves as if locking a door. It takes a few moments before everyone realizes that they are not really trapped.
+Fairy Wind,fairy,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,The Pokemon strikes with a wind covered in fairy dust. It causes itching.
+Fleur Cannon,fairy,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Reduce User's Special by 2. -1 Accuracy.,"A light beam pierces the battlefield, it deals devastating damage but leaves newly grown flowers instead of scorched earth. The user is left feeling very tired."
+Floral Healing,fairy,SUPPORT,0,,,INSIGHT,NATURE,One Ally,Basic Heal. If performed over Grassy Terrain this move is a Complete Heal.,The user creates a flower crown that heals and relaxes its wearer. Under the right conditions this move also creates a flower patch around its target.
+Flower Shield,fairy,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,Increase the Defense of All Grass Type Pokémon on the field.,The Pokemon uses a mysterious power that causes flowers to bloom beneath every Grass Pokemon nearby. Flora in this field is more resilient and beautiful.
+Geomancy,fairy,SUPPORT,0,,,INSIGHT,NATURE,User,"Charge Move. The user charges, then Increases by 2 its Dexterity, Special and Sp. Defense scores on its next Turn.",Through a mystical connection this Pokemon absorbs the life force of earth itself to increase its power.
+Light Of Ruin,fairy,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Recoil. -1 Accuracy.,"By drawing energy from the Eternal Flower, the Pokemon unleashes all of its hurt. A beautiful light surrounds the area, yet the pain inside of its heart remains."
+Misty Terrain,fairy,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,Creatures standing on the battlefield won't be affected by Status Ailments. Dragon Type attacks won't add their Power to the Damage Pool. Lasts 4 Rounds.,The user surrounds the battlefield with a mystical mist that feels protective. Mythical Pokemon find something eerie about it.
+Moonblast,fairy,SPECIAL,3,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 3 Chance Dice to Reduce foe's Special.,Summon power directly from the moon. The Pokemon blasts the foe with light.
+Moonlight,fairy,SUPPORT,0,,,INSIGHT,NATURE,User,Basic Heal. If successful spend 1 Will point to activate. If performed at Night or Sunny Weather is in effect this move becomes a Complete Heal. If Rain/Sandstorm Weather is in effect this move only heals 1 HP,"The user gathers power from the light of the moon, the energy absorbed can heal most injuries."
+Nature's Madness,fairy,SPECIAL,0,,,INSIGHT,NATURE,Foe,"Damage Roll is Half of the Foe's remaining HP (up to 10) Rounded down. If the remaining HP of the foe is 1, this move fails. Ignore the foe's Defenses. -1 Accuracy.","The forces of nature attack as if they had a will of their own. Water will try to drown you, plants will trap you, lightning will come out of nowhere, and even your own body will fail you."
+Play Rough,fairy,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 1 Chance Dice to Reduce foe's Strength. -1 Accuracy.,"The user and the foe start a playful wrestle, it soon escalates into something not so pretty."
+Sparkly Swirl,fairy,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"If successful, heal any Status Ailment on the User and Allies. If the user of this Move is at its Final Stage of Evolution, this move fails. -1 Accuracy.",The Pokemon unleashes a swirling and glittery energy that releases a pleasant aroma that soothes the body and has healing properties.
+Spirit Break,fairy,PHYSICAL,2,STRENGTH,,INSIGHT,BRAWL,Foe,"If successful, reduce the Foe's Special.",Sometimes words hurt a lot more than blows. With this Move the Pokemon deals both.
+Strange Steam,fairy,SPECIAL,3,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 2 Chance Dice to Confuse the Foe.,"The user releases an addictive sweet-smelling steam, do not be fooled as it is toxic and has nasty side-effects."
+Sweet Kiss,fairy,SUPPORT,0,,,CUTE,ALLURE,Foe,Confuse the foe. -2 Accuracy.,"The Pokemon moves towards the foe and plants a delicate kiss on its cheek, then leaves playfully. The foe struggles to know what it meant."
 Arm Thrust,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions.,
 Aura Sphere,fighting,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Never Fail.,
 Body Press,fighting,PHYSICAL,3,VITALITY,,STRENGTH,BRAWL,Foe,-,
