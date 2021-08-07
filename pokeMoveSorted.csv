@@ -228,32 +228,32 @@ Sizzly Slide,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"If the user of this 
 Sunny Day,fire,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Sunny Weather is activated for the next 4 Rounds.,"The Pokemon will raise the temperature along with the sun, it doesn't work at night, indoors, underground, or underwater."
 V-Create,fire,PHYSICAL,7,STRENGTH,,STRENGTH,BRAWL,Foe,"Reduce the user's Dexterity, Defense, and Sp. Defense.","The user slams its foe with a V-Shaped flame on its forehead. Upon impact, it detonates a terrible explosion and leaves the user pretty vulnerable afterwards."
 Will-O-Wisp,fire,SUPPORT,0,,,DEXTERITY,CHANNEL,Foe,Burn the Foe. -2 Accuracy.,The user calls a floating ember to consume the foe.
-Acrobatics,flying,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,If the User has a Held Item. remove 2 Dice from the Damage Roll.,
-Aerial Ace,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Never Fail.,
-Aeroblast,flying,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. High Critical.,
-Air Cutter,flying,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Target all foes in Range. High Critical.,
-Air Slash,flying,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Flinch the foe.,
-Beak Blast,flying,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Charge Move. Low Priority 3. If the User is hit by a Non Ranged Physical Attack while this move is charging. Apply Burn 2 to the foe.,
-Bounce,flying,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Charge Move. While charging this Move. the user will be out of range. Roll 3 Chance Dice to Paralyze the foe.,
-Brave Bird,flying,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil.,
-Chatter,flying,SPECIAL,2,SPECIAL,,INSIGHT,PERFORM,Foe,Roll 3 Chance Dice to Confuse the foe. Sound based move.,
-Defog,flying,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,Remove all Barriers (ie. Light Screen. Reflect) and any Entry Hazard and Evasion Modifier on the battlefield.,
-Dragon Ascent,flying,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. Reduce the user's Defense and Sp. Defense.,
-Drill Peck,flying,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal.,
-Feather Dance,flying,SUPPORT,0,,,BEAUTY,PERFORM,Foe,Reduce the foe's Strength by 2.,
-Floaty Fall,flying,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"Roll 3 Chance Dice to Flinch the Foe. If the user of this Move is at its Final Stage of Evolution, this move fails.",
-Fly,flying,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Charge Move. While charging this move. the User will be out of range. with the exception of the attacks Hurricane and Thunder.,
-Gust,flying,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,
-Hurricane,flying,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Roll 3 Chance Dice to Confuse the Foe. If Rain Weather in effect ignore this moves reduced accuracy. -2 Accuracy.,
-Mirror Move,flying,SUPPORT,0,,,WILL,CHANNEL,Foe,Copies the last Damaging Move the foe has performed.,
-Oblivion Wing,flying,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. High Critical.,
-Peck,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,
-Pluck,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Never Fail. If the Target is holding a Berry. the User eats it and gains its effects.,
-Roost,flying,SUPPORT,0,,,INSIGHT,NATURE,User,Basic Heal. Until the User's next action this Pokémon will be vulnerable to Ground Type moves.,
-Sky Attack,flying,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. High Critical. Charge Move. Roll 3 Chance Dice to Flinch the foe. -1 Accuracy.,
-Sky Drop,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Charge Move. While charging this move the Target is flinched. Flying Type Pokémon are immune to the Damage of this move. Lifting a target is restricted by the Strength of the User.,
-Tailwind,flying,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,For the Next 4 Rounds. Increase the Dexterity of the User and All Allies in the field by 2.,
-Wing Attack,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,
+Acrobatics,flying,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,"If the User has a Held Item, remove 2 Dice from the Damage Roll.","The user makes quick and graceful acrobatic moves to hit the foe, it will be swifter if nothing gets in the way."
+Aerial Ace,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Never Fail.,"The Pokemon rises up in the air towards a light source, momentarily blinding the foe, then plummets quickly to attack the opponent."
+Aeroblast,flying,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. High Critical.,The victim is trapped in a violently swirling vortex. The strong wind currents make debris fly everywhere.
+Air Cutter,flying,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Target all foes in Range. High Critical.,The user will send out a wave of sharp wind that will harm anything it touches.
+Air Slash,flying,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Flinch the foe.,The user will surround the foe with razor-like wind that may knock it down.
+Beak Blast,flying,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,"Ranged. Charge Move. Low Priority 3. If the User is hit by a Non Ranged Physical Attack while this move is charging, apply Burn 2 to the foe.","The Pokemon gets ready to release a boiling gas through its beak, which gets incredibly hot. The resulting blast sounds like a train's horn."
+Bounce,flying,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Charge Move. While charging this Move. the user will be out of range. Roll 3 Chance Dice to Paralyze the foe.,The Pokemon will jump 30 feet in the air before landing on top of the foe. The user won't suffer any falling damage.
+Brave Bird,flying,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil.,"The Pokemon flies straight at the foe at full speed, the collision might hurt both of them."
+Chatter,flying,SPECIAL,2,SPECIAL,,INSIGHT,PERFORM,Foe,Roll 3 Chance Dice to Confuse the foe. Sound based move.,The user starts talking and giving orders in human language. It may be extremely confusing for the foes.
+Defog,flying,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,"Remove all Barriers (ie. Light Screen, Reflect), Entry Hazards (Toxic Spikes, Stealth Rock, etc.), and Terrains (Misty Terrain, Electric Terrain, etc.) from the battlefield.",A strong current of wind that blows away any fog and even invisible barriers.
+Dragon Ascent,flying,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. Reduce the user's Defense and Sp. Defense.,The user rises above the clouds and then comes crashing down against its foe in an instant. The strike is brutal for both.
+Drill Peck,flying,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal.,The user pierces the foe with its beak used as a drill. A dangerous move.
+Feather Dance,flying,SUPPORT,0,,,BEAUTY,PERFORM,Foe,Reduce the foe's Strength by 2.,"A beautiful dance that soothes the hearts of those who watch it, reducing their aggressive intentions."
+Floaty Fall,flying,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"Roll 3 Chance Dice to Flinch the Foe. If the user of this Move is at its Final Stage of Evolution, this move fails.","With the help of some air balloons, the user jumps up high and falls on top of its foe. The use of balloons in-battle is questionable, but the referee will allow them."
+Fly,flying,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"Charge Move. While charging this move the User will be out of range, with the exception of the attacks Hurricane and Thunder.","The user flies up high in one action, then drops and strikes in the next one. The Pokemon can fly for extremely long periods of time without getting tired."
+Gust,flying,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,The Pokemon flaps its wings to strike the foe with wind.
+Hurricane,flying,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Roll 3 Chance Dice to Confuse the Foe. If Rain Weather in effect ignore this moves reduced accuracy. -2 Accuracy.,The user attacks by wrapping the opponent in a fierce wind that carries the target up into the sky.
+Mirror Move,flying,SUPPORT,0,,,WILL,CHANNEL,Foe,Copies the last Damaging Move the foe has performed.,The user concentrates and manages to imitate the last move used by the foe.
+Oblivion Wing,flying,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. High Critical.,"A dark wind rises, turning everything it touches into dust to be scattered until nothing remains. People, Pokemon, plants, everything fades until a distant memory."
+Peck,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,"The Pokemon uses its beak or horn to jab the foe, hurting a little bit."
+Pluck,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,"Never Fail. If the Target is holding a Berry, the User eats it and gains its effects.",The user gives a hard peck and may get something tasty out of the foe.
+Roost,flying,SUPPORT,0,,,INSIGHT,NATURE,User,Basic Heal. Until the User's next action this Pokémon will be vulnerable to Ground Type moves.,The Pokemon uses its action to land on the ground and relax.
+Sky Attack,flying,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. High Critical. Charge Move. Roll 3 Chance Dice to Flinch the foe. -1 Accuracy.,"The Pokemon darts from the sky with a graceful and lethal strike, propelling with the wind, crushing the foe to the ground."
+Sky Drop,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Charge Move. While charging this move the Target is flinched. Flying Type Pokémon are immune to the Damage of this move. Lifting a target is restricted by the Strength of the User.,"The user carries the opponent to the sky, then drops the target from that altitude."
+Tailwind,flying,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,"For the Next 4 Rounds, Increase the Dexterity of the User and All Allies in the field by 2.",User flaps its wings and casts a turbulent wind that helps the team move significantly faster.
+Wing Attack,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,The user flies towards the foe and strikes with its wings.
 Astonish,ghost,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the foe.,
 Confuse Ray,ghost,SUPPORT,0,,,INSIGHT,NATURE,Foe,Confuse the foe.,
 Curse,ghost,SUPPORT,0,,,WILL,CHANNEL,Foe,Roll half the user's HP as damage dice to itself. Ignoring Defenses. The target will remove 1 success from all their rolls until the Curse is lifted.,
