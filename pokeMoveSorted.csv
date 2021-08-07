@@ -192,42 +192,42 @@ Triple Kick,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions
 Vacuum Wave,fighting,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Priority 1.,
 Vital Throw,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Low Priority 1. Never Fail.,
 Wake-Up Slap,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the Foe is sleeping. Add 2 Extra Dice to the Damage Pool. The foe Wakes up afterwards.,
-Blast Burn,fire,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Must Recharge. -1 Accuracy.,
-Blaze Kick,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical. Roll 2 Chance Dice to Apply Burn 2 to the Foe. -1 Accuracy.,
-Blue Flare,fire,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 2 Chance Dice to Apply Burn 3 to the foe. -2 Accuracy.,
-Burn Up,fire,SPECIAL,7,SPECIAL,,WILL,CHANNEL,Foe,Lethal. After Damage is dealt. the user is no longer considered a Fire-Type for the rest of the day (if its only type was Fire. it is now considered Typeless). Fire-type Moves won't add their Power to the Damage pool of this Pokémon for the rest of the day.,
-Ember,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Burn the foe.,
-Eruption,fire,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,All Foes,Lethal. Reduce 1 Dice from the Damage Pool for every missing HP the User has. Up to 5 dice may be removed this way.,
-Fiery Dance,fire,SPECIAL,3,SPECIAL,,DEXTERITY,PERFORM,Foe,Roll 5 Chance Dice to Increase the User's Special.,
-Fire Blast,fire,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Roll 3 Chance Dice to apply Burn 3 to the foe. -2 Accuracy.,
-Fire Fang,fire,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance to Flinch the Foe. Roll 2 Chance Dice to Burn the foe. -1 Accuracy.,
-Fire Lash,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Reduce Foe's Defense.,
-Fire Pledge,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield,All flammable plants and objects in the battlefield are covered in flames. Roll 1 Dice of Fire Damage at the end of every Round against everyone on the field.,
-Fire Punch,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Roll 1 Chance Dice to apply Burn 2 to the foe.,
-Fire Spin,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds. -2 Accuracy.,
-Flame Burst,fire,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,After dealing damage. the user may roll 1 Dice of Damage against two othe Targets.,
-Flame Charge,fire,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Increase the User's Dexterity.,
-Flame Wheel,fire,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 1 Chance Dice to Burn the foe.,
-Flamethrower,fire,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Apply Burn 2 to the foe.,
-Flare Blitz,fire,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil. Roll 1 Chance Dice to Apply Burn 3 to the foe.,
-Fusion Flare,fire,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,"Lethal. If the Move “Fusion Bolt” has already been used by anyone this Round, add 4 Extra Dice to the Damage Pool of this Move",
-Heat Crash,fire,PHYSICAL,2,STRENGTH,,STRENGTH,BRAWL,Foe,Add 1 Extra Dice to the Damage Pool for every 50 kgs. of weight above the target's weight. up to +4 Extra Dice.,
-Heat Wave,fire,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Target all foes in Range. Roll 1 Chance Dice to Burn those affected. -1 Accuracy.,
-Incinerate,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Destroy the held Berries of those affected.,
-Inferno,fire,SPECIAL,4,SPECIAL,,DEXTERITY,CHANNEL,Foe,Lethal. Apply Burn 3 to the Foe. -3 Accuracy.,
-Lava Plume,fire,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Area,Roll 3 Chance Dice to Burn those affected.,
-Magma Storm,fire,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Blocks. Roll 3 Damage Dice at the end of each Round. Lasts 4 Rounds.,
-Mind Blown,fire,SPECIAL,6,SPECIAL,,INSIGHT,CHANNEL,Area,Area Attack. Recoil.,
-Mystical Fire,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce Foe's Special.,
-Overheat,fire,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Reduce User's Special by 2. -1 Accuracy.,
-Pyro Ball,fire,PHYSICAL,5,STRENGTH,,STRENGTH,CHANNEL,Foe,Roll 1 Chance Dice to Apply Burn 2 to the Foe. -1 Accuracy.,
-Sacred Fire,fire,PHYSICAL,4,STRENGTH,,DEXTERITY,CHANNEL,Foe,Lethal. Roll 5 Chance Dice to Apply Burn 3 to the Foe.,
-Searing Shot,fire,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,All Foes,Lethal. All Foes in Range. Roll 3 Chance Dice to Apply Burn 2 those Affected.,
-Shell Trap,fire,SPECIAL,6,SPECIAL,,DEXTERITY,STEALTH,Foe,Low Priority 3. This Move strikes the next time the user is hit with a Non-Ranged Physical attack.,
-Sizzly Slide,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"If the user of this Move is at its Final Stage of Evolution, this move fails. Burn the Foe.",
-Sunny Day,fire,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Sunny Weather is activated for the next 4 Rounds.,
-V-Create,fire,PHYSICAL,7,STRENGTH,,STRENGTH,BRAWL,Foe,"Reduce the user's Dexterity, Defense and Sp. Defense.",
-Will-O-Wisp,fire,SUPPORT,0,,,DEXTERITY,CHANNEL,Foe,Burn the Foe. -2 Accuracy.,
+Blast Burn,fire,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Must Recharge. -1 Accuracy.,The Pokemon uses all of its power to deliver an infernal blast to the foe. The user is left exhausted.
+Blaze Kick,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical. Roll 2 Chance Dice to Apply Burn 2 to the Foe. -1 Accuracy.,The user throws a mighty kick engulfed in fire that may leave a bad looking burn.
+Blue Flare,fire,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 2 Chance Dice to Apply Burn 3 to the foe. -2 Accuracy.,Reshiram surrounds itself with a giant blue flame that is unleashed with an earth shattering explosion. Receiving this attack directly might completely engulf you in fire.
+Burn Up,fire,SPECIAL,7,SPECIAL,,WILL,CHANNEL,Foe,Lethal. After Damage is dealt. the user is no longer considered a Fire-Type for the rest of the day (if its only type was Fire. it is now considered Typeless). Fire-type Moves won't add their Power to the Damage pool of this Pokémon for the rest of the day.,The User unleashes all of its might through a massive blast of raging fire. Although the damage is devastating the Pokemon is left unable to produce more fire for at least a day.
+Ember,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Burn the foe.,The user shoots a small flame against the target that may cause a first-degree burn.
+Eruption,fire,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,All Foes,Lethal. Reduce 1 Dice from the Damage Pool for every missing HP the User has. Up to 5 dice may be removed this way.,A fierce burst of lava coming from the user at full force charring whatever comes in contact with it.
+Fiery Dance,fire,SPECIAL,3,SPECIAL,,DEXTERITY,PERFORM,Foe,Roll 5 Chance Dice to Increase the User's Special.,The user cloaks itself in flames and shoots them while dancing gracefully.
+Fire Blast,fire,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Roll 3 Chance Dice to apply Burn 3 to the foe. -2 Accuracy.,"The Pokemon shoots a giant fireball that explodes on contact with the foe, blasting fire in all directions."
+Fire Fang,fire,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance to Flinch the Foe. Roll 2 Chance Dice to Burn the foe. -1 Accuracy.,The user breathes fire from its mouth while biting the target.
+Fire Lash,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Reduce Foe's Defense.,"With a whip of fire, the Pokemon ensnares its foe, who is left defenseless and at its mercy."
+Fire Pledge,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield,All flammable plants and objects in the battlefield are covered in flames. Roll 1 Dice of Fire Damage at the end of every Round against everyone on the field.,"The Pokemon chants to invoke the power of Fire. Its pledge is heard, then the flames consume everything around."
+Fire Punch,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Roll 1 Chance Dice to apply Burn 2 to the foe.,The User can ignite its fists for a brief moment without any danger of getting burned. The foe may not be so lucky.
+Fire Spin,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds. -2 Accuracy.,"The user creates a vortex of fire that remains spinning in the battlefield, trapping the foe within."
+Flame Burst,fire,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"After dealing damage, the user may roll 1 Dice of Damage against two othe Targets.","A concentrated flameball that bursts on contact with the foe, scattering smaller flames around."
+Flame Charge,fire,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Increase the User's Dexterity.,The Pokemon uses its flames as propulsion to strike the foe.
+Flame Wheel,fire,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 1 Chance Dice to Burn the foe.,The user cloaks itself in flames and rolls to tackle the target.
+Flamethrower,fire,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Apply Burn 2 to the foe.,The user lets out a powerful fire stream that leaves a scorched trail.
+Flare Blitz,fire,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil. Roll 1 Chance Dice to Apply Burn 3 to the foe.,"The user sets itself on fire, recklessly charging against the target with a brutal strike."
+Fusion Flare,fire,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,"Lethal. If the Move “Fusion Bolt” has already been used by anyone this Round, add 4 Extra Dice to the Damage Pool of this Move","The Pokemon sets ablaze a swirling pillar upon the target, said pillar will grow taller and swirl faster if there's a special kind of charge nearby."
+Heat Crash,fire,PHYSICAL,2,STRENGTH,,STRENGTH,BRAWL,Foe,Add 1 Extra Dice to the Damage Pool for every 50 kgs. of weight above the target's weight. Up to +4 Extra Dice may be added this way.,The user slams the target with a body engulfed in fire.
+Heat Wave,fire,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Target all foes in Range. Roll 1 Chance Dice to Burn those affected. -1 Accuracy.,The user breathes a giant wave of incandescent air that might set fire to whatever it touches.
+Incinerate,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Destroy the held Berries of those affected.,The Pokemon releases a blast of fire that instantly consumes small flammable objects.
+Inferno,fire,SPECIAL,4,SPECIAL,,DEXTERITY,CHANNEL,Foe,Lethal. Apply Burn 3 to the Foe. -3 Accuracy.,The Pokemon sets the foe on fire. These flames rise up to 6 feet. A very dangerous Move.
+Lava Plume,fire,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Area,Roll 3 Chance Dice to Burn those affected.,The user shoots up bits of molten lava that fall scattered around the field.
+Magma Storm,fire,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Blocks. Roll 3 Damage Dice at the end of each Round. Lasts 4 Rounds. -2 Accuracy.,The Pokemon shoots a fiery eruption to its foe. Unable to escape and surrounded by the unbearable heat the foe's survival is at risk.
+Mind Blown,fire,SPECIAL,6,SPECIAL,,INSIGHT,CHANNEL,Area,Area Attack. Recoil.,"The Pokemon has had a terrible day and has a very bad headache, try not to disturb its peace because its head feels like exploding."
+Mystical Fire,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce Foe's Special.,"This mystical fire not only burns the foe, it also drains its power."
+Overheat,fire,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Reduce User's Special by 2. -1 Accuracy.,"A furious wave of scorching fire that will turn to ashes everything it touches, exhausting the user afterwards."
+Pyro Ball,fire,PHYSICAL,5,STRENGTH,,STRENGTH,CHANNEL,Foe,Roll 1 Chance Dice to Apply Burn 2 to the Foe. -1 Accuracy.,"The Pokemon lights a heavy stone on fire and kicks it while it's ablaze. The hit is pretty heavy already, the fire is just for showing off."
+Sacred Fire,fire,PHYSICAL,4,STRENGTH,,DEXTERITY,CHANNEL,Foe,Lethal. Roll 5 Chance Dice to Apply Burn 3 to the Foe.,"A blazing pillar of rainbow-colored flames crashes upon the foe, it burns and cleanses the evil from within. Those with a pure heart should not fear for they'll be unharmed."
+Searing Shot,fire,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,All Foes,Lethal. All Foes in Range. Roll 3 Chance Dice to Apply Burn 2 those Affected.,The User torches everything around itself in a sudden burst of scarlet flames. Everything is brought to cinders in a matter of seconds.
+Shell Trap,fire,SPECIAL,6,SPECIAL,,DEXTERITY,STEALTH,Foe,Low Priority 3. This Move strikes the next time the user is hit with a Non-Ranged Physical attack.,"It apparently just buries underground, but secretely the Pokemon prepares its shell to detonate; anyone who steps on it will be blown to pieces."
+Sizzly Slide,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"If the user of this Move is at its Final Stage of Evolution, this move fails. Burn the Foe.","The user slides on the floor as if it was ice-skating, only there is no ice, only a raging fire."
+Sunny Day,fire,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Sunny Weather is activated for the next 4 Rounds.,"The Pokemon will raise the temperature along with the sun, it doesn't work at night, indoors, underground, or underwater."
+V-Create,fire,PHYSICAL,7,STRENGTH,,STRENGTH,BRAWL,Foe,"Reduce the user's Dexterity, Defense, and Sp. Defense.","The user slams its foe with a V-Shaped flame on its forehead. Upon impact, it detonates a terrible explosion and leaves the user pretty vulnerable afterwards."
+Will-O-Wisp,fire,SUPPORT,0,,,DEXTERITY,CHANNEL,Foe,Burn the Foe. -2 Accuracy.,The user calls a floating ember to consume the foe.
 Acrobatics,flying,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,If the User has a Held Item. remove 2 Dice from the Damage Roll.,
 Aerial Ace,flying,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Never Fail.,
 Aeroblast,flying,SPECIAL,4,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. High Critical.,
