@@ -349,30 +349,30 @@ Spikes,ground,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Foe Pokémon that enters th
 Stomping Tantrum,ground,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 2 Extra Dice to the Damage Pool of this move is the User failed the Accuracy Roll of the last Move it performed.,
 Thousand Arrows,ground,PHYSICAL,3,STRENGTH,,STRENGTH,CHANNEL,All Foes,"Lethal. Ranged. All Foes in Range. If successful, Flying and Levitating Pokémon can be hit by Ground-Type Moves for the rest of the scene.",
 Thousand Waves,ground,PHYSICAL,3,STRENGTH,,SPECIAL,BRAWL,All Foes,Blocks. Ranged. All Foes in Range.,
-Aurora Beam,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Strength.,
-Aurora Veil,ice,SUPPORT,0,,,SPECIAL,CHANNEL,User and Allies,User and Allies will receive 1 less Damage from both Physical and Special Attacks. This move will fail if not performed under Hail Weather. Lasts until Hail Weather is over.,
-Avalanche,ice,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Low Priority 4. If the user received damage from the target this Round. Add 2 Extra Dice to the Damage Pool.,
-Blizzard,ice,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,All Foes,Roll 1 Chance Dice to Freeze those affected. If performed under Hail Weather Ignore this moves Reduced Accuracy and the Move can't be evaded. If performed under Sunny Weather Accuracy becomes -3 instead. -2 Accuracy.,
-Freeze Dry,ice,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Water type Pokémon are dealt 2 Extra Damage.,
-Freeze Shock,ice,PHYSICAL,6,STRENGTH,,SPECIAL,CHANNEL,Foe,Lethal. Ranged. Charge Move. Roll 3 Chance Dice to Paralyze the Foe. -1 Accuracy.,
-Freezy Frost,ice,SPECIAL,3,SPECIAL,,SPECIAL,CHANNEL,Foe,"If successful, remove all Increased or Reduced Attributes and Traits the Foe may have. If the user of this Move is at its Final Stage of Evolution, this move fails. -1 Accuracy.",
-Frost Breath,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,This Move is always a Critical Hit and it gets the proper bonus for it. -1 Accuracy.,
-Glaciate,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Lethal. All Foes in Range. Reduce the Dexterity of those affected.,
-Hail,ice,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Hail Weather is activated for the next 4 Rounds.,
-Haze,ice,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Remove all Increased or Reduced Attributes and Traits on everyone on the Battlefield.,
-Ice Ball,ice,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. Add 1 Extra Dice to the Damage Roll of the last Ice Ball hit the user performes. If the Pokémon used Defense Curl this Round. add 1 Extra Dice to the Damage Roll of every hit. -1 Accuracy.,
-Ice Beam,ice,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Freeze the Foe.,
-Ice Burn,ice,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Ranged. Charge Move. Roll 3 Chance Dice to Burn the Foe. -1 Accuracy.,
-Ice Fang,ice,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Flinch the foe. Roll 2 Chance Dice to Freeze the foe. -1 Accuracy.,
-Ice Hammer,ice,PHYSICAL,4,STRENGTH,,STRENGTH,BRAWL,Foe,Reduce User's Dexterity. -1 Accuracy.,
-Ice Punch,ice,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Roll 1 Chance Dice to Freeze the foe.,
-Ice Shard,ice,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Priority 1.,
-Icicle Crash,ice,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the Foe. -1 Accuracy.,
-Icicle Spear,ice,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions.,
-Icy Wind,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Reduce Dexterity of those affected.,
-Mist,ice,SUPPORT,0,,,SPECIAL,NATURE,User and Allies,For the next 4 Rounds. the User and Allies cannot have their Attributes or Traits reduced.,
-Powder Snow,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Roll 1 Chance Dice to Freeze those affected.,
-Sheer Cold,ice,SPECIAL,0,,,SPECIAL,CHANNEL,Foe,Deal damage to the Target equal to its remaining HP plus 1 Lethal Damage. -5  Accuracy.,
+Aurora Beam,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Strength.,The Pokemon shoots a beautiful rainbow colored beam that may leave the foe flabbergasted.
+Aurora Veil,ice,SUPPORT,0,,,SPECIAL,CHANNEL,User and Allies,User and Allies will receive 1 less Damage from both Physical and Special Attacks. This move will fail if not performed under Hail Weather. Lasts until Hail Weather is over.,"Aurora lights and hail spin around the Pokemon and its Allies, deflecting attacks."
+Avalanche,ice,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,"Low Priority 4. If the user received damage from the target this Round, Add 2 Extra Dice to the Damage Pool.","The user builds up a lot of snow around itself. If anything disturbs the snow, it will fall on the attacker like an avalanche."
+Blizzard,ice,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,All Foes,Roll 1 Chance Dice to Freeze those affected. If performed under Hail Weather Ignore this moves Reduced Accuracy and the Move can't be evaded. If performed under Sunny Weather Accuracy becomes -3 instead. -2 Accuracy.,"The user swirls a violent gelid wind around the foes. This blizzard may not last long, but it is tremendously strong."
+Freeze Dry,ice,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Water type Pokémon are dealt 2 Extra Damage.,"The user freezes all moisture in the environment, water type Pokemon suffer greatly."
+Freeze Shock,ice,PHYSICAL,6,STRENGTH,,SPECIAL,CHANNEL,Foe,Lethal. Ranged. Charge Move. Roll 3 Chance Dice to Paralyze the Foe. -1 Accuracy.,"The user appears to become a block of ice, then it releases itself from the ice with a devastating discharge. The exploding ice shards and the lightning fly all over the battlefield."
+Freezy Frost,ice,SPECIAL,3,SPECIAL,,SPECIAL,CHANNEL,Foe,"If successful, remove all Increased or Reduced Attributes and Traits the Foe may have. If the user of this Move is at its Final Stage of Evolution, this move fails. -1 Accuracy.","The user touches its foe while playing ""Freeze!"". Surprisingly, the foe becomes frozen on a block of ice. Once they realize they were just playing pretend the ice dissolves into haze."
+Frost Breath,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,This Move is always a Critical Hit and it gets the proper bonus for it. -1 Accuracy.,The user shoots a gelid breath against the target that sends a chill through the spine. The sudden change of temperature can bring anyone to its knees.
+Glaciate,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Lethal. All Foes in Range. Reduce the Dexterity of those affected.,"The air is so cold it hurts to move, to see, to breath. Escaping should be your top priority, for every second you don't your life will be at peril."
+Hail,ice,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Hail Weather is activated for the next 4 Rounds.,The user summons a hailstorm that will stay on the battlefield for some time.
+Haze,ice,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Remove all Increased or Reduced Attributes and Traits on everyone on the Battlefield.,The user sends out a haze that disturbs all the Pokemon engaged in battle. It may conceal whoever is inside.
+Ice Ball,ice,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,"Successive Actions. Add 1 Extra Dice to the Damage Roll of the last Ice Ball hit the user performes. If the Pokémon used Defense Curl this Round, add 1 Extra Dice to the Damage Roll of every hit. -1 Accuracy.","The user curls into a snowball, rolling against the foe. The ball grows bigger as it rolls."
+Ice Beam,ice,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Freeze the Foe.,The user shoots a freezing ray that greatly lowers the temperature of anything it hits.
+Ice Burn,ice,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Ranged. Charge Move. Roll 3 Chance Dice to Burn the Foe. -1 Accuracy.,"The user appears to become a block of ice, then it releases itself from the ice with a devastating explosion. The exploding ice shards and fire blow all over the battlefield."
+Ice Fang,ice,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Flinch the foe. Roll 2 Chance Dice to Freeze the foe. -1 Accuracy.,The user bites the foe and releases a gelid breath through its mouth.
+Ice Hammer,ice,PHYSICAL,4,STRENGTH,,STRENGTH,BRAWL,Foe,Reduce User's Dexterity. -1 Accuracy.,The Pokemon uses its powerful gelid arms and strikes the foe with a swinging motion.
+Ice Punch,ice,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Roll 1 Chance Dice to Freeze the foe.,The Pokemon delivers a strike covered in ice. The user's hands can freeze anything they touch.
+Ice Shard,ice,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Priority 1.,The user quickly freezes some bits of ice and throws them at the target.
+Icicle Crash,ice,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the Foe. -1 Accuracy.,"The user drops a big icicle over the foe, the impact may leave the opponent dazed."
+Icicle Spear,ice,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions.,The user launches a wave of small but pointy icicles towards the target.
+Icy Wind,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Reduce Dexterity of those affected.,"A breeze so cold that it chills you to the bone, making it harder to move."
+Mist,ice,SUPPORT,0,,,SPECIAL,NATURE,User and Allies,"For the next 4 Rounds, the User and Allies cannot have their Attributes or Traits reduced.","The user cloaks itself and its allies within cold mist with mystic properties, it may conceal whoever is nearby."
+Powder Snow,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Roll 1 Chance Dice to Freeze those affected.,The user sends out a wind current full of snowflakes that freeze whatever they touch. This powder can easily turn a room to ice.
+Sheer Cold,ice,SPECIAL,0,,,SPECIAL,CHANNEL,Foe,Deal damage to the Target equal to its remaining HP plus 1 Lethal Damage. -5 Accuracy.,"The user freezes the foe from the inside out. Victims of this attack will need urgent medical attention."
 Acupressure,normal,SUPPORT,0,,,DEXTERITY,NATURE,User,"Increase a Random Attribute. If this Move is used again, the previous Attribute Modifier is removed.","The user starts pushing its pressure points, releasing the energy that was stored in its body."
 After You,normal,SUPPORT,0,,,COOL,ETIQUETTE,One Ally,The Target will go first in the order of Initiative. Lasts for the rest of this Battle.,The user bows and courteously lets an ally or foe use their action first.
 Assist,normal,SUPPORT,0,,,CLEVER,PERFORM,One Ally,Choose one Move known by a random member of your party. You performed that Move using the Accuracy roll from Assist.,The Pokémon hurriedly remembers one action performed by a partner. Some Pokémon can even do what a human does and assist him with any tasks.
