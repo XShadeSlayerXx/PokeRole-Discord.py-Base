@@ -146,52 +146,52 @@ Sparkly Swirl,fairy,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"If successful, hea
 Spirit Break,fairy,PHYSICAL,2,STRENGTH,,INSIGHT,BRAWL,Foe,"If successful, reduce the Foe's Special.",Sometimes words hurt a lot more than blows. With this Move the Pokemon deals both.
 Strange Steam,fairy,SPECIAL,3,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 2 Chance Dice to Confuse the Foe.,"The user releases an addictive sweet-smelling steam, do not be fooled as it is toxic and has nasty side-effects."
 Sweet Kiss,fairy,SUPPORT,0,,,CUTE,ALLURE,Foe,Confuse the foe. -2 Accuracy.,"The Pokemon moves towards the foe and plants a delicate kiss on its cheek, then leaves playfully. The foe struggles to know what it meant."
-Arm Thrust,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions.,
-Aura Sphere,fighting,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Never Fail.,
-Body Press,fighting,PHYSICAL,3,VITALITY,,STRENGTH,BRAWL,Foe,-,
-Brick Break,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,If a Barrier is in place on the foe's side (ie. Light Screen. Reflect) destroy the barrier and add 2 Extra Dice to the Damage Pool.,
-Bulk Up,fighting,SUPPORT,0,,,VITALITY,ATHLETIC,User,Increase the User's Strength and Defense.,
-Circle Throw,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Low Priority 1. The target is hit and knocked back to its trainer forcing it to send another Pokémon. the in the wild the target is sent away. Switcher Move. -1 Accuracy.,
-Close Combat,fighting,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,After dealing damage. Reduce the User's Defense and Sp. Defense.,
-Counter,fighting,PHYSICAL,2,,,INSIGHT,BRAWL,Foe,This Move can only deal damage if the Foe has dealt Physical Damage to the User this Round. Roll the same Damage Pool as your Foe plus 2 Extra Dice. Ignore the foe's Defenses.,
-Cross Chop,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical. -2 Accuracy.,
-Detect,fighting,SUPPORT,0,,,INSIGHT,ALERT,User,Priority. Shield Move. Reduce 3 Damage this pokemon would receive from a Damaging Move. Negate effects of Support Moves that target the user. Reduce to zero the set damage from a move the user would take.,
-Double Kick,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Double Action.,
-Drain Punch,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. The user restore HP equal to half the damage dealt. rounded down.,
-Dynamic Punch,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Confuse the foe. -3 Accuracy.,
-Final Gambit,fighting,SPECIAL,0,,,WILL,ATHLETIC,Foe,Ignore the foe's Defenses. The user faints after dealing damage.,
-Flying Press,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,When Dealing damage with this move. it counts as if this move was also Flying Type.,
-Focus Blast,fighting,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Sp. Defense. -2 Accuracy.,
-Focus Punch,fighting,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Fist Based. Charge Move. The User will flinch if it gets hit before releasing this attack.,
-Force Palm,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Paralyze the foe.,
-Hammer Arm,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,After dealing damage. Reduce user's Dexterity. -1 Accuracy.,
-High Jump Kick,fighting,PHYSICAL,5,STRENGTH,,DEXTERITY,BRAWL,Foe,If Accuracy Roll is unsuccessful. deal 5 Dice of Damage to the User. -1 Accuracy.,
-Jump Kick,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,If Accuracy Roll is unsuccessful. deal 4 Dice of Damage to the User.,
-Karate Chop,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical.,
-Low Kick,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 1 Extra Dice to the Damage Pool for every 50 kgs. of weight on the foe. up to +4 Extra Dice.,
-Low Sweep,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Reduce Foe's Dexterity by 2.,
-Mach Punch,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Priority 1.,
-Mat Block,fighting,SUPPORT,0,,,DEXTERITY,ATHLETIC,User and Allies,Shield. Reduce 3 Dice from the foe's Damage Pool. This Move only works the first Round the User has been out.,
-Meteor Assault,fighting,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. Must Recharge. -1 Accuracy.,
-No Retreat,fighting,SUPPORT,0,,,INSIGHT,NATURE,User,"Increase the User's Strength, Dexterity, Special, Defense and Sp. Defense. The user is now blocked.",
-Octolock,fighting,SUPPORT,0,,,STRENGTH,BRAWL,Foe,Block. Reduce the foe's Defense and Sp. Defense.,
-Power-Up Punch,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Increase User's Strength.,
-Quick Guard,fighting,SUPPORT,0,,,DEXTERITY,ATHLETIC,User and Allies,"Priority 3. Shield Move. This move will only protect against Damaging Moves with ""Priority"". Reduce 3 Dice from the foe's Damage Pool. Negate the effects of support moves that target the User and Allies.",
-Revenge,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the User has already received damage this round. add 2 Extra Dice to the Damage Pool.,
-Reversal,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 1 Extra Dice to the Damage Pool for every missing HP the User has. Up to 5 Dice may be added this Way.,
-Rock Smash,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 5 Chance Dice tto Reduce foe's Defense.,
-Rolling Kick,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the Foe. -2 Accuracy.,
-Sacred Sword,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Ignore any Increases to the foe's Defense.,
-Secret Sword,fighting,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Apply the foe's Defense instead of its Sp.Defense to resist Damage from this Move,
-Seismic Toss,fighting,PHYSICAL,0,,,STRENGTH,ATHLETIC,Foe,Roll Damage Dice according to the User's Rank. 1 Dice at Starter Rank. 2 Dice at Beginner Rank.  3 dice at Amateur Rank.  4 Dice at Ace Rank.  5 Dice at Professional Rank. Ignores Defense.,
-Sky Uppercut,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe, -1 Accuracy.,
-Storm Throw,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the Accuracy Roll is successful this move becomes a Critical Hit.,
-Submission,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Recoil. -2 Accuracy.,
-Superpower,fighting,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. Reduce User's Strength and Defense.,
-Triple Kick,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. Add 1 Extra Dice to Damage Pool to the last kick performed. -1 Accuracy.,
-Vacuum Wave,fighting,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Priority 1.,
-Vital Throw,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Low Priority 1. Never Fail.,
-Wake-Up Slap,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the Foe is sleeping. Add 2 Extra Dice to the Damage Pool. The foe Wakes up afterwards.,
+Arm Thrust,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions.,The user quickly throws blows of open-palmed thrusts against the foe.
+Aura Sphere,fighting,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Never Fail.,"The user channels its aura and launches this power in the form of a sphere The foe's aura is hit, leaving the target unscratched but deeply hurt."
+Body Press,fighting,PHYSICAL,3,VITALITY,,STRENGTH,BRAWL,Foe,-,"The Pokémon makesa judo maneuver, using its body mass instead of its strength against the target."
+Brick Break,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,If a Barrier is in place on the foe's side (ie. Light Screen. Reflect) destroy the barrier and add 2 Extra Dice to the Damage Pool.,The Pokémon uses its palm or claws to perform a one-armed chop that shatters even invisible barriers.
+Bulk Up,fighting,SUPPORT,0,,,VITALITY,ATHLETIC,User,Increase the User's Strength and Defense.,The Pokémon shows its muscles with intimidating poses to look bigger and stronger.
+Circle Throw,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Low Priority 1. The target is hit and knocked back to its trainer forcing it to send another Pokémon. the in the wild the target is sent away. Switcher Move. -1 Accuracy.,The user throws the target 60 feet out the battlefield
+Close Combat,fighting,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,After dealing damage. Reduce the User's Defense and Sp. Defense.,The user attacks at a close distance to deal lots of damage. The foe is also close enough to attack.
+Counter,fighting,PHYSICAL,2,,,INSIGHT,BRAWL,Foe,This Move can only deal damage if the Foe has dealt Physical Damage to the User this Round. Roll the same Damage Pool as your Foe plus 2 Extra Dice. Ignore the foe's Defenses.,"The user prepares to receive damage, then returns the same damage and more."
+Cross Chop,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical. -2 Accuracy.,The user delivers a chop with its arms crossed trying to hot a weak spot.
+Detect,fighting,SUPPORT,0,,,INSIGHT,ALERT,User,Priority. Shield Move. Reduce 3 Damage this pokemon would receive from a Damaging Move. Negate effects of Support Moves that target the user. Reduce to zero the set damage from a move the user would take.,The user detects the intentions of the attacker and acts out to minimize the damage.
+Double Kick,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Double Action.,The user throws two powerful kicks.
+Drain Punch,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. The user restore HP equal to half the damage dealt. rounded down.,"The Pokémon strikes with a powerful punch. Through contact, it absorbs some vital energy."
+Dynamic Punch,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Confuse the foe. -3 Accuracy.,A punch that hits a small pressure point. It leavers the foe disoriented.
+Final Gambit,fighting,SPECIAL,0,,,WILL,ATHLETIC,Foe,Ignore the foe's Defenses. The user faints after dealing damage.,"The Pokémon puts its last strength into an all-or-nothing attack. after that, it faints."
+Flying Press,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,When Dealing damage with this move. it counts as if this move was also Flying Type.,The user flies towards the foe from the sky in pure Lucha Libre style.
+Focus Blast,fighting,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Sp. Defense. -2 Accuracy.,The user concentrates and releases a blast of energy.
+Focus Punch,fighting,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Fist Based. Charge Move. The User will flinch if it gets hit before releasing this attack.,A brutal punch that requires calm and concentration
+Force Palm,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Paralyze the foe.,A powerful open palm hit that knocks the foe away and may leave him unable to move.
+Hammer Arm,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,After dealing damage. Reduce user's Dexterity. -1 Accuracy.,A mighty arm thrust that leaves the user quite tired.
+High Jump Kick,fighting,PHYSICAL,5,STRENGTH,,DEXTERITY,BRAWL,Foe,If Accuracy Roll is unsuccessful. deal 5 Dice of Damage to the User. -1 Accuracy.,The user launches itself up and falls down with a brutal kick. It might hurt the user if it doesn't hit the target.
+Jump Kick,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,If Accuracy Roll is unsuccessful. deal 4 Dice of Damage to the User.,The Pokémon jumps and delivers a powerful kick. It might hurt the user if it doesn't hit the target.
+Karate Chop,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical.,A basic fighting chop that has been practiced and mastered.
+Low Kick,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 1 Extra Dice to the Damage Pool for every 50 kgs. of weight on the foe. up to +4 Extra Dice.,"The user kicks the target making it fall, the bigger the foe the harder the fall."
+Low Sweep,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Reduce Foe's Dexterity by 2.,"The Pokémon strikes the foe's legs, leaving it unable to walk normally or run."
+Mach Punch,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Priority 1.,The user launches a punch so quickly that it's barely seen.
+Mat Block,fighting,SUPPORT,0,,,DEXTERITY,ATHLETIC,User and Allies,Shield. Reduce 3 Dice from the foe's Damage Pool. This Move only works the first Round the User has been out.,The Pokémon uses a mat or something similar as a shield.
+Meteor Assault,fighting,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. Must Recharge. -1 Accuracy.,"The Pokémon will make an incredible jump to the sky, then lunge towards the foe at a staggering speed, crashing the ground upon impact. The user is left very tired."
+No Retreat,fighting,SUPPORT,0,,,INSIGHT,NATURE,User,"Increase the User's Strength, Dexterity, Special, Defense and Sp. Defense. The user is now blocked.",No surrender. No retreat. Until victory always.
+Octolock,fighting,SUPPORT,0,,,STRENGTH,BRAWL,Foe,Block. Reduce the foe's Defense and Sp. Defense.,The user wraps its tentacles to immobilize the foe. Being so close enables the user to find weak spots.
+Power-Up Punch,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Increase User's Strength.,The Pokémon uses this punch to test the surface of an object. The user toughens up to deal better blows.
+Quick Guard,fighting,SUPPORT,0,,,DEXTERITY,ATHLETIC,User and Allies,"Priority 3. Shield Move. This move will only protect against Damaging Moves with ""Priority"". Reduce 3 Dice from the foe's Damage Pool. Negate the effects of support moves that target the User and Allies.","The user reacts instinctively and defends itself and its teammates, nullifying the effects of the fastest attacks."
+Revenge,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the User has already received damage this round. add 2 Extra Dice to the Damage Pool.,The Pokémon fights ruthlessly and may retaliate fiercely against a foe that has hurt the user.
+Reversal,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 1 Extra Dice to the Damage Pool for every missing HP the User has. Up to 5 Dice may be added this Way.,The user gathers its mettle to block away the pain and focus on hitting harder.
+Rock Smash,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 5 Chance Dice tto Reduce foe's Defense.,A powerful hit that can crush rocks. Used against a foe it is sure to leave an awful bruise and a crack on its armor.
+Rolling Kick,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the Foe. -2 Accuracy.,The user spins in the air landing an impressive kick that may daze the target.
+Sacred Sword,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Ignore any Increases to the foe's Defense.,The user slashes its target with a mighty blade that no armor can stop.
+Secret Sword,fighting,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Apply the foe's Defense instead of its Sp.Defense to resist Damage from this Move,"An invisible wave cuts through the target, you can feel its sharp edge but you cannot see it."
+Seismic Toss,fighting,PHYSICAL,0,,,STRENGTH,ATHLETIC,Foe,Roll Damage Dice according to the User's Rank. 1 Dice at Starter Rank. 2 Dice at Beginner Rank.  3 dice at Amateur Rank.  4 Dice at Ace Rank.  5 Dice at Professional Rank. Ignores Defense.,"The target gets launched up then falls face first into the ground, the stronger the user the higher the foe will be thrown."
+Sky Uppercut,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe, -1 Accuracy.,"The user attacks with an uppercut, throwing the foe skyward with lots of force."
+Storm Throw,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the Accuracy Roll is successful this move becomes a Critical Hit.,The user impacts a weak spot with a powerful blow.
+Submission,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Recoil. -2 Accuracy.,The user recklessly struggles with the foe to pin it to the ground.
+Superpower,fighting,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Lethal. Reduce User's Strength and Defense.,"The Pokémon makes use of all its force to deliver a crushing strike to the foe, this demands a lot from the user."
+Triple Kick,fighting,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. Add 1 Extra Dice to Damage Pool to the last kick performed. -1 Accuracy.,"The user throws three or more kicks, leaving the harder blow for the end."
+Vacuum Wave,fighting,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Priority 1.,The user pulls the enemy closer using the power of its ki. This traction has a lot of strength and may break anything it pulls.
+Vital Throw,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Low Priority 1. Never Fail.,The Pokémon awaits for the perfect moment to strike the foe.
+Wake-Up Slap,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,If the Foe is sleeping. Add 2 Extra Dice to the Damage Pool. The foe Wakes up afterwards.,A powerful slap that makes even the laziest Pokémon be well awake.
 Blast Burn,fire,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Must Recharge. -1 Accuracy.,The Pokemon uses all of its power to deliver an infernal blast to the foe. The user is left exhausted.
 Blaze Kick,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical. Roll 2 Chance Dice to Apply Burn 2 to the Foe. -1 Accuracy.,The user throws a mighty kick engulfed in fire that may leave a bad looking burn.
 Blue Flare,fire,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 2 Chance Dice to Apply Burn 3 to the foe. -2 Accuracy.,Reshiram surrounds itself with a giant blue flame that is unleashed with an earth shattering explosion. Receiving this attack directly might completely engulf you in fire.
@@ -372,7 +372,7 @@ Icicle Spear,ice,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Act
 Icy Wind,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Reduce Dexterity of those affected.,"A breeze so cold that it chills you to the bone, making it harder to move."
 Mist,ice,SUPPORT,0,,,SPECIAL,NATURE,User and Allies,"For the next 4 Rounds, the User and Allies cannot have their Attributes or Traits reduced.","The user cloaks itself and its allies within cold mist with mystic properties, it may conceal whoever is nearby."
 Powder Snow,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Roll 1 Chance Dice to Freeze those affected.,The user sends out a wind current full of snowflakes that freeze whatever they touch. This powder can easily turn a room to ice.
-Sheer Cold,ice,SPECIAL,0,,,SPECIAL,CHANNEL,Foe,Deal damage to the Target equal to its remaining HP plus 1 Lethal Damage. -5 Accuracy.,"The user freezes the foe from the inside out. Victims of this attack will need urgent medical attention."
+Sheer Cold,ice,SPECIAL,0,,,SPECIAL,CHANNEL,Foe,Deal damage to the Target equal to its remaining HP plus 1 Lethal Damage. -5 Accuracy.,The user freezes the foe from the inside out. Victims of this attack will need urgent medical attention.
 Acupressure,normal,SUPPORT,0,,,DEXTERITY,NATURE,User,"Increase a Random Attribute. If this Move is used again, the previous Attribute Modifier is removed.","The user starts pushing its pressure points, releasing the energy that was stored in its body."
 After You,normal,SUPPORT,0,,,COOL,ETIQUETTE,One Ally,The Target will go first in the order of Initiative. Lasts for the rest of this Battle.,The user bows and courteously lets an ally or foe use their action first.
 Assist,normal,SUPPORT,0,,,CLEVER,PERFORM,One Ally,Choose one Move known by a random member of your party. You performed that Move using the Accuracy roll from Assist.,The Pokémon hurriedly remembers one action performed by a partner. Some Pokémon can even do what a human does and assist him with any tasks.
