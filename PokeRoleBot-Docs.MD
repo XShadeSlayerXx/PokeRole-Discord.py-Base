@@ -254,17 +254,17 @@ Pokemon lists are the most common, so I'll go over them first.
 
 * <h5>Status Tracker between turns</h5>
 
-	The `%status` command is essentially a simple note tracker, useful for keeping track of status effects between turns. You can add statuses (or anything), view them, or delete them by name or number.
+	The `%tracker` command is essentially a simple note tracker, useful for keeping track of status effects between turns. You can add statuses (or anything), view them, or delete them by name or number.
 	
-	For example, lets say you have a pokemon battle between a poochyena and a flareon. The first turn the flareon lands flamethrower and applies Burn 2. `%status add Burn 2` or `%status add Burn 2 (poochyena)` will add the status to the list. At the end of the turn (or whenever is necessary) `%status` will let you see all current status effects. This command is more useful in large battles or battles prone to rapidly changing status effects.
+	For example, lets say you have a pokemon battle between a poochyena and a flareon. The first turn the flareon lands flamethrower and applies Burn 2. `%tracker add Burn 2` or `%tracker add Burn 2 (poochyena)` will add the status to the list. At the end of the turn (or whenever is necessary) `%tracker` will let you see all current status effects. This command is more useful in large battles or battles prone to rapidly changing status effects.
 	
-	`%status add <status>` will add <status> to the list.
+	`%tracker add <status>` will add <status> to the list.
 	
-	`%status` will send the full list of <statuses>, numbered by the order you added them.
+	`%tracker` will send the full list of <statuses>, numbered by the order you added them.
 	
-	`%status del <status>` or `%status del <number>` will delete the status by exact \<name> or \<number>.
+	`%tracker del <status>` or `%tracker del <number>` will delete the status by exact \<name> or \<number>.
 	
-	`%status change <number> <status>` will change the status in \<number> to \<status>. Useful for changing Burn 2 to Burn 1, etc.
+	`%tracker change <number> <status>` will change the status in \<number> to \<status>. Useful for changing Burn 2 to Burn 1, etc.
 
 * <h5>Items found in shops, sorted by price</h5>
 
