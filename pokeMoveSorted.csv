@@ -277,7 +277,7 @@ Spectral Thief,ghost,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"If successful, BE
 Spirit Shackle,ghost,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Blocks.,"While attacking, the user sneakily binds its foe's shadow to the ground, restricting its movement and making it unable to escape."
 Spite,ghost,SUPPORT,0,,,WILL,INTIMIDATE,Foe,Reduce Target's Will to 1 point temporarily. Reset any effects it got from spending Will Points.,The target feels overwhelmed by feelings of dread.
 Trick-Or-Treat,ghost,SUPPORT,0,,,WILL,ALLURE,Foe,"Add the Ghost type to Target's Type. (ie. Meowth will now by Normal/Ghost Charizard will now be Fire/Flying/Ghost) If the Pokémon already has a third type attached, replace it.",The Pokemon takes the target Trick-or-Treating. The target gets a ghost costume which somehow cannot be removed without a medium's help.
-Absorb,grass,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,The user restores HP equal to half the damage dealth rounded down.,
+Absorb,grass,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,The user restores HP equal to half the damage dealt rounded down.,
 Apple Acid,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce the Foe's Sp. Defense.,
 Aromatherapy,grass,SUPPORT,0,,,INSIGHT,NATURE,User and Allies,Cure User and Allies from Burn. Freeze. Paralysis. Poison or Sleep.,
 Branch Poke,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,
