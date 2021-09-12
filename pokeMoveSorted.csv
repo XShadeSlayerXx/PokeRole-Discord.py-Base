@@ -324,31 +324,31 @@ Trop Kick,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Reduce Foe's Strength.,
 Vine Whip,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,
 Wood Hammer,grass,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil.,
 Worry Seed,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,"Until the end of the Scene. Target's Ability is now ""Insomnia"".",
-Bone Club,ground,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Flinch the Foe. -2 Accuracy.,
-Bone Rush,ground,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. -1 Accuracy.,
-Bonemerang,ground,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Double Action. -1 Accuracy.,
-Bulldoze,ground,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Area,Reduce the Dexterity of those affected.,
-Dig,ground,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Charge Move. While charging this move. the User will be out of range. Can be hit by Earthquake. Magnitude or a similar move.,
-Drill Run,ground,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical.,
-Earth Power,ground,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce the foe's Sp. Defense.,
-Earthquake,ground,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Area,Area Attack. Ranged.,
-Fissure,ground,PHYSICAL,0,,,STRENGTH,BRAWL,Foe,Ranged. Deal damage to the Target equal to their remaining HP. -5 Accuracy.,
-High Horsepower,ground,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,-,
-Land's Wrath,ground,PHYSICAL,3,STRENGTH,,STRENGTH,CHANNEL,All Foes,Lethal. Ranged. All Foes in Range.,
-Magnitude,ground,PHYSICAL,0,STRENGTH,,DEXTERITY,BRAWL,Area,Ranged. 1 Dice to determine this Move's Power,
-Mud Bomb,ground,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Reduce the Foe's Accuracy. -2 Accuracy.,
-Mud Shot,ground,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce the Foe's Dexterity.,
-Mud Slap,ground,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce the foe's Accuracy.,
-Mud Sport,ground,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,For the next 4 Rounds Electric Type attacks won't add their Power to the Damage Pool.,
-Precipice Blades,ground,PHYSICAL,5,STRENGTH,,STRENGTH,CHANNEL,All Foes,Lethal. Ranged. -2 Accuracy.,
-Rototiller,ground,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Increase the Strength and Special of all Grass Type Pokémon in the battlefield.,
-Sand Attack,ground,SUPPORT,0,,,DEXTERITY,CHANNEL,Foe,Reduce the foe's Accuracy.,
-Sand Tomb,ground,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Block. Roll 2 Dice of Damage against the foe at the end of every Round. Lasts 4 Rounds. - 2 Accuracy.,
-Shore Up,ground,SUPPORT,0,,,INSIGHT,NATURE,User,Basic Heal. If performed under Sandstorm weather. this move is a Complete Heal.,
-Spikes,ground,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Foe Pokémon that enters the battlefield will lose 1 HP. this effect does not stack. Pokémon with the Levitate ability and Flying Type Pokémon are immune to this effect. Entry Hazard.,
-Stomping Tantrum,ground,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 2 Extra Dice to the Damage Pool of this move is the User failed the Accuracy Roll of the last Move it performed.,
-Thousand Arrows,ground,PHYSICAL,3,STRENGTH,,STRENGTH,CHANNEL,All Foes,"Lethal. Ranged. All Foes in Range. If successful, Flying and Levitating Pokémon can be hit by Ground-Type Moves for the rest of the scene.",
-Thousand Waves,ground,PHYSICAL,3,STRENGTH,,SPECIAL,BRAWL,All Foes,Blocks. Ranged. All Foes in Range.,
+Bone Club,ground,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Flinch the Foe. -2 Accuracy.,"The user hits the target with a bone, the smack may leave a bump on the target's head."
+Bone Rush,ground,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. -1 Accuracy.,"The user quickly strikes the foe with a bone, one blow after another."
+Bonemerang,ground,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Double Action. -1 Accuracy.,"The Pokemon throws a bone to hit the foe. The bone returns like a boomerang, striking a second time."
+Bulldoze,ground,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Area,Reduce the Dexterity of those affected.,"The user stomps and tramples the place, breaking stones, trees, and everything nearby."
+Dig,ground,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"Charge Move. While charging this move, the User will be out of range. Can be hit by Earthquake, Magnitude, or a similar move.",The user digs a tunnel on the ground and attacks while coming out from below.
+Drill Run,ground,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,High Critical.,The user rotates its body imitating a drill and crashes against the foe. This attack may pierce through walls and floors with ease and great precision.
+Earth Power,ground,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce the foe's Sp. Defense.,The user sends out a subterranean wave that bursts on the ground bellow the target. It looks like the earth molds to the Pokemon's will.
+Earthquake,ground,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Area,Area Attack. Ranged.,"The Pokemon focuses its energy into shaking the ground, everyone around will be thrown like a rag doll."
+Fissure,ground,PHYSICAL,0,,,STRENGTH,BRAWL,Foe,Ranged. Deal damage to the Target equal to their remaining HP. -5 Accuracy.,The user tears the ground apart in a monstrous display of force. If the foe falls through the fissure it might need a rescue team to get it out.
+High Horsepower,ground,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,-,The Pokemon rushes towards its target and tramples it without mercy.
+Land's Wrath,ground,PHYSICAL,3,STRENGTH,,STRENGTH,CHANNEL,All Foes,Lethal. Ranged. All Foes in Range.,"The earth moves on its own, no attacker in sight. The floor crumbles and the ground shakes while engulfing its victims. From the rubble, lush trees emerge a short time after."
+Magnitude,ground,PHYSICAL,0,STRENGTH,,DEXTERITY,BRAWL,Area,Ranged. 1 Dice to determine this Move's Power,The user quakes the ground plates. Some plates will move easier than others.
+Mud Bomb,ground,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Reduce the Foe's Accuracy. -2 Accuracy.,"The Pokemon shoots a ball made of mud that bursts on the target, some mud may get on its eyes."
+Mud Shot,ground,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce the Foe's Dexterity.,"The Pokemon shoots a stream of mud that covers the foe, obstructing its movement."
+Mud Slap,ground,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce the foe's Accuracy.,"The user hurls some mud to the face of the foe, leaving it unable to see clearly."
+Mud Sport,ground,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,For the next 4 Rounds Electric Type attacks won't add their Power to the Damage Pool.,"The user covers everything with mud, reducing the effectiveness of electric attacks made on the field."
+Precipice Blades,ground,PHYSICAL,5,STRENGTH,,STRENGTH,CHANNEL,All Foes,Lethal. Ranged. -2 Accuracy.,"Giant blades emerge from the earth with every step of the user. If you fall into them, they are almost impossible to survive."
+Rototiller,ground,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,Increase the Strength and Special of all Grass Type Pokémon in the battlefield.,The Pokemon digs around and moves the soil to make it ideal for plant growth.
+Sand Attack,ground,SUPPORT,0,,,DEXTERITY,CHANNEL,Foe,Reduce the foe's Accuracy.,The user shoots some sand into the opponent's eyes.
+Sand Tomb,ground,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Block. Roll 2 Dice of Damage against the foe at the end of every Round. Lasts 4 Rounds. -2 Accuracy.,"The Pokemon creates a shifting sand pit around the foe, leaving it unable to escape."
+Shore Up,ground,SUPPORT,0,,,INSIGHT,NATURE,User,"Basic Heal. If performed under Sandstorm weather, this move is a Complete Heal.",The Pokemon gathers the sand around itself to restore its body to shape.
+Spikes,ground,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,"Foe Pokémon that enter the battlefield will lose 1 HP, this effect does not stack. Pokémon with the Levitate ability and Flying Type Pokémon are immune to this effect. Entry Hazard.",The Pokemon shoots pointy pebbles or thorns around the field that deal damage to anyone coming from that side.
+Stomping Tantrum,ground,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Add 2 Extra Dice to the Damage Pool of this move is the User failed the Accuracy Roll of the last Move it performed.,"The Pokemon throws a tantrum all over the place, it becomes worse if something has frustrated it earlier."
+Thousand Arrows,ground,PHYSICAL,3,STRENGTH,,STRENGTH,CHANNEL,All Foes,"Lethal. Ranged. All Foes in Range. If successful, Flying and Levitating Pokémon can be hit by Ground-Type Moves for the rest of the scene.","Out of nowhere, pointy shards come raining from the sky towards the foes, even flying creatures will fall to the ground if they are knocked by them. Take cover, this is gonna hurt."
+Thousand Waves,ground,PHYSICAL,3,STRENGTH,,SPECIAL,BRAWL,All Foes,Blocks. Ranged. All Foes in Range.,"Solid ground becomes a sandtrap, cracked earth will close to ensnare your feet. It's as it the land itself wanted to trap you. There is no attacker nor escape in sight."
 Aurora Beam,ice,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Strength.,The Pokemon shoots a beautiful rainbow colored beam that may leave the foe flabbergasted.
 Aurora Veil,ice,SUPPORT,0,,,SPECIAL,CHANNEL,User and Allies,User and Allies will receive 1 less Damage from both Physical and Special Attacks. This move will fail if not performed under Hail Weather. Lasts until Hail Weather is over.,"Aurora lights and hail spin around the Pokemon and its Allies, deflecting attacks."
 Avalanche,ice,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,"Low Priority 4. If the user received damage from the target this Round, Add 2 Extra Dice to the Damage Pool.","The user builds up a lot of snow around itself. If anything disturbs the snow, it will fall on the attacker like an avalanche."
