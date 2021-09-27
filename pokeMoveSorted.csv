@@ -202,7 +202,7 @@ Fiery Dance,fire,SPECIAL,3,SPECIAL,,DEXTERITY,PERFORM,Foe,Roll 5 Chance Dice to 
 Fire Blast,fire,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Roll 3 Chance Dice to apply Burn 3 to the foe. -2 Accuracy.,"The Pokemon shoots a giant fireball that explodes on contact with the foe, blasting fire in all directions."
 Fire Fang,fire,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance to Flinch the Foe. Roll 2 Chance Dice to Burn the foe. -1 Accuracy.,The user breathes fire from its mouth while biting the target.
 Fire Lash,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Reduce Foe's Defense.,"With a whip of fire, the Pokemon ensnares its foe, who is left defenseless and at its mercy."
-Fire Pledge,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield,All flammable plants and objects in the battlefield are covered in flames. Roll 1 Dice of Fire Damage at the end of every Round against everyone on the field.,"The Pokemon chants to invoke the power of Fire. Its pledge is heard, then the flames consume everything around."
+Fire Pledge,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield and Area,All flammable plants and objects in the battlefield are covered in flames. Roll 1 Dice of Fire Damage at the end of every Round against everyone on the field.,"The Pokemon chants to invoke the power of Fire. Its pledge is heard, then the flames consume everything around."
 Fire Punch,fire,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Roll 1 Chance Dice to apply Burn 2 to the foe.,The User can ignite its fists for a brief moment without any danger of getting burned. The foe may not be so lucky.
 Fire Spin,fire,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds. -2 Accuracy.,"The user creates a vortex of fire that remains spinning in the battlefield, trapping the foe within."
 Flame Burst,fire,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"After dealing damage, the user may roll 1 Dice of Damage against two othe Targets.","A concentrated flameball that bursts on contact with the foe, scattering smaller flames around."
@@ -290,7 +290,7 @@ Forest's Curse,grass,SUPPORT,0,,,WILL,NATURE,Foe,Add the Grass Type to the Targe
 Frenzy Plant,grass,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Must Recharge. -1 Accuracy.,
 Giga Drain,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Ther user restores HP equal to half the damage dealt. rounded down.,
 Grass Knot,grass,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,Add 1 Extra Dice to the Damage Pool for every 50 kgs. of weight on the foe. up to +4 Extra Dice.,
-Grass Pledge,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield,Reduce the Dexterity of those affected.,
+Grass Pledge,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield and Area,Reduce the Dexterity of those affected.,
 Grass Whistle,grass,SUPPORT,0,,,SPECIAL,PERFORM,Foe,Sound Based. Put the Target to Sleep. -3 Accuracy.,
 Grassy Terrain,grass,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,For the next 4 Rounds. User and Allies on the ground Restore 1 HP at the end of each round. Add 1 Extra Dice to the Damage Rolls of Grass Type Moves.,
 Grav Apple,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. Reduce the Foe's Defense.,
@@ -714,7 +714,7 @@ Splishy Splash,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"Roll 3 Chance Dic
 Steam Eruption,water,SPECIAL,4,SPECIAL,,DEXTERITY,CHANNEL,Foe,Lethal. Roll 3 Chance Dice to Apply Burn 2 to those affected. -1 Accuracy.,"In less than a second, the sound of steam boiling over a raging engine thunders through the ears of the foe before it is shot through the sky by a scalding geyser."
 Surf,water,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Area,-,A giant wave of water sweeps the area while the user swims on top of it.
 Water Gun,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,-,The user learns to shoot water with enough force to hurt the foe.
-Water Pledge,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield,Creates a rainbow that adds 2 Dice to all Chance Dice rolls. This effect lasts 4 turns.,The Pokémon chants to invoke the power of Water. Moisture in the air bends the light to create an inspiring rainbow. Everyone in the field is sure to give its best.
+Water Pledge,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield and Area,Creates a rainbow that adds 2 Dice to all Chance Dice rolls. This effect lasts 4 turns.,The Pokémon chants to invoke the power of Water. Moisture in the air bends the light to create an inspiring rainbow. Everyone in the field is sure to give its best.
 Water Pulse,water,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 3 Chance Dice to Confuse the foe.,"The Pokémon attacks with a pulsing blast of water, this leaves the foe feeling dizzy."
 Water Shuriken,water,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,Ranged. Priority 1. Successive Actions.,The Pokémon quickly throws sharp jets of water in the shape of a shuriken.
 Water Sport,water,SUPPORT,0,,,SPECIAL,CHANNEL,Battlefield,For the next 4 Rounds Fire Type attacks won't add their Power to the Damage Pool.,"The user soaks the battlefield with moisture, making it harder for fire attacks to ignite."
