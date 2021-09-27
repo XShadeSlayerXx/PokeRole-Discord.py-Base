@@ -310,9 +310,17 @@ Basic format: `%settings <setting_name> <value>`
 	
 	`shiny_chance` - chance for pokemon to be shiny (default: .00012 --> .012%)
 	
+	`pre_evo_moves` - If a pokemon has previous evolutions, should it inherit moves from a previous evolution? You can also choose to have it inherit from the previous rank. (Yes/No/Lower)
+	
+	`code_block` - Display `%encounter` text in a `code block like this`? (default: False)
+	
 	`show_move_description` - Show the full move description in `%encounter`? (default: True)
 	
 	`encounter_item` - What item list should `%encounter` check for items?
+	
+	`display_list` - Display lists grouped by Rank or by Odds? (default: Rank)
+	
+	`random_rolls` - Should encounters come with 4 random rolls on all moves for accuracy and damage? (default: False)
 * <h5>How to add items to random encounters</h5>
 
 	Once you have an [item list](#overview-of-item-lists), simply type `%settings encounter_item <listname>` where \<listname> is the name of an itemlist.
