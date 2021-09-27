@@ -35,6 +35,8 @@
 
 -----------------------------------------------------------------
 
+*Note: you may need to reinvite PokeRole Helper to view the slash commands. The command `%inv` provides an updated link with slash command permissions.*
+
 Slash commands are a "new" feature by discord, which allow bots to have easily accessible commands in the servers they are in. Typing a '/' into the chatbox will let you see all available commands in a server, and each command will display the options you can give.
 	
 For example, `/encounter` not only has the `pokemon` option, but additonally has `number` (has many to generate), `rank` (what rank should the pokemon be), and `smart_stats` (generate with improved stat distribution).
