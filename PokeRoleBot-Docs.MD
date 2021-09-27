@@ -1,5 +1,8 @@
 <h1>Table of Contents:</h1>
 
+* [Slash Commands](#slash-commands)
+	*  /encounter description
+	*  Quick Reference commands
 * [Quick Reference](#quick-reference)
 	* Pokemon Stats
 	* What Moves a Pokemon can learn
@@ -16,6 +19,7 @@
 * [Random Encounters](#random-encounters)
 	* How do they work?
 	* %encounter
+	* %boss
 	* I want a chance for a rarer encounter mixed in
 * [Misc Commands](#misc-commands)
 	* Random from a list
@@ -25,6 +29,20 @@
 	* What each setting does
 	* How to add items to random encounters
 		
+-----------------------------------------------------------------
+
+<h3>Slash Commands</h3>
+
+-----------------------------------------------------------------
+
+Slash commands are a "new" feature by discord, which allow bots to have easily accessible commands in the servers they are in. Typing a '/' into the chatbox will let you see all available commands in a server, and each command will display the options you can give.
+	
+For example, `/encounter` not only has the `pokemon` option, but additonally has `number` (has many to generate), `rank` (what rank should the pokemon be), and `smart_stats` (generate with improved stat distribution).
+`/encounter pokemon:Pikachu, Squirtle number:2 rank:Amateur` is equivalent to `%encounter 2 amateur Pikachu, Squirtle`.
+It may look longer, but the command and options conveniently autofill with tab (or you can click on the menu that pops up).
+	
+Nearly all of PokeRole Helper's commands have been converted to Slash Commands. If you have suggestions for more commands or buttons for existing commands, please let me know with `/feedback`!
+
 -----------------------------------------------------------------
 
 <h3>Quick Reference</h3>
