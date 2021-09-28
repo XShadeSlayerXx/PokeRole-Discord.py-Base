@@ -277,28 +277,28 @@ Spectral Thief,ghost,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"If successful, BE
 Spirit Shackle,ghost,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Blocks.,"While attacking, the user sneakily binds its foe's shadow to the ground, restricting its movement and making it unable to escape."
 Spite,ghost,SUPPORT,0,,,WILL,INTIMIDATE,Foe,Reduce Target's Will to 1 point temporarily. Reset any effects it got from spending Will Points.,The target feels overwhelmed by feelings of dread.
 Trick-Or-Treat,ghost,SUPPORT,0,,,WILL,ALLURE,Foe,"Add the Ghost type to Target's Type. (ie. Meowth will now by Normal/Ghost Charizard will now be Fire/Flying/Ghost) If the Pokémon already has a third type attached, replace it.",The Pokemon takes the target Trick-or-Treating. The target gets a ghost costume which somehow cannot be removed without a medium's help.
-Absorb,grass,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,The user restores HP equal to half the damage dealt rounded down.,
-Apple Acid,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce the Foe's Sp. Defense.,
-Aromatherapy,grass,SUPPORT,0,,,INSIGHT,NATURE,User and Allies,Cure User and Allies from Burn. Freeze. Paralysis. Poison or Sleep.,
-Branch Poke,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,
-Bullet Seed,grass,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions.,
-Cotton Guard,grass,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,Increase the User's Defense by 3.,
-Cotton Spore,grass,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,Reduce foe's Dexterity by 2.,
-Drum Beating,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,PERFORM,Foe,Reduce the Foe's Dexterity,
-Energy Ball,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Sp. Defense.,
-Forest's Curse,grass,SUPPORT,0,,,WILL,NATURE,Foe,Add the Grass Type to the Target's Type (ie. Nidoran will now be Poison/Grass Heracross will now be Bug/Fight/Grass). If the Pokémon already has a third type attached. replace it.,
-Frenzy Plant,grass,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Must Recharge. -1 Accuracy.,
-Giga Drain,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Ther user restores HP equal to half the damage dealt. rounded down.,
-Grass Knot,grass,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,Add 1 Extra Dice to the Damage Pool for every 50 kgs. of weight on the foe. up to +4 Extra Dice.,
-Grass Pledge,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield and Area,Reduce the Dexterity of those affected.,
-Grass Whistle,grass,SUPPORT,0,,,SPECIAL,PERFORM,Foe,Sound Based. Put the Target to Sleep. -3 Accuracy.,
-Grassy Terrain,grass,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,For the next 4 Rounds. User and Allies on the ground Restore 1 HP at the end of each round. Add 1 Extra Dice to the Damage Rolls of Grass Type Moves.,
-Grav Apple,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. Reduce the Foe's Defense.,
-Horn Leech,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,The User restores HP equal to half the damage dealt. rounded down.,
-Ingrain,grass,SUPPORT,0,,,SPECIAL,NATURE,User,User Heals 1 HP at the end of every Round. While this move is active the User cannot flee or switch out from battle.,
-Leaf Blade,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal. High Critical.,
-Leaf Storm,grass,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Reduce the User's Special by 2. -1 Accuracy.,
-Leaf Tornado,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 5 Chance Dice to Reduce the Foe's Accuracy. -1 Accuracy.,
+Absorb,grass,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,The user restores HP equal to half the damage dealt rounded down.,The user absorbs the vital energy of the foe.
+Apple Acid,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce the Foe's Sp. Defense.,"The Pokemon produces a sap from the tart apples it feeds on, if the apples, this sap is acidic and bad for your teeth."
+Aromatherapy,grass,SUPPORT,0,,,INSIGHT,NATURE,User and Allies,"Cure User and Allies from Burn, Freeze, Paralysis, Poison, or Sleep.",The Pokemon releases medicinal scents and vapors to refresh the user and its allies.
+Branch Poke,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,The Pokemon rudely starts poking its foe with a stick.
+Bullet Seed,grass,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions.,The Pokemon shoots seeds rapidly as if they were bullets.
+Cotton Guard,grass,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,Increase the User's Defense by 3.,The user covers itself in cotton puffs that severely reduce the impact of physical attacks.
+Cotton Spore,grass,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,Reduce foe's Dexterity by 2.,"The Pokemon covers the foe in cotton, disrupting its movement speed."
+Drum Beating,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,PERFORM,Foe,Reduce the Foe's Dexterity,The Pokemon has a perfectly good drum and you'd think it would use it. But it doesn't. It uses it's foe.
+Energy Ball,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Sp. Defense.,The Pokemon gathers nature's energy in a ball and hurls it at the foe. Trees and bushes may be left opaque and sad.
+Forest's Curse,grass,SUPPORT,0,,,WILL,NATURE,Foe,Add the Grass Type to the Target's Type (ie. Nidoran will now be Poison/Grass Heracross will now be Bug/Fight/Grass). If the Pokémon already has a third type attached then replace it.,"The user calls the forest to lay a curse upon the target, making it grow vines and vegetation around its whole body. The curse will not be easily lifted without a medium's help."
+Frenzy Plant,grass,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Must Recharge. -1 Accuracy.,"The user roots down and calls the plants to grow in a frenzy around the foe, though it leaves the user exhausted."
+Giga Drain,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,"The user restores HP equal to half the damage dealt, rounded down.",The Pokemon extracts a great amount of vital energy from the foe's body.
+Grass Knot,grass,SPECIAL,1,SPECIAL,,DEXTERITY,CHANNEL,Foe,"Add 1 Extra Dice to the Damage Pool for every 50 kgs. of weight on the foe, up to +4 Extra Dice.","The user snares the target's feet with grass, making it fall to the ground. The bigger the foe the harder the fall."
+Grass Pledge,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Battlefield and Area,Reduce the Dexterity of those affected.,The Pokemon chants to invoke the power of Grass. Its pledge is heard then then soil trembles and the ground crumbles as vegetation rises to grapple anyone in the field.
+Grass Whistle,grass,SUPPORT,0,,,SPECIAL,PERFORM,Foe,Sound Based. Put the Target to Sleep. -3 Accuracy.,The user plays a beautiful and soothing melody that lulls the target into a peaceful sleep.
+Grassy Terrain,grass,SUPPORT,0,,,SPECIAL,NATURE,Battlefield,"If successful, spend 1 Will point to activate. Everyone in the user's side of the field heals 1 HP at the end of each round. Add 1 Extra Dice to the Damage Rolls of Grass Type Moves.",The Pokemon calls upon the healing power of nature to grow a patch of miraculous grass on its side of the battlefield.
+Grav Apple,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged. Reduce the Foe's Defense.,"The Pokemon rises on top of its foe and drops an apple on their head. The foe proceeds to eat the apple, distracting it from the fight."
+Horn Leech,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"The User restores HP equal to half the damage dealt, rounded down.",The user rams the foe and absorbs some of its vital energy with its horns.
+Ingrain,grass,SUPPORT,0,,,SPECIAL,NATURE,User,User Heals 1 HP at the end of every Round. While this move is active the User is now Blocked.,"The Pokemon roots itself to the ground, absorbing the nutrients and recovering health."
+Leaf Blade,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal. High Critical.,The Pokemon uses the sharp leaves on its body to cut through the foe.
+Leaf Storm,grass,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Reduce the User's Special by 2. -1 Accuracy.,A furious storm of sharp leaves swirls and pierces the target. The user is left exhausted.
+Leaf Tornado,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 5 Chance Dice to Reduce the Foe's Accuracy. -1 Accuracy.,A bush worth of sharp leaves swirls around the foe making it harder for it to aim attacks properly.
 Leafage,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged.,
 Leech Seed,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,If successful spend 1 Will point to activate. At the end of each Round Roll 1 Dice of Damage to the foe. User heals for 1 HP for every damage dealt this way. Grass Type Pokemon are immune to this Move. -1 Accuracy.,
 Magical Leaf,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Never Fail.,
