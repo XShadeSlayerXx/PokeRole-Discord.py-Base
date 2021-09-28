@@ -299,31 +299,31 @@ Ingrain,grass,SUPPORT,0,,,SPECIAL,NATURE,User,User Heals 1 HP at the end of ever
 Leaf Blade,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal. High Critical.,The Pokemon uses the sharp leaves on its body to cut through the foe.
 Leaf Storm,grass,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Reduce the User's Special by 2. -1 Accuracy.,A furious storm of sharp leaves swirls and pierces the target. The user is left exhausted.
 Leaf Tornado,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 5 Chance Dice to Reduce the Foe's Accuracy. -1 Accuracy.,A bush worth of sharp leaves swirls around the foe making it harder for it to aim attacks properly.
-Leafage,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged.,
-Leech Seed,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,If successful spend 1 Will point to activate. At the end of each Round Roll 1 Dice of Damage to the foe. User heals for 1 HP for every damage dealt this way. Grass Type Pokemon are immune to this Move. -1 Accuracy.,
-Magical Leaf,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Never Fail.,
-Mega Drain,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,The user restores HP equal to half the damage dealt. rounded down.,
-Needle Arm,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the Foe.,
-Petal Blizzard,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Area,-,
-Petal Dance,grass,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Random Foe,Rampage.,
-Power Whip,grass,PHYSICAL,5,STRENGTH,,DEXTERITY,BRAWL,Foe, -2 Accuracy.,
-Razor Leaf,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,All Foes,Ranged. High Critical.,
-Sappy Seed,grass,PHYSICAL,3,STRENGTH,,SPECIAL,BRAWL,Foe,"At the end of the Round, Roll 1 Die of Damage to the foe, Restore 1 HP to the user for every damage dealt this way. If the user of this Move is at its Final Stage of Evolution, this move fails. -1 Accuracy.",
-Seed Bomb,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged.,
-Seed Flare,grass,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Roll 4 Chance Dice to Reduce the foe's Sp. Defense by 2.,
-Sleep Powder,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,Put the Target to Sleep. -2 Accuracy.,
-Snap Trap,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,STEALTH,Foe,Target is Blocked for the Next 4 Rounds.,
-Solar Beam,grass,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Charge Move. If there is a Sunny Weather. you skip this Move's Charge action. If performed under Rain. Sandstorm or Hail Weather. this Move takes two actions to Charge.,
-Solar Blade,grass,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Charge Move. If there is a Sunny Weather. you skip this Move's Charge action. If performed under Rain. Sandstorm or Hail Weather. this Move takes two actions to Charge.,
-Spiky Shield,grass,SUPPORT,0,,,DEXTERITY,BRAWL,User,Priority 3. Shield. Reduce 3 Damage Dice from the next attack and deal 2 Damage Dice to the attacker if it used a physical non-ranged Move.,
-Spore,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,Put the Target to Sleep.,
-Strength Sap,grass,SUPPORT,0,,,INSIGHT,NATURE,Foe,Reduce Foe's Strength. User Heals HP equal to the Foe's Current Strength Score. Healing in-battle limitations apply.,
-Stun Spore,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,Paralyze the Foe. -2 Accuracy.,
-Synthesis,grass,SUPPORT,0,,,SPECIAL,NATURE,User,Basic Heal. If Successful spend 1 Will point to activate. If performed under Sunny weather this Move is a Complete Heal. If Rain/Sandstorm Weather is in effect this move only heals 1 HP.,
-Trop Kick,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Reduce Foe's Strength.,
-Vine Whip,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,
-Wood Hammer,grass,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil.,
-Worry Seed,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,"Until the end of the Scene. Target's Ability is now ""Insomnia"".",
+Leafage,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged.,The user throws leaf darts towards its foe.
+Leech Seed,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,"If successful spend 1 Will point to activate. At the end of each Round, Roll 1 Dice of Damage to the foe. User heals for 1 HP for every damage dealt this way. Grass Type Pokemon are immune to this Move. -1 Accuracy.","The user plants some seeds on the target, the seeds sprout and restore the user's health by absorbing the foe's vital energy."
+Magical Leaf,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Never Fail.,The user sends out a floating leaf that will pursue the target until it hits.
+Mega Drain,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,"The user restores HP equal to half the damage dealt, rounded down.",The user absorbs a big amount of vital energy from the target.
+Needle Arm,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the Foe.,"The Pokemon hits the foe with its flailing arms, some thorns may get stuck on the target like needles."
+Petal Blizzard,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Area,-,"The Pokemon showers the battlefield with a raging blizzard of petals and leaves, anyone close to the user will suffer the consequences."
+Petal Dance,grass,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Random Foe,Rampage.,"The Pokemon starts swirling petals around in a true display of nature's power, the petals are guided by the wind to strike the foe."
+Power Whip,grass,PHYSICAL,5,STRENGTH,,DEXTERITY,BRAWL,Foe, -2 Accuracy.,"The Pokemon violently lashes the foe with its vines or a part of its body, acting as a powerful whip."
+Razor Leaf,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,All Foes,Ranged. High Critical.,The Pokemon shoots one or more sharp leaves that cut through all targets as if they were razors.
+Sappy Seed,grass,PHYSICAL,3,STRENGTH,,SPECIAL,BRAWL,Foe,"At the end of the Round, Roll 1 Die of Damage to the foe. Restore 1 HP to the user for every damage dealt this way. If the user of this Move is at its Final Stage of Evolution, this move fails. -1 Accuracy.","From a magical bean, the user grows a cute stalk that will attach itself to the nearest target. Once it ingrains, it will grow and grow and grow until it reaches the sky."
+Seed Bomb,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged.,The user throws a big seed that explodes on contact with the foe.
+Seed Flare,grass,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Lethal. Roll 4 Chance Dice to Reduce the foe's Sp. Defense by 2.,"Shaymin releases an explosion of pollen and seeds that the foe cannot shake off, leaving it vulnerable. Over time, these seeds will grow into gigantic trees of life."
+Sleep Powder,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,Put the Target to Sleep. -2 Accuracy.,"The user scatters powder around, anyone who comes in contact with it will fall asleep."
+Snap Trap,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,STEALTH,Foe,Target is Blocked for the Next 4 Rounds.,"The user is so flat that you can barely see it in the tall grass, it is just waiting for its foe to get close enough to use its body as a snare trap."
+Solar Beam,grass,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,"Charge Move. If there is a Sunny Weather, you skip this Move's Charge action. If performed under Rain, Sandstorm, or Hail Weather, this Move takes two actions to Charge.",The user focuses the sunlight it has absorbed into a powerful and devastating beam of light.
+Solar Blade,grass,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,"Charge Move. If there is a Sunny Weather, you skip this Move's Charge action. If performed under Rain, Sandstorm, or Hail Weather, this Move takes two actions to Charge.","The Pokemon focuses the sunlight on its sharp leaves, then releases the energy with a shattering block."
+Spiky Shield,grass,SUPPORT,0,,,DEXTERITY,BRAWL,User,Priority 3. Shield. Reduce 3 Damage Dice from the next attack and deal 2 Damage Dice to the attacker if it used a physical non-ranged Move.,"The Pokemon covers itself with a thorn filled shell, the foe will be damaged if it hits directly into it."
+Spore,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,Put the Target to Sleep.,A powerful somniferous spore that is shot at the target to make it fall asleep.
+Strength Sap,grass,SUPPORT,0,,,INSIGHT,NATURE,Foe,Reduce Foe's Strength. User Heals HP equal to the Foe's Current Strength Score. Healing in-battle limitations apply.,"The Pokemon looks for a weak spot on its foe, then feeds on its vital energy. The foe is left feeling feeble."
+Stun Spore,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,Paralyze the Foe. -2 Accuracy.,A blow of dust that paralyzes the target on the spot and cramps its muscles.
+Synthesis,grass,SUPPORT,0,,,SPECIAL,NATURE,User,Basic Heal. If Successful spend 1 Will point to activate. If performed under Sunny weather this Move is a Complete Heal. If Rain/Sandstorm Weather is in effect this move only heals 1 HP.,The Pokemon uses the sunlight as energy to regain its vitality.
+Trop Kick,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Reduce Foe's Strength.,The user strikes with an intense and alluring kick.
+Vine Whip,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,They Pokemon uses its slender vines as a whip against the foe. They are as long as 20 feet.
+Wood Hammer,grass,PHYSICAL,5,STRENGTH,,STRENGTH,BRAWL,Foe,Recoil.,"The Pokemon recklessly slams the foe with a part of its rugged body, the user also gets hurt in the process."
+Worry Seed,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,"Until the end of the Scene. Target's Ability is now ""Insomnia"".",The user plants a seed in its foe. It causes a restless preoccupation that won't let it sleep at night.
 Bone Club,ground,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 2 Chance Dice to Flinch the Foe. -2 Accuracy.,"The user hits the target with a bone, the smack may leave a bump on the target's head."
 Bone Rush,ground,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. -1 Accuracy.,"The user quickly strikes the foe with a bone, one blow after another."
 Bonemerang,ground,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Double Action. -1 Accuracy.,"The Pokemon throws a bone to hit the foe. The bone returns like a boomerang, striking a second time."
