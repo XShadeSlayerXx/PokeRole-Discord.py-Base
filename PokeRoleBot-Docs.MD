@@ -1,5 +1,8 @@
 <h1>Table of Contents:</h1>
 
+* [Slash Commands](#slash-commands)
+	*  /encounter description
+	*  Quick Reference commands
 * [Quick Reference](#quick-reference)
 	* Pokemon Stats
 	* What Moves a Pokemon can learn
@@ -16,6 +19,7 @@
 * [Random Encounters](#random-encounters)
 	* How do they work?
 	* %encounter
+	* %boss
 	* I want a chance for a rarer encounter mixed in
 * [Misc Commands](#misc-commands)
 	* Random from a list
@@ -25,6 +29,22 @@
 	* What each setting does
 	* How to add items to random encounters
 		
+-----------------------------------------------------------------
+
+<h3>Slash Commands</h3>
+
+-----------------------------------------------------------------
+
+*Note: you may need to reinvite PokeRole Helper to view the slash commands. The command `%inv` provides an updated link with slash command permissions.*
+
+Slash commands are a "new" feature by discord, which allow bots to have easily accessible commands in the servers they are in. Typing a '/' into the chatbox will let you see all available commands in a server, and each command will display the options you can give.
+	
+For example, `/encounter` not only has the `pokemon` option, but additonally has `number` (has many to generate), `rank` (what rank should the pokemon be), and `smart_stats` (generate with improved stat distribution).
+`/encounter pokemon:Pikachu, Squirtle number:2 rank:Amateur` is equivalent to `%encounter 2 amateur Pikachu, Squirtle`.
+It may look longer, but the command and options conveniently autofill with tab (or you can click on the menu that pops up).
+	
+Nearly all of PokeRole Helper's commands have been converted to Slash Commands. If you have suggestions for more commands or buttons for existing commands, please let me know with `/feedback`!
+
 -----------------------------------------------------------------
 
 <h3>Quick Reference</h3>
@@ -292,9 +312,17 @@ Basic format: `%settings <setting_name> <value>`
 	
 	`shiny_chance` - chance for pokemon to be shiny (default: .00012 --> .012%)
 	
+	`pre_evo_moves` - If a pokemon has previous evolutions, should it inherit moves from a previous evolution? You can also choose to have it inherit from the previous rank. (Yes/No/Lower)
+	
+	`code_block` - Display `%encounter` text in a `code block like this`? (default: False)
+	
 	`show_move_description` - Show the full move description in `%encounter`? (default: True)
 	
 	`encounter_item` - What item list should `%encounter` check for items?
+	
+	`display_list` - Display lists grouped by Rank or by Odds? (default: Rank)
+	
+	`random_rolls` - Should encounters come with 4 random rolls on all moves for accuracy and damage? (default: False)
 * <h5>How to add items to random encounters</h5>
 
 	Once you have an [item list](#overview-of-item-lists), simply type `%settings encounter_item <listname>` where \<listname> is the name of an itemlist.
