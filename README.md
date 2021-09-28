@@ -8,3 +8,4 @@ How to help: Currently taking suggestions on improvements.
 Items and Pokemon are fully implemented!
 
 Thank you SK91, rrezende88, and darthinvader for helping with the last 2 generations!
+Thank you Rockington for helping with the move descriptions!
