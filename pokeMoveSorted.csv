@@ -17,7 +17,7 @@ Quiver Dance,bug,SUPPORT,0,,,BEAUTY,PERFORM,User,Increases Dexterity. Special an
 Rage Powder,bug,SUPPORT,0,,,INSIGHT,INTIMIDATE,User,"Priority 2. During this Round, all damage moves from any foe must target the User.",The Pokémon releases an irritating powder that annoys and enrages foes into attacking.
 Signal Beam,bug,SPECIAL,3,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 1 Chance Dice to Confuse the foe.,The user emits an intense light that harms the foes and may leave them dazed like moths.
 Silver Wind,bug,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Increase User's Strength. Dexterity. Special. Defense. Sp. Defense.,"The Pokémon blows a beautiful silver colered wind that harms the foe, the performance may give the user a big confidence boost."
-Spider Web,bug,SUPPORT,0,,,INSIGHT,STEALTH,Battlefield,Blocks.,
+Spider Web,bug,SUPPORT,0,,,INSIGHT,STEALTH,Battlefield,Blocks.,The User quietly releases a web on the field. All foes will be trapped.
 Steamroller,bug,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Flinch the foe.,The user curls up and rolls at full speed to strike the foe. It may leave the target swatted on the ground.
 Sticky Web,bug,SUPPORT,0,,,INSIGHT,NATURE,Battlefield,Entry Hazard. Foe Pokémon that enter the battlefield get a Dexterity Reduction of 1. Pokémon with the Levitate ability and Flying Type Pokémon are immune to this effect.,"The Pokémon quickly covers the arena with a sticky web, newly arrived foes will have trouble moving with ease."
 String Shot,bug,SUPPORT,0,,,INSIGHT,NATURE,All Foes,Targets All Foes in Range. Reduce the Dexterity of those affected.,The user shoots a silk string that ties and limits the movement of its foe.
