@@ -345,9 +345,9 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #290,Nincada,Bug,Ground,3,2,4,1,3,2,5,1,3,1,3,Compound Eyes,,Run Away,,Yes,,Beginner,
 #291,Ninjask,Bug,Flying,4,2,5,4,8,2,4,2,4,2,4,Speed Boost,,Infiltrator,,,,Amateur,
 #292,Shedinja,Bug,Ghost,1,2,5,1,3,2,4,1,3,1,3,Wonder Guard,,,,,,Ace,N
-#293,Whismur,Normal,,3,2,4,1,3,1,3,2,5,1,3,Soundproof,Amplifier,Rattled,,Yes,,Starter,
-#294,Loudred,Normal,,4,2,5,2,4,1,3,2,5,1,3,Soundproof,Amplifier,Scrappy,,Yes,,Amateur,
-#295,Exploud,Normal,,6,2,5,2,4,1,4,2,5,2,5,Soundproof,Amplifier,Scrappy,,,,Ace,
+#293,Whismur,Normal,,3,2,4,1,3,1,3,2,5,1,3,Soundproof,,Rattled,,Yes,,Starter,
+#294,Loudred,Normal,,4,2,5,2,4,1,3,2,5,1,3,Soundproof,,Scrappy,,Yes,,Amateur,
+#295,Exploud,Normal,,6,2,5,2,4,1,4,2,5,2,5,Soundproof,,Scrappy,,,,Ace,
 #296,Makuhita,Fighting,,3,2,4,1,3,1,3,1,3,1,3,Thick Fat,Guts,Sheer Force,,Yes,,Beginner,
 #297,Hariyama,Fighting,,7,3,7,2,4,2,4,1,3,2,4,Thick Fat,Guts,Sheer Force,,,,Amateur,
 #298,Azurill,Normal,Fairy,3,1,3,1,3,1,3,1,3,1,3,Thick Fat,Huge Power,Sap Sipper,,Yes,,Starter,
@@ -397,7 +397,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #334,Mega-Altaria,Dragon,Fairy,5,3,6,2,5,3,6,3,6,3,6,Pixilate,,,,,,Pro,
 #335,Zangoose,Normal,,4,3,6,2,5,2,4,2,4,2,4,Immunity,,Toxic Boost,,,,Amateur,
 #336,Seviper,Poison,,4,3,6,2,4,2,4,3,6,2,4,Shed Skin,,Infiltrator,,,,Amateur,
-#337,Lunatone,Rock,Psychic,4,2,4,2,5,2,4,3,6,2,5,Levitate,,Noctem,,,,Amateur,N
+#337,Lunatone,Rock,Psychic,4,2,4,2,5,2,4,3,6,2,5,Levitate,,,,,,Amateur,N
 #338,Solrock,Rock,Psychic,4,3,6,2,5,2,5,2,4,2,4,Levitate,,,,,,Amateur,N
 #339,Barboach,Water,Ground,3,2,4,2,4,1,3,2,4,1,3,Oblivious,Anticipation,Hydration,,Yes,,Starter,
 #340,Whiscash,Water,Ground,5,2,5,2,4,2,5,2,5,2,5,Oblivious,Anticipation,Hydration,,,,Amateur,
@@ -518,7 +518,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #439,Mime Jr.,Psychic,Fairy,3,1,3,2,4,2,4,2,5,2,5,Soundproof,Filter,Technician,,Yes,,Starter,
 #440,Happiny,Normal,,4,1,2,1,3,1,2,1,2,1,3,Natural Cure,Serene Grace,Friend Guard,,Yes,,Starter,F
 #441,Chatot,Normal,Flying,4,2,4,2,5,2,4,2,5,2,4,Keen Eye,Tangled Feet,Big Pecks,,,Yes,Amateur,
-#442,Spiritomb,Ghost,Dark,4,2,5,1,3,3,6,2,5,3,6,Pressure,Noctem,Infiltrator,,,Yes,Pro,
+#442,Spiritomb,Ghost,Dark,4,2,5,1,3,3,6,2,5,3,6,Pressure,,Infiltrator,,,Yes,Pro,
 #443,Gible,Dragon,Ground,3,2,5,1,3,2,4,1,3,2,4,Sand Veil,,Rough Skin,,Yes,,Amateur,
 #444,Gabite,Dragon,Ground,4,2,5,2,5,2,4,2,4,2,4,Sand Veil,,Rough Skin,,Yes,,Ace,
 #445,Garchomp,Dragon,Ground,6,3,7,3,6,3,6,2,5,2,5,Sand Veil,,Rough Skin,,,Yes,Pro,
@@ -578,7 +578,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #488,Cresselia,Psychic,,6,5,5,5,5,7,7,5,5,7,7,Levitate,,,,,,Pro,F
 #489,Phione,Water,,4,2,5,2,5,2,5,2,5,2,5,Hydration,,,,,,Pro,N
 #490,Manaphy,Water,,5,6,6,6,6,6,6,6,6,6,6,Hydration,,,,,,Pro,N
-#491,Darkrai,Dark,,4,5,5,7,7,5,5,7,7,5,5,Bad Dreams,,Absolution,,,,Pro,N
+#491,Darkrai,Dark,,4,5,5,7,7,5,5,7,7,5,5,Bad Dreams,,,,,,Pro,N
 #492,Shaymin,Grass,,5,6,6,6,6,6,6,6,6,6,6,Natural Cure,,,,,Yes,Pro,N
 #492,Sky Shaymin,Grass,Flying,5,6,6,7,7,5,5,7,7,5,5,Serene Grace,,,,,Yes,Pro,N
 #493,Arceus,Normal,,6,12,12,12,12,12,12,12,12,12,12,Multitype,,,,,Yes,Master,N
