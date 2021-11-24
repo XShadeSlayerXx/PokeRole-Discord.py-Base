@@ -183,8 +183,11 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #142,Mega-Aerodactyl,Rock,Flying,5,3,7,3,7,2,5,2,5,3,6,Tough Claws,,,,,,Pro,
 #143,Snorlax,Normal,,8,3,6,1,3,2,4,2,4,3,6,Immunity,Thick Fat,Gluttony,,,,Amateur,
 #144,Articuno,Ice,Flying,4,5,5,5,5,6,6,6,6,7,7,Pressure,,Snow Cloak,,,,Master,N
+#144G,Galarian Articuno (provisional),Psychic,Flying,4,5,5,6,6,5,5,7,7,6,6,Competitive,,,,,,Master,N
 #145,Zapdos,Electric,Flying,4,5,5,6,6,5,5,7,7,5,5,Pressure,,Static,,,,Master,N
+#145G,Galarian Zapdos (provisional),Fighting,Flying,4,7,7,6,6,5,5,5,5,5,5,Defiant,,,,,,Master,N
 #146,Moltres,Fire,Flying,4,6,6,5,5,5,5,7,7,5,5,Pressure,,Flame Body,,,,Master,N
+#146G,Galarian Moltres (provisional),Dark,Flying,4,5,5,5,5,5,5,6,6,7,7,Berserk,,,,,,Master,N
 #147,Dratini,Dragon,,3,2,4,2,4,2,4,2,4,2,4,Shed Skin,,Marvel Scale,,Yes,,Amateur,
 #148,Dragonair,Dragon,,6,2,5,2,5,2,4,2,5,2,5,Shed Skin,,Marvel Scale,,Yes,,Ace,
 #149,Dragonite,Dragon,Flying,6,3,7,2,5,3,6,3,6,3,6,Inner Focus,,Multiscale,,,,Master,
