@@ -151,7 +151,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #115,Kangaskhan,Normal,,5,3,6,2,5,2,5,1,3,2,5,Early Bird,Scrappy,Inner Focus,,,Yes,Amateur,F
 #115,Mega-Kangaskhan,Normal,,6,3,7,3,6,3,6,2,4,3,6,Parental Bond,,,,,,Ace,F
 #116,Horsea,Water,,3,2,4,2,4,2,5,2,5,1,3,Swift Swim,Sniper,Damp,,Yes,,Beginner,
-#117,Seadra,Water,,4,2,4,2,5,3,6,3,6,2,4,Poison Point,Sniper,Damp,,Yes,,Amateur,
+#117,Seadra,Water,,4,2,4,2,5,3,6,3,6,2,4,Swift Swim,Sniper,Damp,,Yes,,Amateur,
 #118,Goldeen,Water,,3,2,4,2,4,2,4,1,3,2,4,Swift Swim,Water Veil,Lightning Rod,,Yes,,Beginner,
 #119,Seaking,Water,,4,3,6,2,4,2,4,2,4,2,5,Swift Swim,Water Veil,Lightning Rod,,,,Amateur,
 #120,Staryu,Water,,3,2,4,2,5,2,4,2,5,2,4,Illuminate,Natural Cure,Analytic,,Yes,,Beginner,N
