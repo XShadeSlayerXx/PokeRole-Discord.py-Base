@@ -935,7 +935,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #808,Meltan,Steel,,3,2,4,1,3,2,4,2,4,1,3,Magnet Pull,,,,,,Amateur,N
 #809,Melmetal,Steel,,6,4,8,1,3,4,8,2,5,2,4,Iron Fist,,,,,,Pro,N
 #810,Grookey,Grass,,3,2,4,2,4,2,4,1,3,1,3,Overgrow,,Grassy Surge,,Yes,,Starter,
-#811,Thwackey,Grass,,3,2,5,2,5,2,5,2,4,2,4,Overgrow,,Grassy Surge,,Yes,,Amateur,
+#811,Thwackey,Grass,,4,2,5,2,5,2,5,2,4,2,4,Overgrow,,Grassy Surge,,Yes,,Amateur,
 #812,Rillaboom,Grass,,6,3,7,2,5,2,5,2,4,2,5,Overgrow,,Grassy Surge,,,,Ace,
 #813,Scorbunny,Fire,,3,2,5,2,4,1,3,1,3,1,3,Blaze,,Libero,,Yes,,Starter,
 #814,Raboot,Fire,,4,2,5,2,5,2,4,2,4,2,4,Blaze,,Libero,,Yes,,Amateur,
