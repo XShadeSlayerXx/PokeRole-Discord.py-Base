@@ -299,7 +299,7 @@ Ingrain,grass,SUPPORT,0,,,SPECIAL,NATURE,User,User Heals 1 HP at the end of ever
 Leaf Blade,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Lethal. High Critical.,The Pokemon uses the sharp leaves on its body to cut through the foe.
 Leaf Storm,grass,SPECIAL,6,SPECIAL,,SPECIAL,CHANNEL,Foe,Reduce the User's Special by 2. -1 Accuracy.,A furious storm of sharp leaves swirls and pierces the target. The user is left exhausted.
 Leaf Tornado,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 5 Chance Dice to Reduce the Foe's Accuracy. -1 Accuracy.,A bush worth of sharp leaves swirls around the foe making it harder for it to aim attacks properly.
-Leafage,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged.,The user throws leaf darts towards its foe.
+Leafage,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,CHANNEL,Foe,Ranged.,The user throws leaf darts towards its foe.
 Leech Seed,grass,SUPPORT,0,,,SPECIAL,NATURE,Foe,"If successful spend 1 Will point to activate. At the end of each Round, Roll 1 Dice of Damage to the foe. User heals for 1 HP for every damage dealt this way. Grass Type Pokemon are immune to this Move. -1 Accuracy.","The user plants some seeds on the target, the seeds sprout and restore the user's health by absorbing the foe's vital energy."
 Magical Leaf,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Never Fail.,The user sends out a floating leaf that will pursue the target until it hits.
 Mega Drain,grass,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,"The user restores HP equal to half the damage dealt, rounded down.",The user absorbs a big amount of vital energy from the target.
