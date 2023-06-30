@@ -529,7 +529,7 @@ Sweet Scent,normal,SUPPORT,0,,,SPECIAL,NATURE,All Foes,Those affected cannot eva
 Swift,normal,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,All Foes,Never Fail.,The user shoots a star shaped light beam that hits the target at blinding speed.
 Swords Dance,normal,SUPPORT,0,,,DEXTERITY,PERFORM,User,Increase the User's Strength by 2.,The Pokemon makes a dance that raises its battle spirit.
 Tackle,normal,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,A basic attack that consists of charging at an enemy.
-Tail Slap,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,User,Successive Actions. -1 Accuracy.,The Pokemon slaps the foe's face with its strong tail.
+Tail Slap,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Successive Actions. -1 Accuracy.,The Pokemon slaps the foe's face with its strong tail.
 Tail Whip,normal,SUPPORT,0,,,CUTE,PERFORM,All Foes,Reduce the foe's Defense.,The Pokemon moves its tail in such a cute way that the foe will easily let its guard down.
 Take Down,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Recoil. -2 Accuracy.,The Pokemon recklessly grapples the foe to smash it on the ground.
 Tearful Look,normal,SUPPORT,0,,,CUTE,ALLURE,Foe,Reduce Foe's Strength and Special.,"The Pokemon's eyes start watering as if it were about to cry, it's foe is moved by the tears and loses its will to fight."
