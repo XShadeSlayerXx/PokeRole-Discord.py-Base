@@ -124,7 +124,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #092,Gastly,Ghost,Poison,4,1,3,2,5,1,3,3,6,1,3,Levitate,,,,Yes,,Beginner,
 #093,Haunter,Ghost,Poison,4,2,4,3,6,2,4,3,6,2,4,Levitate,,,,Yes,,Amateur,
 #094,Gengar,Ghost,Poison,5,2,4,3,6,2,4,3,7,2,5,Cursed Body,,,,,Yes,Ace,
-#094,Mega-Gengar,Ghost,Poison,6,2,4,3,7,2,5,3,9,3,6,Shadow Tag,,,,,,Pro,
+#094,Mega-Gengar,Ghost,Poison,6,2,4,3,7,2,5,4,9,3,6,Shadow Tag,,,,,,Pro,
 #095,Onix,Rock,Ground,8,2,4,2,5,4,8,1,3,2,4,Rock Head,Sturdy,Weak Armor,,Yes,,Amateur,
 #096,Drowzee,Psychic,,3,2,4,1,3,2,4,1,3,2,5,Insomnia,Forewarn,Inner Focus,,Yes,,Beginner,
 #097,Hypno,Psychic,,4,2,5,2,4,2,5,2,5,3,6,Insomnia,Forewarn,Inner Focus,,,,Amateur,
