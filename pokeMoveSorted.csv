@@ -456,7 +456,7 @@ Lucky Chant,normal,SUPPORT,0,,,SPECIAL,PERFORM,User and Allies,User and Allies i
 Me First,normal,SUPPORT,0,,,DEXTERITY,BRAWL,Foe,Priority 1. The User copies and uses the Move the target was intending to use. It must be a damaging Move.,The user anticipates the next attack so it can hit the target with an astounding speed.
 Mean Look,normal,SUPPORT,0,,,TOUGH,INTIMIDATE,Foe,Blocks.,The Pokemon gives a menacing look that freezes the foe on the spot with intense fear.
 Mega Kick,normal,PHYSICAL,5,STRENGTH,,DEXTERITY,BRAWL,Foe, -2 Accuracy.,The Pokemon throws a mega powered kick to the foe's face.
-Mega Punch,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe, -1 Accuracy.,The Pokemon throws a mega potent hook towards the foe's face.
+Mega Punch,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. -1 Accuracy.,The Pokemon throws a mega potent hook towards the foe's face.
 Metronome,normal,SPECIAL,0,SPECIAL,,DEXTERITY,PERFORM,Foe,Roll a dice to determine this move's power. The appearance and Type of this move are decided by the Storyteller.,The Pokemon waves its hands with rhythm. The energy around follows the cadence and manifests with an impressive attack.
 Milk Drink,normal,SUPPORT,0,,,VITALITY,NATURE,User,"Basic Heal. If successful, spend 1 Will point to activate.",The Pokemon drinks a glass of its own milk. The rich taste and nutrients revitalize it.
 Mimic,normal,SUPPORT,0,,,CLEVER,PERFORM,Foe,Copies the last move the target used until the end of the scene. That move replaces Mimic.,"Making use of its acting talents, the Pokemon imitates what the target just did."
