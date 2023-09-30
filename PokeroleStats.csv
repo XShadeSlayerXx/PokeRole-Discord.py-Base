@@ -284,7 +284,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #231,Phanpy,Ground,,3,2,4,1,3,2,4,1,3,1,3,Pickup,,Sand Veil,,Yes,,Beginner,
 #232,Donphan,Ground,,4,3,7,2,4,3,6,2,4,2,4,Pickup,,Sand Veil,,,,Amateur,
 #233,Porygon2,Normal,,4,2,5,2,4,2,5,3,6,3,6,Trace,Download,Analytic,,Yes,,Ace,N
-#234,Stantler,Normal,,5,3,6,2,5,2,4,1,5,2,4,Intimidate,Frisk,Sap Sipper,,,,Amateur,
+#234,Stantler,Normal,,4,3,6,2,5,2,4,1,5,2,4,Intimidate,Frisk,Sap Sipper,,,,Amateur,
 #235,Smeargle,Normal,,4,1,3,3,6,2,4,1,3,3,6,Own Tempo,Technician,Moody,,,,Amateur,
 #236,Tyrogue,Fighting,,3,1,3,1,3,1,3,1,3,1,3,Guts,Steadfast,Vital Spirit,,Yes,,Beginner,M
 #237,Hitmontop,Fighting,,4,3,6,2,5,3,6,1,3,3,6,Intimidate,Technician,Steadfast,,,,Ace,
