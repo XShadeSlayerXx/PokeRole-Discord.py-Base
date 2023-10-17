@@ -109,7 +109,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #080,Mega-Slowbro,Water,Psychic,5,2,5,1,2,4,9,3,7,2,5,Shell Armor,,,,,,Ace,
 #081,Magnemite,Electric,Steel,3,2,4,2,5,2,4,2,4,2,4,Magnet Pull,Sturdy,Analytic,,Yes,,Beginner,N
 #082,Magneton,Electric,Steel,4,2,4,2,5,3,6,3,7,2,6,Magnet Pull,Sturdy,Analytic,,Yes,,Amateur,N
-#083,Farfetch'd,Normal,Flying,4,2,5,2,4,2,4,2,4,2,4,Keen Eye,Inner Focus,Defiant,,,,Beginner,
+#083,Farfetch'd,Normal,Flying,4,2,5,2,4,2,4,2,4,2,4,Keen Eye,Inner Focus,Defiant,,,Yes,Beginner,
 #083G,Galarian Farfetch'd,Fighting,,3,2,5,2,4,2,4,2,4,2,4,Steadfast,,Scrappy,,Yes,,Beginner,
 #084,Doduo,Normal,Flying,3,2,5,2,5,2,4,1,3,1,3,Run Away,Early Bird,Tangled Feet,,Yes,,Beginner,
 #085,Dodrio,Normal,Flying,4,3,6,3,6,2,5,2,4,2,4,Run Away,Early Bird,Tangled Feet,,,,Amateur,
