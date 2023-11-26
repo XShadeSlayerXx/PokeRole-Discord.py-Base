@@ -580,7 +580,7 @@ Venoshock,poison,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,"If the Foe is already
 Agility,psychic,SUPPORT,0,,,DEXTERITY,ATHLETIC,User,Increase the User's Dexterity by 2.,The user relaxes and lightens its body to move faster.
 Ally Switch,psychic,SUPPORT,0,,,SPECIAL,CHANNEL,One Ally,User switches back. Choose another Pokémon to take its place. It will be ready to fight on the next Round. Switcher Move.,"The user teleports, switching its place with someone."
 Amnesia,psychic,SUPPORT,0,,,INSIGHT,ALERT,User,Increase the User's Sp. Defense by 2.,"As a fine example of mind over matter, the user temporarily empties its mind to make it more resilient."
-Barrier,psychic,SUPPORT,0,,,SPECIAL,CHANNEL,Foe,Increase the User's Defense by 2.,The user casts a protective field around itself.
+Barrier,psychic,SUPPORT,0,,,SPECIAL,CHANNEL,User,Increase the User's Defense by 2.,The user casts a protective field around itself.
 Calm Mind,psychic,SUPPORT,0,,,INSIGHT,CHANNEL,User,Increase the User's Special and Sp. Defense.,The user quietly calms its spirit to strengthen its mind and body.
 Confusion,psychic,SPECIAL,2,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Confuse the foe.,The target's mind is hit by a weak psychic force that leaves them wondering if they were hit by an invisible enemy. Sometimes the foe is left seeing things that aren't really there.
 Cosmic Power,psychic,SUPPORT,0,,,SPECIAL,CHANNEL,User,Increase the User's Defense and Sp. Defense.,The user absorbs power from space. This Pokemon glows faintly with energy afterwards.
