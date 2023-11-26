@@ -987,7 +987,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #859,Impidimp,Dark,Fairy,3,2,4,2,4,1,3,2,4,1,3,Prankster,Frisk,Pickpocket,,Yes,,Beginner,M
 #860,Morgrem,Dark,Fairy,4,2,4,2,5,2,4,2,5,2,4,Prankster,Frisk,Pickpocket,,Yes,,Amateur,M
 #861,Grimmsnarl,Dark,Fairy,5,3,7,2,4,2,4,3,6,2,5,Prankster,Frisk,Pickpocket,,,,Ace,M
-#862,Obstagoon,Dark,Normal,5,2,5,3,6,3,6,2,4,2,5,Prankster,Frisk,Pickpocket,,,,Ace,
+#862,Obstagoon,Dark,Normal,5,2,5,3,6,3,6,2,4,2,5,Reckless,Guts,Defiant,,,,Ace,
 #863,Perrserker,Steel,,4,3,6,2,4,3,6,2,4,2,4,Battle Armor,Tough Claws,Steely Spirit,,,,Amateur,
 #864,Cursola,Ghost,,4,3,6,1,3,2,4,4,8,2,5,Weak Armor,,Perish Body,,,,Ace,
 #865,Sirfetch'd,Fighting,,4,3,7,2,4,2,5,2,4,2,5,Steadfast,,Scrappy,,,,Amateur,
