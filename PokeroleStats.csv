@@ -522,7 +522,7 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #438,Bonsly,Rock,,3,2,5,1,2,3,6,1,2,2,4,Sturdy,Rock Head,Rattled,,Yes,,Starter,
 #439,Mime Jr.,Psychic,Fairy,3,1,3,2,4,2,4,2,5,2,5,Soundproof,Filter,Technician,,Yes,,Starter,
 #440,Happiny,Normal,,4,1,2,1,3,1,2,1,2,1,3,Natural Cure,Serene Grace,Friend Guard,,Yes,,Starter,F
-#441,Chatot,Normal,Flying,4,2,4,2,5,2,4,2,5,2,4,Keen Eye,Tangled Feet,Big Pecks,,,Yes,Amateur,
+#441,Chatot,Normal,Flying,4,2,4,2,5,2,4,2,5,2,4,Keen Eye,Tangled Feet,Big Pecks,,,,Amateur,
 #442,Spiritomb,Ghost,Dark,4,2,5,1,3,3,6,2,5,3,6,Pressure,,Infiltrator,,,Yes,Pro,
 #443,Gible,Dragon,Ground,3,2,5,1,3,2,4,1,3,2,4,Sand Veil,,Rough Skin,,Yes,,Amateur,
 #444,Gabite,Dragon,Ground,4,2,5,2,5,2,4,2,4,2,4,Sand Veil,,Rough Skin,,Yes,,Ace,
