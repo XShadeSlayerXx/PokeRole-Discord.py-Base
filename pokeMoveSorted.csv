@@ -282,7 +282,7 @@ Apple Acid,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Reduce the Foe's Sp. D
 Aromatherapy,grass,SUPPORT,0,,,INSIGHT,NATURE,User and Allies,"Cure User and Allies from Burn, Freeze, Paralysis, Poison, or Sleep.",The Pokemon releases medicinal scents and vapors to refresh the user and its allies.
 Branch Poke,grass,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,-,The Pokemon rudely starts poking its foe with a stick.
 Bullet Seed,grass,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Ranged. Successive Actions.,The Pokemon shoots seeds rapidly as if they were bullets.
-Cotton Guard,grass,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,Increase the User's Defense by 3.,The user covers itself in cotton puffs that severely reduce the impact of physical attacks.
+Cotton Guard,grass,SUPPORT,0,,,INSIGHT,CHANNEL,User,Increase the User's Defense by 3.,The user covers itself in cotton puffs that severely reduce the impact of physical attacks.
 Cotton Spore,grass,SUPPORT,0,,,INSIGHT,CHANNEL,Foe,Reduce foe's Dexterity by 2.,"The Pokemon covers the foe in cotton, disrupting its movement speed."
 Drum Beating,grass,PHYSICAL,3,STRENGTH,,DEXTERITY,PERFORM,Foe,Reduce the Foe's Dexterity,The Pokemon has a perfectly good drum and you'd think it would use it. But it doesn't. It uses it's foe.
 Energy Ball,grass,SPECIAL,3,SPECIAL,,DEXTERITY,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Sp. Defense.,The Pokemon gathers nature's energy in a ball and hurls it at the foe. Trees and bushes may be left opaque and sad.
