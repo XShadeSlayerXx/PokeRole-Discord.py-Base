@@ -159,7 +159,7 @@ Detect,fighting,SUPPORT,0,,,INSIGHT,ALERT,User,Priority. Shield Move. Reduce 3 D
 Double Kick,fighting,PHYSICAL,2,STRENGTH,,DEXTERITY,BRAWL,Foe,Double Action.,The user throws two powerful kicks.
 Drain Punch,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"Fist Based. The user restore HP equal to half the damage dealt, rounded down.","The Pokémon strikes with a powerful punch. Through contact, it absorbs some vital energy."
 Dynamic Punch,fighting,PHYSICAL,4,STRENGTH,,DEXTERITY,BRAWL,Foe,Fist Based. Confuse the foe. -3 Accuracy.,A punch that hits a small pressure point. It leavers the foe disoriented.
-Final Gambit,fighting,SPECIAL,0,,,WILL,ATHLETIC,Foe,Ignore the foe's Defenses. The user faints after dealing damage.,"The Pokémon puts its last strength into an all-or-nothing attack. After that, it faints."
+Final Gambit,fighting,SPECIAL,0,,,WILL,ATHLETIC,Foe,Roll Damage Dice equal to the Foe's remaining HP +4. Ignore the foe's Defenses. The user faints after dealing damage.,"The Pokémon puts its last strength into an all-or-nothing attack. After that, it faints."
 Flying Press,fighting,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,"When Dealing damage with this move, it counts as if this move was also Flying Type.",The user flies towards the foe from the sky in pure Lucha Libre style.
 Focus Blast,fighting,SPECIAL,5,SPECIAL,,SPECIAL,CHANNEL,Foe,Roll 1 Chance Dice to Reduce foe's Sp. Defense. -2 Accuracy.,The user concentrates and releases a blast of energy.
 Focus Punch,fighting,PHYSICAL,6,STRENGTH,,STRENGTH,BRAWL,Foe,Fist Based. Charge Move. The User will flinch if it gets hit before releasing this attack.,A brutal punch that requires calm and concentration
